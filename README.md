@@ -4,11 +4,20 @@ This repository contains the implementation of HMAG, the baselines, the experime
 raw measurements reported in the paper, and the scripts that compute every table
 and number from them.
 
+## Architecture
+
+![HMAG system architecture](figures/architecture.png)
+
+A query that repeats a cached question is answered from the three-tier answer cache. Otherwise
+the adaptive controller selects a retrieval strategy, the consistency verifier checks cached
+against freshly retrieved documents, and the LLM generates the answer, which enters the cache.
+
 ## Layout
 
 ```
 code/      implementation, baselines, experiment drivers, table and figure scripts, tests
 results/   raw per-query measurements (CSV) and the computed tables (results/tables)
+figures/   the figures of the paper as images
 ```
 
 ## Implementation
@@ -56,6 +65,50 @@ runs; the baselines were run with the same drivers and settings.
 
 Baseline rows of the main streams come from `v8` (same code, settings and timer); the `v9`
 files contain the HMAG runs and a copy of the baseline rows of the same stream.
+
+## Results
+
+The figures of the paper, computed from the measurements in `results/`.
+
+**Cache hit rates of the answer caches on the five workloads**
+
+![Cache hit rates](figures/hit_rates_workloads.png)
+
+**Time of the processing stages before generation (left) and of generation on a miss (right)**
+
+![Stage times](figures/stage_times.png)
+
+**Peak memory (left) and average GPU power (right)**
+
+![Memory and power](figures/memory_power.png)
+
+**Throughput (left) and p95 latency (right) under concurrent requests**
+
+![Concurrency](figures/concurrency.png)
+
+**Hyperparameter sensitivity**
+
+![Sensitivity](figures/sensitivity.png)
+
+**Cache hit rate (left) and latency (right) in each phase of the dynamic workload**
+
+![Dynamic workload](figures/dynamic_workload.png)
+
+**Latency (left) and quality (middle) against cache size, and cache hit rate against the Zipf exponent (right)**
+
+![Capacity and locality](figures/capacity_locality.png)
+
+**Strategy-selection frequency of the Thompson-sampling controller**
+
+![Strategy selection](figures/strategy_selection.png)
+
+**HMAG latency (left) and quality (right) at different sampling temperatures**
+
+![Sampling temperature](figures/sampling_temperature.png)
+
+**Mean cumulative regret of the Thompson-sampling controller**
+
+![Regret](figures/regret.png)
 
 ## Data and licenses
 
