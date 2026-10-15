@@ -1,0 +1,301 @@
+config,query,factual_consistency,answer_in_response,latency_ms
+Without verifier,When was the Duchy of Normandy founded?,0.0,True,217.2016579997944
+Without verifier,How many men were in Robert's army?,1.0,True,205.4528910002773
+Without verifier,In what year did the Norman's invade at Bannow Bay?,1.0,True,177.94945500008907
+Without verifier,What year did the storm hit Richard's fleet?,1.0,True,172.6821310003288
+Without verifier,By how many kilometers does the traveling salesman problem seek to classify a route between the 15 largest cities in Germany?,1.0,True,257.11210099962045
+Without verifier,In what year was Hatmanis and Stearn's seminal work in computational complexity received? ,1.0,True,233.18670200023917
+Without verifier,In what year did Raymond Sullivan publish a study of rudimentary sets?,0.0,True,205.91227800014167
+Without verifier,"How many combinatory and graph theoretical problems, formerly believed to be plagued by intractability, did Karp's paper address?",1.0,True,186.6257930005304
+Without verifier,How many megaregions are there in the United States?,0.0,True,193.02082899957895
+Without verifier,What is the lowest ranking one of the counties could have in terms of most populous counties in the United States?,1.0,True,189.8031170003378
+Without verifier,How many miles south of San Jose is the north - south midway point located?,0.0,True,187.6319279999734
+Without verifier,What was the percentage of people that voted in favor of the Pico Act of 1859?,0.0,False,300.87592499967286
+Without verifier,What is the high end of the temperature range in winter?,0.0,False,220.31840799991187
+Without verifier,How many earthquakes does southern California experience in a year?,1.0,True,216.6644400003861
+Without verifier,"Southern California had a population of 22,680,010 according to the census from which year?",1.0,True,174.49484999997367
+Without verifier,There are 34 cities in southern California that have a population exceeding what number?,1.0,True,195.6311049998476
+Without verifier,Which year resulted in the suspension of one of the two soccer teams?,1.0,True,206.60105900060444
+Without verifier,What year did BSkyB acquire Sky Italia?,0.0,True,220.58617400034564
+Without verifier,What year did BSkyB and Virgin Media have a dispute over the carriage of Sky Channels on cable TV?,1.0,True,243.72146299992892
+Without verifier,When is Sky going to introduce UHD broadcasts?,0.0,False,202.55704099963623
+Without verifier,When was Sky Digital launched?,1.0,True,167.0858830002544
+Without verifier,How many people were registered to receive the HD service prior to launch?,1.0,True,211.48626000012882
+Without verifier,What was the number of customers that the BBC  reported had yet to receive the service due to failed deliveries?,1.0,True,185.18581799980893
+Without verifier,What was the total number of homes Sky announced that had Sky+HD in March of 2012?,1.0,True,210.9654120004052
+Without verifier,Within the 30 days how many digiboxes had been sold?,1.0,True,200.27445799951238
+Without verifier,When was virgin media rebranded from NTL Telewest?,0.0,True,192.2081699995033
+Without verifier,How many Victorians are Buddhist?,1.0,True,220.2754370000548
+Without verifier,When was Victoria first settled?,1.0,True,217.15014100027474
+Without verifier,How many tonnes of tomatoes does Victoria produce?,0.0,True,195.03468400034762
+Without verifier,When was the heatwave in which Hopetoun recorded its highest temperature?,1.0,True,177.64446900037
+Without verifier,When has Toyota said it will close its Victoria plant?,0.0,True,193.90099800057214
+Without verifier,How many seats does Victoria have in the Australian House of Representatives?,1.0,True,174.5094819998485
+Without verifier,When was gold found near Ballarat?,1.0,True,195.20298399947933
+Without verifier,By August 2010 how many public schools did Victoria have?,1.0,True,193.09257799977786
+Without verifier,How many students were enrolled in public schools in Victoria?,,False,6.833483000264096
+Without verifier,How many full time teachers does Victoria have?,1.0,True,176.3567680000051
+Without verifier,What percentage of private school students go to Catholic schools?,1.0,True,172.9347640002743
+Without verifier,When was there a armed protest at Ballarat about mining taxes?,1.0,True,183.44406000051094
+Without verifier,How many farms are there in Victoria?,1.0,True,185.83094399946276
+Without verifier,When did this attempt take place?,1.0,False,176.6737779998948
+Without verifier,"An illustrated, paraphrased version of this appeared when?",0.0,True,182.41146499985916
+Without verifier,France laid siege to Montpellier in what year?,1.0,True,194.62421700063715
+Without verifier,When was this proclamation issued?,0.0,False,179.76114300017798
+Without verifier,The number of new Huguenot colonists declined after what year?,0.0,True,223.0662719994143
+Without verifier,When did Huguenots colonize in North America?,0.0,True,213.67995200034784
+Without verifier,When did the Huguenots secure the right to own land in the Baronies?,0.0,True,222.4609810000402
+Without verifier,When did France and the Dutch fight in the 17th century?,1.0,True,184.22996699973737
+Without verifier,When was this edict declared?,0.0,True,232.26783999962208
+Without verifier,How many Huguenots fled France by the 1700s?,1.0,True,233.20774100011477
+Without verifier,When was the French colony in modern day Brazil founded?,0.0,True,188.42386599953898
+Without verifier,In what year was Fort Coligny destroyed?,1.0,True,187.6353300003757
+Without verifier,When was the colony destroyed?,1.0,False,170.64569200010737
+Without verifier,How many settlers original settled in Manakintown?,0.0,False,197.0852920003381
+Without verifier,When was this naturalization act passed?,1.0,True,194.6672390004096
+Without verifier,In what year was the agreement to allow the Saarland settlement reached?,1.0,True,207.71230199989077
+Without verifier,When did this leader publish a French language Bible?,1.0,True,209.81615399978182
+Without verifier,When was amnesty granted to those responsible for the massacre?,1.0,True,176.13289699966117
+Without verifier,When was the charter for this church signed?,1.0,True,185.9819970004537
+Without verifier,When was the Old Truman Brewery founded?,1.0,True,195.25757700012036
+Without verifier,About what year was the atmospheric engine invented?,1.0,True,193.48125899978186
+Without verifier,In what year did Jerónimo de Ayanz y Beaumont patent a water pump for draining mines?,1.0,True,209.58211899960588
+Without verifier,What percentage of electrical power in the United States is made by steam turbines?,1.0,True,220.49649499967927
+Without verifier,At what degree are the pistons of a two-cylinder compound connected to the cranks?,1.0,True,240.84953700003098
+Without verifier,"In a 4-cylinder compound engine, what degree were the individual pistons balanced at?",1.0,True,178.77766099991277
+Without verifier,"What is the turbine entry temperature of a steam turbine, in degrees Celsius?",1.0,True,219.7916390005048
+Without verifier,What percentage of electricity was made by steam turbine in the 1990s?,,True,8.28959099999338
+Without verifier,What is the weight of a bushel of coal in pounds?,1.0,True,193.14113799919141
+Without verifier,What was the average duty of a low-pressure Watt engine?,0.0,True,203.61448599942378
+Without verifier,In what year was the first commercial steam powered device invented?,1.0,True,177.41791600019496
+Without verifier,In what year did Richard Trevithick patent his device?,0.0,True,162.58499400009896
+Without verifier,How many cylinders does the Energiprojekt AB engine have?,1.0,True,166.75744100029988
+Without verifier,About how many cubic meters of make-up water is used by a 700-megawatt coal-fired power plant for evaporative cooling hourly?,0.0,True,223.9314030002788
+Without verifier,After what year was compounding frequently used in marine engines?,1.0,True,240.40552799942816
+Without verifier,After what year did compounding cease to be used in Britain?,1.0,True,193.83997100067063
+Without verifier,In what year did Jerónimo de Ayanz y Beaumont receive a steam engine patent?,0.0,True,174.99250800028676
+Without verifier,In what year did Savery patent his steam pump?,1.0,True,166.05714599972998
+Without verifier,In what year did Newcomen's engine pump in a mine?,1.0,True,183.3962420005264
+Without verifier,When did Watt finish the development of his improvements to Newcomen's engine?,1.0,True,204.54794699980994
+Without verifier,In what year was HMS Dreadnought launched?,0.0,True,178.262194999661
+Without verifier,The atomic number of the periodic table for oxygen?,1.0,True,209.14734699999826
+Without verifier,John Mayow died in what year?,1.0,True,204.42888400066295
+Without verifier,When did Carl Wilhelm Scheele discover oxygen?,1.0,True,208.13502700002573
+Without verifier,In what year did Lavoisier publish his work on combustion?,1.0,True,179.85294800018892
+Without verifier,In what year did Dewar experiment on liquid oxygen?,1.0,True,172.35188899940113
+Without verifier,When was liquid oxygen developed for commercial use?,1.0,True,171.18758000015077
+Without verifier,When was the second oil crisis?,1.0,True,187.03359800019825
+Without verifier,Scholars stated that there was already an existing settlement between 2 parties prior to which date?,1.0,True,206.5619670001979
+Without verifier,When was the cabinet-level Energy Department created?,0.0,True,183.65764600002876
+Without verifier,By which year did Chrysler ended its full sized luxury model?,0.0,True,201.43749700037006
+Without verifier,In what years did Spain and Portugal join the European Union?,0.0,False,380.3587399997923
+Without verifier,When year was the Maastrich Treaty signed?,1.0,True,220.48842000003788
+Without verifier,When did the European Anti-Fraud Office investigate John Dalli?,1.0,True,230.04091599977983
+Without verifier,What are the total number of votes to be counted during the voting process?,1.0,True,191.2496069999179
+Without verifier,"Currently, how many votes out of the 352 total votes are needed for a majority?",1.0,False,206.97352400020463
+Without verifier,How many total judges are there in the EU?,0.0,True,191.88395200035302
+Without verifier,When did Costa v ENEL take place?,0.0,False,193.9956650003296
+Without verifier,During what year were citizens or corporations said to not be able to bring claims against other non state parties?,1.0,True,212.5363200002539
+Without verifier,When was the European Convention on Human Rights established?,1.0,True,186.09124199974758
+Without verifier,When did the European Council task an entity with drafting a European Charter of Human Rights?,1.0,True,189.31720299951849
+Without verifier,What year was the Treaty of Amsterdam created?,1.0,True,249.71598100000847
+NLI-based verifier,When was the Duchy of Normandy founded?,0.0,True,161.2104450005063
+NLI-based verifier,How many men were in Robert's army?,1.0,True,167.54065299937793
+NLI-based verifier,In what year did the Norman's invade at Bannow Bay?,1.0,True,163.67205399910745
+NLI-based verifier,What year did the storm hit Richard's fleet?,1.0,True,160.01384599985613
+NLI-based verifier,By how many kilometers does the traveling salesman problem seek to classify a route between the 15 largest cities in Germany?,1.0,True,194.25419100025465
+NLI-based verifier,In what year was Hatmanis and Stearn's seminal work in computational complexity received? ,1.0,True,176.93251199943916
+NLI-based verifier,In what year did Raymond Sullivan publish a study of rudimentary sets?,0.0,True,175.48841900043044
+NLI-based verifier,"How many combinatory and graph theoretical problems, formerly believed to be plagued by intractability, did Karp's paper address?",0.0,True,172.62199699962366
+NLI-based verifier,How many megaregions are there in the United States?,1.0,False,154.5038080002996
+NLI-based verifier,What is the lowest ranking one of the counties could have in terms of most populous counties in the United States?,0.0,True,160.9149879996039
+NLI-based verifier,How many miles south of San Jose is the north - south midway point located?,0.0,True,165.43986099986796
+NLI-based verifier,What was the percentage of people that voted in favor of the Pico Act of 1859?,0.0,False,156.39678499974252
+NLI-based verifier,What is the high end of the temperature range in winter?,0.0,False,183.94116400031635
+NLI-based verifier,How many earthquakes does southern California experience in a year?,1.0,True,177.26151700026094
+NLI-based verifier,"Southern California had a population of 22,680,010 according to the census from which year?",1.0,True,161.03661000033753
+NLI-based verifier,There are 34 cities in southern California that have a population exceeding what number?,1.0,True,196.37773700014804
+NLI-based verifier,Which year resulted in the suspension of one of the two soccer teams?,1.0,True,163.24905599958583
+NLI-based verifier,What year did BSkyB acquire Sky Italia?,0.0,True,169.43504400023812
+NLI-based verifier,What year did BSkyB and Virgin Media have a dispute over the carriage of Sky Channels on cable TV?,0.0,True,175.6177919996844
+NLI-based verifier,When is Sky going to introduce UHD broadcasts?,0.0,False,211.62725599970145
+NLI-based verifier,When was Sky Digital launched?,0.0,True,160.38323900011164
+NLI-based verifier,How many people were registered to receive the HD service prior to launch?,1.0,True,164.99585499968816
+NLI-based verifier,What was the number of customers that the BBC  reported had yet to receive the service due to failed deliveries?,1.0,True,172.20776000067417
+NLI-based verifier,What was the total number of homes Sky announced that had Sky+HD in March of 2012?,1.0,True,254.97166000059224
+NLI-based verifier,Within the 30 days how many digiboxes had been sold?,1.0,True,183.61491999985446
+NLI-based verifier,When was virgin media rebranded from NTL Telewest?,0.0,True,177.85290899973916
+NLI-based verifier,How many Victorians are Buddhist?,1.0,True,152.43764499973622
+NLI-based verifier,When was Victoria first settled?,1.0,True,176.23392099994817
+NLI-based verifier,How many tonnes of tomatoes does Victoria produce?,0.0,True,164.80501099977118
+NLI-based verifier,When was the heatwave in which Hopetoun recorded its highest temperature?,1.0,True,162.10970799966162
+NLI-based verifier,When has Toyota said it will close its Victoria plant?,0.0,True,162.8176189997248
+NLI-based verifier,How many seats does Victoria have in the Australian House of Representatives?,1.0,True,146.04734200020175
+NLI-based verifier,When was gold found near Ballarat?,1.0,True,309.8005520005245
+NLI-based verifier,By August 2010 how many public schools did Victoria have?,1.0,True,181.19810099960887
+NLI-based verifier,How many students were enrolled in public schools in Victoria?,,False,1.0186330000578891
+NLI-based verifier,How many full time teachers does Victoria have?,1.0,True,166.1671390002084
+NLI-based verifier,What percentage of private school students go to Catholic schools?,1.0,True,152.52965000036056
+NLI-based verifier,When was there a armed protest at Ballarat about mining taxes?,1.0,True,169.38906100040185
+NLI-based verifier,How many farms are there in Victoria?,1.0,True,174.40071999953943
+NLI-based verifier,When did this attempt take place?,0.0,False,182.99058900083764
+NLI-based verifier,"An illustrated, paraphrased version of this appeared when?",0.0,True,151.78958199976478
+NLI-based verifier,France laid siege to Montpellier in what year?,0.0,False,165.81173399936233
+NLI-based verifier,When was this proclamation issued?,0.0,False,226.1265369998
+NLI-based verifier,The number of new Huguenot colonists declined after what year?,0.0,False,193.13269900067098
+NLI-based verifier,When did Huguenots colonize in North America?,0.0,True,193.28725900049903
+NLI-based verifier,When did the Huguenots secure the right to own land in the Baronies?,0.0,True,195.57738299954508
+NLI-based verifier,When did France and the Dutch fight in the 17th century?,1.0,True,176.42520600020362
+NLI-based verifier,When was this edict declared?,0.0,False,176.08154800018383
+NLI-based verifier,How many Huguenots fled France by the 1700s?,1.0,False,220.64092100026755
+NLI-based verifier,When was the French colony in modern day Brazil founded?,0.0,True,189.98711800031742
+NLI-based verifier,In what year was Fort Coligny destroyed?,1.0,True,172.60157200053072
+NLI-based verifier,When was the colony destroyed?,1.0,False,186.12370299979375
+NLI-based verifier,How many settlers original settled in Manakintown?,0.0,False,292.00913600016065
+NLI-based verifier,When was this naturalization act passed?,1.0,True,177.5351000005685
+NLI-based verifier,In what year was the agreement to allow the Saarland settlement reached?,1.0,True,193.47579100030998
+NLI-based verifier,When did this leader publish a French language Bible?,1.0,True,191.68775199977972
+NLI-based verifier,When was amnesty granted to those responsible for the massacre?,1.0,True,165.28200300035678
+NLI-based verifier,When was the charter for this church signed?,1.0,True,170.49808699994173
+NLI-based verifier,When was the Old Truman Brewery founded?,1.0,True,163.08969499914383
+NLI-based verifier,About what year was the atmospheric engine invented?,1.0,True,173.40105299990682
+NLI-based verifier,In what year did Jerónimo de Ayanz y Beaumont patent a water pump for draining mines?,0.0,True,158.1893909997234
+NLI-based verifier,What percentage of electrical power in the United States is made by steam turbines?,1.0,True,162.251498999467
+NLI-based verifier,At what degree are the pistons of a two-cylinder compound connected to the cranks?,1.0,True,205.30199100085156
+NLI-based verifier,"In a 4-cylinder compound engine, what degree were the individual pistons balanced at?",1.0,True,167.67066699958377
+NLI-based verifier,"What is the turbine entry temperature of a steam turbine, in degrees Celsius?",1.0,True,193.67497199982608
+NLI-based verifier,What percentage of electricity was made by steam turbine in the 1990s?,,True,2.0160300000497955
+NLI-based verifier,What is the weight of a bushel of coal in pounds?,1.0,True,158.69324400046025
+NLI-based verifier,What was the average duty of a low-pressure Watt engine?,1.0,True,191.83719200009364
+NLI-based verifier,In what year was the first commercial steam powered device invented?,1.0,True,168.53671700027917
+NLI-based verifier,In what year did Richard Trevithick patent his device?,0.0,True,160.60206499969354
+NLI-based verifier,How many cylinders does the Energiprojekt AB engine have?,0.0,False,205.86487499986106
+NLI-based verifier,About how many cubic meters of make-up water is used by a 700-megawatt coal-fired power plant for evaporative cooling hourly?,0.0,True,185.93279699962295
+NLI-based verifier,After what year was compounding frequently used in marine engines?,1.0,True,187.84495499949116
+NLI-based verifier,After what year did compounding cease to be used in Britain?,1.0,True,187.5159889996212
+NLI-based verifier,In what year did Jerónimo de Ayanz y Beaumont receive a steam engine patent?,1.0,True,210.65634899969155
+NLI-based verifier,In what year did Savery patent his steam pump?,1.0,True,158.79309100000683
+NLI-based verifier,In what year did Newcomen's engine pump in a mine?,0.0,True,156.99924699947587
+NLI-based verifier,When did Watt finish the development of his improvements to Newcomen's engine?,1.0,True,190.85179100056848
+NLI-based verifier,In what year was HMS Dreadnought launched?,0.0,False,182.35265200019057
+NLI-based verifier,The atomic number of the periodic table for oxygen?,0.0,True,164.29925500051468
+NLI-based verifier,John Mayow died in what year?,1.0,True,168.6594109996804
+NLI-based verifier,When did Carl Wilhelm Scheele discover oxygen?,1.0,True,180.0991919999433
+NLI-based verifier,In what year did Lavoisier publish his work on combustion?,1.0,True,182.50672700014547
+NLI-based verifier,In what year did Dewar experiment on liquid oxygen?,1.0,True,224.10515200044756
+NLI-based verifier,When was liquid oxygen developed for commercial use?,1.0,True,157.67304499968304
+NLI-based verifier,When was the second oil crisis?,1.0,True,166.470266000033
+NLI-based verifier,Scholars stated that there was already an existing settlement between 2 parties prior to which date?,1.0,True,187.09401000069192
+NLI-based verifier,When was the cabinet-level Energy Department created?,0.0,True,163.8863059997675
+NLI-based verifier,By which year did Chrysler ended its full sized luxury model?,0.0,True,190.84505299997545
+NLI-based verifier,In what years did Spain and Portugal join the European Union?,0.0,False,204.8187529999268
+NLI-based verifier,When year was the Maastrich Treaty signed?,1.0,True,180.3663749997213
+NLI-based verifier,When did the European Anti-Fraud Office investigate John Dalli?,1.0,True,194.64472300023772
+NLI-based verifier,What are the total number of votes to be counted during the voting process?,1.0,True,150.74737399936566
+NLI-based verifier,"Currently, how many votes out of the 352 total votes are needed for a majority?",1.0,False,263.45933100037655
+NLI-based verifier,How many total judges are there in the EU?,1.0,True,178.96630299946992
+NLI-based verifier,When did Costa v ENEL take place?,0.0,False,200.8860010000717
+NLI-based verifier,During what year were citizens or corporations said to not be able to bring claims against other non state parties?,1.0,True,184.25190100060718
+NLI-based verifier,When was the European Convention on Human Rights established?,1.0,True,181.02736199944047
+NLI-based verifier,When did the European Council task an entity with drafting a European Charter of Human Rights?,1.0,True,188.1972279998081
+NLI-based verifier,What year was the Treaty of Amsterdam created?,1.0,True,186.11972500002594
+Full HMAG verifier,When was the Duchy of Normandy founded?,0.0,True,172.829510000156
+Full HMAG verifier,How many men were in Robert's army?,1.0,True,184.59386599988648
+Full HMAG verifier,In what year did the Norman's invade at Bannow Bay?,1.0,True,156.66318300009152
+Full HMAG verifier,What year did the storm hit Richard's fleet?,1.0,True,190.9461140003259
+Full HMAG verifier,By how many kilometers does the traveling salesman problem seek to classify a route between the 15 largest cities in Germany?,1.0,True,200.48023300023488
+Full HMAG verifier,In what year was Hatmanis and Stearn's seminal work in computational complexity received? ,1.0,True,177.79752600017673
+Full HMAG verifier,In what year did Raymond Sullivan publish a study of rudimentary sets?,0.0,True,169.38332600057038
+Full HMAG verifier,"How many combinatory and graph theoretical problems, formerly believed to be plagued by intractability, did Karp's paper address?",1.0,True,241.0451710002235
+Full HMAG verifier,How many megaregions are there in the United States?,1.0,False,151.87084399985906
+Full HMAG verifier,What is the lowest ranking one of the counties could have in terms of most populous counties in the United States?,0.0,False,153.68527299960988
+Full HMAG verifier,How many miles south of San Jose is the north - south midway point located?,1.0,True,173.69804499958263
+Full HMAG verifier,What was the percentage of people that voted in favor of the Pico Act of 1859?,0.0,True,150.71501999955217
+Full HMAG verifier,What is the high end of the temperature range in winter?,0.0,False,173.82797700065566
+Full HMAG verifier,How many earthquakes does southern California experience in a year?,1.0,True,174.4120869998369
+Full HMAG verifier,"Southern California had a population of 22,680,010 according to the census from which year?",1.0,True,156.4738999995825
+Full HMAG verifier,There are 34 cities in southern California that have a population exceeding what number?,1.0,True,189.3642839995664
+Full HMAG verifier,Which year resulted in the suspension of one of the two soccer teams?,1.0,True,161.79579800063948
+Full HMAG verifier,What year did BSkyB acquire Sky Italia?,0.0,True,177.3075940000126
+Full HMAG verifier,What year did BSkyB and Virgin Media have a dispute over the carriage of Sky Channels on cable TV?,0.0,True,177.51388099986798
+Full HMAG verifier,When is Sky going to introduce UHD broadcasts?,0.0,True,261.85292300033325
+Full HMAG verifier,When was Sky Digital launched?,0.0,True,161.390074999872
+Full HMAG verifier,How many people were registered to receive the HD service prior to launch?,1.0,True,176.83025600035762
+Full HMAG verifier,What was the number of customers that the BBC  reported had yet to receive the service due to failed deliveries?,1.0,True,170.16151300049387
+Full HMAG verifier,What was the total number of homes Sky announced that had Sky+HD in March of 2012?,1.0,True,302.03064599936624
+Full HMAG verifier,Within the 30 days how many digiboxes had been sold?,1.0,True,251.3470400008373
+Full HMAG verifier,When was virgin media rebranded from NTL Telewest?,0.0,True,185.54574199970375
+Full HMAG verifier,How many Victorians are Buddhist?,1.0,True,175.1271530001759
+Full HMAG verifier,When was Victoria first settled?,1.0,True,216.58760799982701
+Full HMAG verifier,How many tonnes of tomatoes does Victoria produce?,0.0,True,172.2018330001447
+Full HMAG verifier,When was the heatwave in which Hopetoun recorded its highest temperature?,1.0,True,280.9406289998151
+Full HMAG verifier,When has Toyota said it will close its Victoria plant?,0.0,True,170.81672299991624
+Full HMAG verifier,How many seats does Victoria have in the Australian House of Representatives?,1.0,True,149.6470419997422
+Full HMAG verifier,When was gold found near Ballarat?,1.0,True,181.71449300007225
+Full HMAG verifier,By August 2010 how many public schools did Victoria have?,1.0,True,173.41098799988686
+Full HMAG verifier,How many students were enrolled in public schools in Victoria?,,False,1.137132000621932
+Full HMAG verifier,How many full time teachers does Victoria have?,1.0,True,171.86107599991374
+Full HMAG verifier,What percentage of private school students go to Catholic schools?,1.0,True,172.36350199982553
+Full HMAG verifier,When was there a armed protest at Ballarat about mining taxes?,1.0,True,172.4787829998604
+Full HMAG verifier,How many farms are there in Victoria?,1.0,True,182.9419349996897
+Full HMAG verifier,When did this attempt take place?,1.0,False,152.98466199965333
+Full HMAG verifier,"An illustrated, paraphrased version of this appeared when?",1.0,True,166.80355400058033
+Full HMAG verifier,France laid siege to Montpellier in what year?,1.0,True,175.78404800042335
+Full HMAG verifier,When was this proclamation issued?,0.0,False,182.23425100040913
+Full HMAG verifier,The number of new Huguenot colonists declined after what year?,0.0,False,191.22123299985105
+Full HMAG verifier,When did Huguenots colonize in North America?,0.0,True,182.1706639993863
+Full HMAG verifier,When did the Huguenots secure the right to own land in the Baronies?,0.0,True,201.518949000274
+Full HMAG verifier,When did France and the Dutch fight in the 17th century?,1.0,True,167.22259200014378
+Full HMAG verifier,When was this edict declared?,1.0,False,225.31679599978816
+Full HMAG verifier,How many Huguenots fled France by the 1700s?,1.0,False,219.84866999991937
+Full HMAG verifier,When was the French colony in modern day Brazil founded?,0.0,True,179.03921800007083
+Full HMAG verifier,In what year was Fort Coligny destroyed?,1.0,True,164.79520199936815
+Full HMAG verifier,When was the colony destroyed?,1.0,True,176.9728129993382
+Full HMAG verifier,How many settlers original settled in Manakintown?,0.0,False,298.00267900009203
+Full HMAG verifier,When was this naturalization act passed?,1.0,True,166.97392400055833
+Full HMAG verifier,In what year was the agreement to allow the Saarland settlement reached?,1.0,True,192.99963400044362
+Full HMAG verifier,When did this leader publish a French language Bible?,1.0,True,190.0723389999257
+Full HMAG verifier,When was amnesty granted to those responsible for the massacre?,1.0,True,165.6864119995589
+Full HMAG verifier,When was the charter for this church signed?,1.0,True,177.64345300020068
+Full HMAG verifier,When was the Old Truman Brewery founded?,1.0,True,172.8739250002036
+Full HMAG verifier,About what year was the atmospheric engine invented?,1.0,True,171.30540299967834
+Full HMAG verifier,In what year did Jerónimo de Ayanz y Beaumont patent a water pump for draining mines?,0.0,True,164.58459900059097
+Full HMAG verifier,What percentage of electrical power in the United States is made by steam turbines?,0.0,False,165.6412629999977
+Full HMAG verifier,At what degree are the pistons of a two-cylinder compound connected to the cranks?,1.0,True,196.57003700012865
+Full HMAG verifier,"In a 4-cylinder compound engine, what degree were the individual pistons balanced at?",1.0,True,171.10224799944262
+Full HMAG verifier,"What is the turbine entry temperature of a steam turbine, in degrees Celsius?",1.0,True,188.98550199992314
+Full HMAG verifier,What percentage of electricity was made by steam turbine in the 1990s?,,False,1.770979000866646
+Full HMAG verifier,What is the weight of a bushel of coal in pounds?,1.0,True,163.8457680001011
+Full HMAG verifier,What was the average duty of a low-pressure Watt engine?,0.0,True,203.13515799989545
+Full HMAG verifier,In what year was the first commercial steam powered device invented?,1.0,True,185.291846999462
+Full HMAG verifier,In what year did Richard Trevithick patent his device?,0.0,True,164.20654600005946
+Full HMAG verifier,How many cylinders does the Energiprojekt AB engine have?,1.0,True,154.65478199985228
+Full HMAG verifier,About how many cubic meters of make-up water is used by a 700-megawatt coal-fired power plant for evaporative cooling hourly?,0.0,True,169.28321499926824
+Full HMAG verifier,After what year was compounding frequently used in marine engines?,1.0,True,191.50752000041393
+Full HMAG verifier,After what year did compounding cease to be used in Britain?,1.0,True,194.7943100003613
+Full HMAG verifier,In what year did Jerónimo de Ayanz y Beaumont receive a steam engine patent?,1.0,True,265.9132810003939
+Full HMAG verifier,In what year did Savery patent his steam pump?,1.0,True,168.3293260002756
+Full HMAG verifier,In what year did Newcomen's engine pump in a mine?,0.0,True,161.07697600000392
+Full HMAG verifier,When did Watt finish the development of his improvements to Newcomen's engine?,1.0,True,182.40724400038744
+Full HMAG verifier,In what year was HMS Dreadnought launched?,0.0,False,169.8808259998259
+Full HMAG verifier,The atomic number of the periodic table for oxygen?,0.0,True,157.97126899997238
+Full HMAG verifier,John Mayow died in what year?,1.0,True,181.09145099970192
+Full HMAG verifier,When did Carl Wilhelm Scheele discover oxygen?,1.0,True,181.14421500013123
+Full HMAG verifier,In what year did Lavoisier publish his work on combustion?,0.0,False,186.16001200007304
+Full HMAG verifier,In what year did Dewar experiment on liquid oxygen?,1.0,True,248.96317899947462
+Full HMAG verifier,When was liquid oxygen developed for commercial use?,1.0,True,155.75148300013097
+Full HMAG verifier,When was the second oil crisis?,1.0,True,180.27488999996422
+Full HMAG verifier,Scholars stated that there was already an existing settlement between 2 parties prior to which date?,1.0,True,194.42545599940786
+Full HMAG verifier,When was the cabinet-level Energy Department created?,0.0,True,163.55037599987554
+Full HMAG verifier,By which year did Chrysler ended its full sized luxury model?,0.0,True,198.9409980005803
+Full HMAG verifier,In what years did Spain and Portugal join the European Union?,0.0,False,481.8402840000999
+Full HMAG verifier,When year was the Maastrich Treaty signed?,1.0,True,190.74164099947666
+Full HMAG verifier,When did the European Anti-Fraud Office investigate John Dalli?,1.0,True,189.2000089992507
+Full HMAG verifier,What are the total number of votes to be counted during the voting process?,1.0,True,160.44036299990694
+Full HMAG verifier,"Currently, how many votes out of the 352 total votes are needed for a majority?",0.0,True,250.01732600048854
+Full HMAG verifier,How many total judges are there in the EU?,0.0,True,185.40840699915861
+Full HMAG verifier,When did Costa v ENEL take place?,0.0,False,189.56285300009768
+Full HMAG verifier,During what year were citizens or corporations said to not be able to bring claims against other non state parties?,1.0,True,202.4649800005136
+Full HMAG verifier,When was the European Convention on Human Rights established?,1.0,True,203.78895399971952
+Full HMAG verifier,When did the European Council task an entity with drafting a European Charter of Human Rights?,1.0,True,196.34490899989032
+Full HMAG verifier,What year was the Treaty of Amsterdam created?,1.0,True,194.59122400076012

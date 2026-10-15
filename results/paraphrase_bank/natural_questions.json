@@ -1,0 +1,3092 @@
+{
+ "dataset": "natural_questions",
+ "paraphraser": "llama3:latest",
+ "candidates": 800,
+ "kept": 454,
+ "bases": [
+  {
+   "query": "who plays the principal in santa clarita diet",
+   "answer": "Thomas Lennon",
+   "gold": [
+    "ddebeebb17cfcc59"
+   ],
+   "paraphrases": [
+    "Who portrays the main character in the Netflix show Santa Clarita Diet?"
+   ]
+  },
+  {
+   "query": "when did where are you now come out",
+   "answer": "February 27, 2015",
+   "gold": [
+    "d1e84e4f3049fd47"
+   ],
+   "paraphrases": [
+    "What is the release date of Where Are You Now?",
+    "Where Are You Now was first released on what date?"
+   ]
+  },
+  {
+   "query": "when was the last time villanova won the ncaa basketball championship",
+   "answer": "2018",
+   "gold": [
+    "d69cdf2cb08b519c"
+   ],
+   "paraphrases": [
+    "What year did Villanova most recently claim the NCAA men's basketball title?",
+    "When did Villanova secure its most recent NCAA Division I Men's Basketball Championship victory?",
+    "In what calendar year did Villanova capture its latest NCAA Men's Basketball National Championship?"
+   ]
+  },
+  {
+   "query": "where does the brain get its energy from",
+   "answer": "most of its energy from oxygen-dependent metabolism of glucose (i.e., blood sugar),[73] but ketones provide a major alternative source, together with contributions from medium chain fatty acids (caprylic[78] and heptanoic[79] acids), lactate,[80] acetate,[81] and possibly amino acids",
+   "gold": [
+    "1b52c09ad4500c8a"
+   ],
+   "paraphrases": [
+    "What is the primary source of fuel for the brain's metabolic needs?",
+    "How does the brain typically generate its energy supply?"
+   ]
+  },
+  {
+   "query": "where does the pulmonary trunk receive blood from",
+   "answer": "the heart",
+   "gold": [
+    "5e598b45d5a1725a"
+   ],
+   "paraphrases": [
+    "Where does the pulmonary trunk accept its blood supply from?",
+    "From which source does the pulmonary trunk obtain its blood?",
+    "What is the origin of the blood that enters the pulmonary trunk?"
+   ]
+  },
+  {
+   "query": "who does the voice of amy on futurama",
+   "answer": "Lauren Tom",
+   "gold": [
+    "33ac0aba28414dbf"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "when did hootie and the blowfish come out",
+   "answer": "1986",
+   "gold": [
+    "a82a570162f07b72"
+   ],
+   "paraphrases": [
+    "When was Hootie and the Blowfish first introduced to the music scene?"
+   ]
+  },
+  {
+   "query": "how many students does monarch high school have",
+   "answer": "2,406[1] (2014-15)",
+   "gold": [
+    "8b88e08e49dad1e9"
+   ],
+   "paraphrases": [
+    "What is the total number of students enrolled at Monarch High School?",
+    "How many students are part of the student body at Monarch High School?",
+    "Can you tell me the quantity of students that attend classes at Monarch High School?"
+   ]
+  },
+  {
+   "query": "what is a ring in the solar system",
+   "answer": "a disc or ring orbiting an astronomical object that is composed of solid material such as dust and moonlets, and is a common component of satellite systems around giant planets",
+   "gold": [
+    "15c7ef7cfdba2e32"
+   ],
+   "paraphrases": [
+    "What does it mean to have a ring in our solar system?"
+   ]
+  },
+  {
+   "query": "swan lake the sleeping beauty and the nutcracker are three famous ballets by",
+   "answer": "Pyotr Ilyich Tchaikovsky",
+   "gold": [
+    "a568f800e9c741ee"
+   ],
+   "paraphrases": [
+    "What are some notable examples of classical music incorporated into famous ballets, such as Swan Lake, The Sleeping Beauty, and The Nutcracker?"
+   ]
+  },
+  {
+   "query": "when did john hart play the lone ranger",
+   "answer": "from 1952 until 1953",
+   "gold": [
+    "d8a5a3d061d25359"
+   ],
+   "paraphrases": [
+    "What was John Hart's role in the Lone Ranger series?",
+    "When did actor John Hart take on the part of the Lone Ranger?",
+    "In what year did John Hart portray the iconic character of the Lone Ranger?"
+   ]
+  },
+  {
+   "query": "where is the protien made in the cell",
+   "answer": "in the cell nucleus",
+   "gold": [
+    "878c386dca750bbe"
+   ],
+   "paraphrases": [
+    "Where within the cell do proteins get synthesized?",
+    "Proteins are manufactured in which cellular location?"
+   ]
+  },
+  {
+   "query": "when does the next season of wynonna earp start",
+   "answer": "2018",
+   "gold": [
+    "e1f704cce90f8d1b"
+   ],
+   "paraphrases": [
+    "What are the expected premiere dates for Wynonna Earp's upcoming seasons?",
+    "When will the next installment of Wynonna Earp be released onto screens?",
+    "Can anyone provide information on the anticipated start date for Wynonna Earp's subsequent seasons?"
+   ]
+  },
+  {
+   "query": "when did france and belgium invade the ruhr",
+   "answer": "1923",
+   "gold": [
+    "fe15b132f76abc2c"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who is the highest paid baseball player in the major leagues",
+   "answer": "Clayton Kershaw",
+   "gold": [
+    "daa99f0003b23d93"
+   ],
+   "paraphrases": [
+    "Who holds the title as the highest-paid player in Major League Baseball?"
+   ]
+  },
+  {
+   "query": "how long is a prime minister term in uk",
+   "answer": "At Her Majesty's pleasure",
+   "gold": [
+    "a77b44ebafc20e93"
+   ],
+   "paraphrases": [
+    "What is the standard duration of a Prime Minister's tenure in the United Kingdom?",
+    "In the UK, what is the average length of time that a Prime Minister holds office?"
+   ]
+  },
+  {
+   "query": "who carried florida by 537 votes in 2000",
+   "answer": "George W. Bush",
+   "gold": [
+    "f44c57685bb892c2"
+   ],
+   "paraphrases": [
+    "What individual won Florida's electoral vote in a margin of just 537 votes during the year 2000?"
+   ]
+  },
+  {
+   "query": "how many jimmy johns are there in the us",
+   "answer": "more than 2,500",
+   "gold": [
+    "f091354b1f3b07aa"
+   ],
+   "paraphrases": [
+    "What is the total count of Jimmy John's locations operating within the United States?",
+    "Can you tell me the exact number of Jimmy John's franchises currently present in the US?"
+   ]
+  },
+  {
+   "query": "when did billy don't be a hero come out",
+   "answer": "1974",
+   "gold": [
+    "64f751a45129ceac"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who was ursula the sea witch based on",
+   "answer": "based on the sea witch character who appears in the fairy tale \"The Little Mermaid\" by Hans Christian Andersen",
+   "gold": [
+    "c4f2e911fbbc08d5"
+   ],
+   "paraphrases": [
+    "Ursula the Sea Witch, a character from Disney's The Little Mermaid, drew inspiration from?"
+   ]
+  },
+  {
+   "query": "pace maker is associated with which body organ",
+   "answer": "heart",
+   "gold": [
+    "00b4f616e60e07e1"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who did puerto rico belong to before the u.s",
+   "answer": "indigenous Ta\u00edno people",
+   "gold": [
+    "d450fe2177fbda7d"
+   ],
+   "paraphrases": [
+    "What was the territorial ownership of Puerto Rico prior to its acquisition by the United States?",
+    "Puerto Rico's sovereignty was held by whom before it became a U.S. territory?",
+    "Before the United States acquired Puerto Rico, which entity or individual held claim to its land?"
+   ]
+  },
+  {
+   "query": "how many medals did austria win in the 2011 alpine skiing world championships",
+   "answer": "8",
+   "gold": [
+    "36eee39398f89c6d"
+   ],
+   "paraphrases": [
+    "What is the total number of medals earned by Austria at the 2011 Alpine Skiing World Championships?",
+    "How many medals did Austria take home from the 2011 Alpine Skiing World Championships?",
+    "In what quantity did Austria secure medals during the 2011 Alpine Skiing World Championships?"
+   ]
+  },
+  {
+   "query": "when does elijah first appear in vampire diaries",
+   "answer": "\"Rose\"",
+   "gold": [
+    "70e89b86b23a4b1e"
+   ],
+   "paraphrases": [
+    "In which episode does Elijah first emerge as a character in The Vampire Diaries?",
+    "At what point in the series does Elijah Mikaelson first show up in The Vampire Diaries?"
+   ]
+  },
+  {
+   "query": "when did the us dollar leave the gold standard",
+   "answer": "1934",
+   "gold": [
+    "d393f2fbcc888e43"
+   ],
+   "paraphrases": [
+    "In what year did the US dollar stop being tied to the value of gold?"
+   ]
+  },
+  {
+   "query": "who is the largest supermarket chain in the uk",
+   "answer": "Tesco",
+   "gold": [
+    "59c4a6137cf20226"
+   ],
+   "paraphrases": [
+    "What is the biggest supermarket chain operating in the United Kingdom?"
+   ]
+  },
+  {
+   "query": "where do green tree frogs go during the day",
+   "answer": "cool, dark, and moist areas, such as tree holes or rock crevices",
+   "gold": [
+    "c10964530f09c7d2"
+   ],
+   "paraphrases": [
+    "What is the typical daytime habitat of green tree frogs?",
+    "Green tree frogs typically reside in which environment during daylight hours?",
+    "At what location do green tree frogs spend their diurnal periods?"
+   ]
+  },
+  {
+   "query": "where do the neutrons come from in nuclear fission",
+   "answer": "Startup neutron source",
+   "gold": [
+    "fec877e5f9214d05"
+   ],
+   "paraphrases": [
+    "What is the origin of the neutrons produced during nuclear fission processes?",
+    "From which source do the neutrons emerge in a nuclear fission reaction?",
+    "How do neutrons arise or originate in the context of nuclear fission events?"
+   ]
+  },
+  {
+   "query": "who won the icc under 19 world cup 2018",
+   "answer": "India",
+   "gold": [
+    "df552263d24a3e01"
+   ],
+   "paraphrases": [
+    "What team emerged victorious in the ICC Under 19 World Cup held in 2018?",
+    "The country that claimed the title at the ICC Under 19 World Cup in 2018 was which one?",
+    "At what team did the ICC Under 19 World Cup trophy go to in 2018?"
+   ]
+  },
+  {
+   "query": "what is the thickness of earth's inner core",
+   "answer": "about 1,220 kilometres (760 miles)",
+   "gold": [
+    "84327541e434720c"
+   ],
+   "paraphrases": [
+    "What is the extent of the Earth's inner core in terms of its thickness?",
+    "How thick is the innermost layer of the planet?"
+   ]
+  },
+  {
+   "query": "where was thomas and the magic railroad filmed",
+   "answer": "Strasburg Rail Road in Strasburg, Pennsylvania (United States)",
+   "gold": [
+    "09eb7fdbc26d4d50"
+   ],
+   "paraphrases": [
+    "What location served as the backdrop for filming Thomas & The Magic Railroad?",
+    "Where did they shoot the scenes for Thomas & The Magic Railway movie?"
+   ]
+  },
+  {
+   "query": "why do you use a clock in chess",
+   "answer": "to keep track of the total time each player takes for his or her own moves, and ensure that neither player overly delays the game",
+   "gold": [
+    "bd1a05331744a464"
+   ],
+   "paraphrases": [
+    "What is the purpose of employing a clock mechanism in chess games?"
+   ]
+  },
+  {
+   "query": "where are the washington redskins based out of",
+   "answer": "the Washington metropolitan area",
+   "gold": [
+    "bc300d223af006ea"
+   ],
+   "paraphrases": [
+    "What city is home to the Washington Redskins?",
+    "The Washington Redskins are located in which metropolitan area?",
+    "In what city does the NFL team known as the Washington Redskins call their home?"
+   ]
+  },
+  {
+   "query": "who sang the them song for as told by ginger",
+   "answer": "Macy Gray",
+   "gold": [
+    "a7c47e28e099e712"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who did the broncos beat in the super bowl",
+   "answer": "Green Bay Packers",
+   "gold": [
+    "e1c1b17c7aba5160"
+   ],
+   "paraphrases": [
+    "What team did the Denver Broncos defeat to win the Super Bowl?",
+    "In what Super Bowl did the Denver Broncos secure a win over their opponent?"
+   ]
+  },
+  {
+   "query": "chandra and bhaga river meets at the place",
+   "answer": "Tandi, in Lahaul",
+   "gold": [
+    "12e46bdb6cc685d2"
+   ],
+   "paraphrases": [
+    "Chandra River and Bhaga River converge where?",
+    "At what point do Chandra River and Bhaga River intersect?"
+   ]
+  },
+  {
+   "query": "what is the center of heredity in a cell",
+   "answer": "nucleus",
+   "gold": [
+    "bfac745ce3b29187"
+   ],
+   "paraphrases": [
+    "What constitutes the core site for hereditary transmission within a cell?",
+    "In a cellular context, what serves as the primary hub for the propagation of genetic traits?"
+   ]
+  },
+  {
+   "query": "who played the reverend mother in sound of music",
+   "answer": "Mary Margaret \"Peggy\" Wood",
+   "gold": [
+    "2bbfc1f36ea73369"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "role of malonyl coa in fatty acid synthesis",
+   "answer": "chain elongation",
+   "gold": [
+    "63750db774f659dc"
+   ],
+   "paraphrases": [
+    "What is the function of malonyl CoA in the process of fatty acid biosynthesis?"
+   ]
+  },
+  {
+   "query": "where does the term pop music come from",
+   "answer": "\"originated in Britain in the mid-1950s as a description for rock and roll",
+   "gold": [
+    "32179a0b2a7f387e"
+   ],
+   "paraphrases": [
+    "What is the origin of the phrase \"pop music\"?",
+    "From what roots does the label \"pop music\" derive?"
+   ]
+  },
+  {
+   "query": "what is the definition of the name thomas",
+   "answer": "twin",
+   "gold": [
+    "55cd50f3e1eff9df"
+   ],
+   "paraphrases": [
+    "What does the name Thomas literally mean?",
+    "What is the etymological significance of the surname Thomas?"
+   ]
+  },
+  {
+   "query": "who was the captain of the mayflower when it took the pilgrims to the new world",
+   "answer": "Christopher Jones",
+   "gold": [
+    "636262387a18e412"
+   ],
+   "paraphrases": [
+    "Was the commander of the Mayflower the same person who oversaw the Pilgrims' crossing to the New World?"
+   ]
+  },
+  {
+   "query": "where does the journey start in the canterbury tales",
+   "answer": "London",
+   "gold": [
+    "ace685149ac5ca42"
+   ],
+   "paraphrases": [
+    "Where do pilgrims set out from in The Canterbury Tales?"
+   ]
+  },
+  {
+   "query": "where does the chinatown bus stop in nyc",
+   "answer": "Forsyth Street at the foot of the Manhattan Bridge in the Little Fuzhou neighborhood within Manhattan's Chinatown",
+   "gold": [
+    "dffdde07fc915eb3"
+   ],
+   "paraphrases": [
+    "What is the location of the Chinatown Bus's terminal in New York City?",
+    "Where does the Chinatown Bus arrive at in New York City?"
+   ]
+  },
+  {
+   "query": "where are the giant redwoods located in california",
+   "answer": "Humboldt County",
+   "gold": [
+    "c96079ff26fb0ae8"
+   ],
+   "paraphrases": [
+    "What are the locations in California where you can find giant redwoods?",
+    "In which parts of California do giant redwood trees exist?"
+   ]
+  },
+  {
+   "query": "who wrote the song city of new orleans",
+   "answer": "Steve Goodman",
+   "gold": [
+    "653837418a570298"
+   ],
+   "paraphrases": [
+    "What is the name of the songwriter behind the iconic tune \"City of New Orleans\"?"
+   ]
+  },
+  {
+   "query": "who was the book of philippians written to",
+   "answer": "to the church at Philippi, one of the earliest churches to be founded in Europe",
+   "gold": [
+    "ae101e090405bb3e"
+   ],
+   "paraphrases": [
+    "To whom was the Epistle to the Philippians directed?"
+   ]
+  },
+  {
+   "query": "when did the royal mint move to wales",
+   "answer": "the 1960s",
+   "gold": [
+    "1cc0d1ab139b2a8d"
+   ],
+   "paraphrases": [
+    "The Royal Mint relocated its operations to Wales at what point in history?",
+    "What was the specific date or time period when the Royal Mint migrated to Wales?",
+    "In which year did the Royal Mint make the transition to a Welsh location?"
+   ]
+  },
+  {
+   "query": "who plays peter in what we do in the shadows",
+   "answer": "Ben Fransham",
+   "gold": [
+    "1d2a55fe0255339e"
+   ],
+   "paraphrases": [
+    "What actor portrays Peter in What We Do in the Shadows?"
+   ]
+  },
+  {
+   "query": "what channel is big 10 network on fios",
+   "answer": "85 (SD)",
+   "gold": [
+    "5f6d484e90aff990"
+   ],
+   "paraphrases": [
+    "What is the cable channel that airs Big Ten Network programming on FiOS?",
+    "Can you tell me which TV channel carries Big Ten Network content on my Verizon FiOS system?",
+    "On the Verizon FiOS platform, which television channel broadcasts Big Ten Network events and programs?"
+   ]
+  },
+  {
+   "query": "who had a baby at 100 in the bible",
+   "answer": "Abraham",
+   "gold": [
+    "6e55595b9851b24f"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "when did the astros change from the national league to the american league",
+   "answer": "2013",
+   "gold": [
+    "b17d2f9d9ad61b1d"
+   ],
+   "paraphrases": [
+    "The Houston Astros transitioned from the National League to the American League at what point in time?",
+    "At what specific moment did the Astros shift from the National League to the American League?",
+    "Exactly when did the Astros undergo the change from the National League to the American League?"
+   ]
+  },
+  {
+   "query": "who plays the lion in the movie zookeeper",
+   "answer": "Sylvester Stallone",
+   "gold": [
+    "64679e2081fd4314"
+   ],
+   "paraphrases": [
+    "Who is the actor that portrays the lion in the movie Zookeeper?"
+   ]
+  },
+  {
+   "query": "yeh hai mohabbatein serial star cast real name",
+   "answer": "Divyanka Tripathi and Karan Patel",
+   "gold": [
+    "3fc9be1f288e7189"
+   ],
+   "paraphrases": [
+    "What is the real name of the star cast from Yeh Hai Mohabbatein serial?",
+    "The real identities of which celebrities appear on-screen as part of the cast of Yeh Hai Mohabbatein?"
+   ]
+  },
+  {
+   "query": "the very last episode of that's so raven",
+   "answer": "Where There's Smoke",
+   "gold": [
+    "b1d3ecb20b3e94c7"
+   ],
+   "paraphrases": [
+    "The concluding episode in the series That's So Raven?",
+    "Can you identify the most recent and final episode from the popular TV show That's So Raven?"
+   ]
+  },
+  {
+   "query": "where is avon park florida on the map",
+   "answer": "in northwestern Highlands County at 27\u00b035\u203240\u2033N 81\u00b030\u203212\u2033W\ufeff / \ufeff27.59444\u00b0N 81.50333\u00b0W\ufeff / 27.59444; -81.50333 (27.594418, -81.503437)",
+   "gold": [
+    "49ea49e0710d22fb"
+   ],
+   "paraphrases": [
+    "What is the location of Avon Park, Florida on a geographic map?",
+    "Can you find Avon Park, Florida on a typical map?",
+    "Where exactly is Avon Park, Florida situated in relation to other places on the globe?"
+   ]
+  },
+  {
+   "query": "which us ship was captured off the coast of massachusetts by the british",
+   "answer": "USS Chesapeake",
+   "gold": [
+    "f4e211ea4bda532f"
+   ],
+   "paraphrases": [
+    "What American vessel was seized by the British Navy near Massachusetts' coastline?"
+   ]
+  },
+  {
+   "query": "where did remember the titans camp take place",
+   "answer": "Gettysburg College",
+   "gold": [
+    "e08cb05b433a6a71"
+   ],
+   "paraphrases": [
+    "The Remember the Titans team went to which location for their summer camp?"
+   ]
+  },
+  {
+   "query": "who won the most stanley cups in history",
+   "answer": "Montreal Canadiens",
+   "gold": [
+    "56b10ad6fa8164b1"
+   ],
+   "paraphrases": [
+    "What team has accumulated the most Stanley Cup championships throughout its history?",
+    "Which NHL club holds the record for the greatest number of Stanley Cup titles earned?",
+    "Who possesses the distinction of winning the most Stanley Cups since the trophy's inception?"
+   ]
+  },
+  {
+   "query": "what is the spelling of lakh in english",
+   "answer": "lakh",
+   "gold": [
+    "238f4aef34f3d5ab"
+   ],
+   "paraphrases": [
+    "How do you spell the term \"lakh\" in the English language?",
+    "In English, how would you write the word \"lakh\"?"
+   ]
+  },
+  {
+   "query": "where is the national championship for college football played",
+   "answer": "Mercedes-Benz Stadium in Atlanta, Georgia on January 8, 2018",
+   "gold": [
+    "aa3f194af51dd446"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "how tall was the tsunami that hit japan",
+   "answer": "up to 40.5 metres (133 ft)",
+   "gold": [
+    "4197ef5b2b59634c"
+   ],
+   "paraphrases": [
+    "What was the height of the tsunami that affected Japan?"
+   ]
+  },
+  {
+   "query": "who sings god gave rock and roll to you",
+   "answer": "Petra",
+   "gold": [
+    "d4d69b5e9bf3b1f3"
+   ],
+   "paraphrases": [
+    "Which musician is known for singing \"God Gave Rock and Roll to You\"?"
+   ]
+  },
+  {
+   "query": "what is the advantage of enclosing dna material in the nucleus",
+   "answer": "a site for genetic transcription that is segregated from the location of translation in the cytoplasm, allowing levels of gene regulation that are not available to prokaryotes",
+   "gold": [
+    "b8933cd80549a101"
+   ],
+   "paraphrases": [
+    "What benefits arise from confining genetic material within the nuclear compartment?",
+    "How does the encapsulation of DNA within the nucleus provide an advantage to the cell?",
+    "In what ways does the enclosure of DNA within the nucleus contribute to its effective functioning?"
+   ]
+  },
+  {
+   "query": "where was the louisiana purchase signed in 1803",
+   "answer": "Paris",
+   "gold": [
+    "4a8e0233f727ce6d"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "isdn uses b & d channels. what is d channel use for",
+   "answer": "control and signaling information",
+   "gold": [
+    "9ae80bab25a685c6"
+   ],
+   "paraphrases": [
+    "Is ISDN's primary function dependent on its B and D channels? What is the purpose of the D channel in an ISDN setup?",
+    "How do ISDN's B and D channels contribute to its overall functionality, and specifically, what role does the D channel play?"
+   ]
+  },
+  {
+   "query": "latest series of keeping up with the kardashians",
+   "answer": "14",
+   "gold": [
+    "e26b5a731c7887e2"
+   ],
+   "paraphrases": [
+    "What is the most recent season or installment of Keeping Up with the Kardashians?",
+    "The current run of episodes from The Kardashian-Jenner Family's reality show, what is it called?"
+   ]
+  },
+  {
+   "query": "who is the first president to be impeached",
+   "answer": "Johnson",
+   "gold": [
+    "ef38788350feb3d9"
+   ],
+   "paraphrases": [
+    "What was the name of the first U.S. President to face impeachment proceedings?",
+    "Which president holds the distinction of being the very first to have impeachment charges brought against him?"
+   ]
+  },
+  {
+   "query": "islamic term for the community of the faithful",
+   "answer": "ummat al-Islamiyah",
+   "gold": [
+    "3389b302146e1ff8"
+   ],
+   "paraphrases": [
+    "What is the Islamic name for those who profess a common faith?",
+    "In Islam, what do they call those united by their devotion?"
+   ]
+  },
+  {
+   "query": "when did the age of new media began",
+   "answer": "the 1980s",
+   "gold": [
+    "3fee88326e736df7"
+   ],
+   "paraphrases": [
+    "What is the origin date of the Age of New Media?",
+    "When was the Age of New Media first initiated?",
+    "At what point in time did the era of New Media commence?"
+   ]
+  },
+  {
+   "query": "who said that religion is the opiate of the masses",
+   "answer": "German philosopher and economist Karl Marx",
+   "gold": [
+    "7917444e99c66588"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "where is the suez canal located on a map",
+   "answer": "Egypt",
+   "gold": [
+    "3210d6299c573dc6"
+   ],
+   "paraphrases": [
+    "Where can you find the Suez Canal marked on a typical world map?",
+    "The Suez Canal's location can be identified on which part of a geographical chart?",
+    "On what specific area of a cartographic representation does the Suez Canal appear?"
+   ]
+  },
+  {
+   "query": "who has been ranked no. 1 in the latest football rankings announced by fifa",
+   "answer": "Germany",
+   "gold": [
+    "09d7517e2fc9774c"
+   ],
+   "paraphrases": [
+    "Who holds the top spot in the current FIFA football rankings?"
+   ]
+  },
+  {
+   "query": "when did the military plane crash in mississippi",
+   "answer": "around 4 P.M.[1][2] on Monday, July 10, 2017",
+   "gold": [
+    "c52e61334583f870"
+   ],
+   "paraphrases": [
+    "What was the date of the military aircraft incident that occurred in Mississippi?",
+    "When did a military plane experience an accident in the state of Mississippi?"
+   ]
+  },
+  {
+   "query": "when did the first ninja turtles come out",
+   "answer": "1984",
+   "gold": [
+    "570bfd24a183e271"
+   ],
+   "paraphrases": [
+    "What was the release date of the initial Teenage Mutant Ninja Turtles characters?",
+    "When were the original Ninja Turtles introduced to the public?",
+    "At what point in time did the inaugural Teenage Mutant Ninja Turtles storylines emerge?"
+   ]
+  },
+  {
+   "query": "who wrote the song after you've gone",
+   "answer": "composed by Turner Layton",
+   "gold": [
+    "12a8dd8a4e8659a5"
+   ],
+   "paraphrases": [
+    "What artist penned the tune \"After You've Gone\"?"
+   ]
+  },
+  {
+   "query": "who sang the theme song to step by step",
+   "answer": "Jesse Frederick James Conaway",
+   "gold": [
+    "5a562abb262b2ccd"
+   ],
+   "paraphrases": [
+    "Who performed the theme song for the TV show Step By Step?"
+   ]
+  },
+  {
+   "query": "who sang heard it thru the grapevine first",
+   "answer": "The Miracles",
+   "gold": [
+    "00b5e12cd38b8af9"
+   ],
+   "paraphrases": [
+    "Which musician sang \"Heard It Through the Grapevine\" for the very first time?"
+   ]
+  },
+  {
+   "query": "when does season 6 of the next step start",
+   "answer": "2018",
+   "gold": [
+    "c33cec756fc7634c"
+   ],
+   "paraphrases": [
+    "When will the new episodes of The Next Step premiere in Season 6?",
+    "At what point can fans expect the sixth season of The Next Step to kick off?"
+   ]
+  },
+  {
+   "query": "sending money home to the native country is an example of",
+   "answer": "remittance",
+   "gold": [
+    "5c3f0cf784148687"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who said what we got here is failure to communicate",
+   "answer": "Strother Martin (as the Captain, a prison warden)",
+   "gold": [
+    "b6145e1486c96d29"
+   ],
+   "paraphrases": [
+    "It was which notable individual who exclaimed, \"Well, we've got a failure to communicate\"?"
+   ]
+  },
+  {
+   "query": "what was the alliance between great britian russia and france known as",
+   "answer": "The Triple Entente",
+   "gold": [
+    "a520be29b843312e"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who is mowgli's main enemy in the jungle book",
+   "answer": "Shere Khan",
+   "gold": [
+    "034eb9a02bc52714"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what happened to germany's leader after ww1",
+   "answer": "he lost the support of the army, abdicated in November 1918, and fled to exile in the Netherlands",
+   "gold": [
+    "08087de45648f0b3"
+   ],
+   "paraphrases": [
+    "What was the fate of Germany's head of state following the First World War?",
+    "After the end of the First World War, what became of Germany's chief executive?",
+    "Did Germany's leader survive the aftermath of World War I?"
+   ]
+  },
+  {
+   "query": "what is the value of the currency in paraguay",
+   "answer": "126 PYG to 1 USD",
+   "gold": [
+    "afe278a90942f91d"
+   ],
+   "paraphrases": [
+    "What is the official monetary unit used in Paraguay?",
+    "In Paraguay, what denomination serves as the basic unit of money?"
+   ]
+  },
+  {
+   "query": "what mlb teams did deion sanders play for",
+   "answer": "New York Yankees (1989\u20131990)",
+   "gold": [
+    "b2185eebaddee1c2"
+   ],
+   "paraphrases": [
+    "What professional baseball teams did Deion Sanders play for in his MLB career?",
+    "Which Major League Baseball teams did Deion Sanders represent during his playing days?",
+    "At which MLB teams did Deion Sanders take the field during his time as a professional baseball player?"
+   ]
+  },
+  {
+   "query": "do you cut cards to the left or right",
+   "answer": "right",
+   "gold": [
+    "dd60501723155b9c"
+   ],
+   "paraphrases": [
+    "In your procedure, do you cut cards towards the left or the right?"
+   ]
+  },
+  {
+   "query": "suburbanization of more developed countries is mostly due to",
+   "answer": "Many residents of metropolitan regions work within the central urban area, and choose to live in satellite communities called suburbs and commute to work",
+   "gold": [
+    "26fd8fab4bbc25d5"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who sang the superbowl national anthem in 2017",
+   "answer": "Luke Bryan",
+   "gold": [
+    "00df29d6466d4dd7"
+   ],
+   "paraphrases": [
+    "What artist performed the Super Bowl national anthem in 2017?"
+   ]
+  },
+  {
+   "query": "who played cruella de vil in 101 dalmatians",
+   "answer": "Glenn Close",
+   "gold": [
+    "c1d1da8f37119d0c"
+   ],
+   "paraphrases": [
+    "Who portrayed Cruella de Vil in the film adaptation of \"101 Dalmatians\"?"
+   ]
+  },
+  {
+   "query": "where was the summer olympics held in 2012",
+   "answer": "London",
+   "gold": [
+    "d0fcfa1be9b49df8"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who did dwight howard play for last year",
+   "answer": "Atlanta Hawks",
+   "gold": [
+    "b5911bc7bee777db"
+   ],
+   "paraphrases": [
+    "What teams was Dwight Howard a part of in the most recent season?",
+    "In what professional basketball organization did Dwight Howard participate throughout the latest campaign?"
+   ]
+  },
+  {
+   "query": "who is rose in the fall season 2",
+   "answer": "a woman who had a sexual relationship with Paul whilst at university",
+   "gold": [
+    "366789f6e09a727b"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what is the meaning of the name gomez",
+   "answer": "man",
+   "gold": [
+    "02580e186240c770"
+   ],
+   "paraphrases": [
+    "What does the name Gomez mean?",
+    "The significance of the surname Gomez - what is it?",
+    "What is the essence or connotation behind the last name Gomez?"
+   ]
+  },
+  {
+   "query": "who plays cesar in the show on my block",
+   "answer": "Diego Tinoco",
+   "gold": [
+    "aa2027b81d05ab78"
+   ],
+   "paraphrases": [
+    "What actor portrays Cesar in the TV series On My Block?",
+    "Who is the actor that takes on the role of Cesar in On My Block's cast?"
+   ]
+  },
+  {
+   "query": "where did the methodist church get its name",
+   "answer": "because of the way they used \"rule\" and \"method\" to go about their religious affairs",
+   "gold": [
+    "7c50e48b7d11f686"
+   ],
+   "paraphrases": [
+    "What is the origin of the name \"Methodist\" in reference to the Methodist Church?",
+    "From what historical roots does the denomination \"Methodist\" derive its title?",
+    "How did the Methodist Church come by its moniker?"
+   ]
+  },
+  {
+   "query": "when did clifford the big red dog first air on tv",
+   "answer": "September 4, 2000",
+   "gold": [
+    "c38c2c686f37156c"
+   ],
+   "paraphrases": [
+    "What was the debut date for Clifford the Big Red Dog on television?",
+    "At what time did Clifford the Big Red Dog initially appear on TV?",
+    "When did Clifford the Big Red Dog make its television premiere?"
+   ]
+  },
+  {
+   "query": "what is the longest pier in the uk",
+   "answer": "Southend Pier",
+   "gold": [
+    "f21f25b27acaf893"
+   ],
+   "paraphrases": [
+    "What length does the UK's longest pier extend to?",
+    "Can you tell me the measurement of the longest pier situated within the United Kingdom?",
+    "Which British pier boasts the longest structural span?"
+   ]
+  },
+  {
+   "query": "where does safe haven take place in the book",
+   "answer": "Southport, North Carolina",
+   "gold": [
+    "c9e2b6105f5fcf35"
+   ],
+   "paraphrases": [
+    "At what geographical location does the narrative of Safe Haven take place?"
+   ]
+  },
+  {
+   "query": "branch of science that deals with the structure of human body parts",
+   "answer": "Anatomy",
+   "gold": [
+    "67605fd43e454044"
+   ],
+   "paraphrases": [
+    "What area of scientific inquiry examines the internal structure and arrangement of human body organs?"
+   ]
+  },
+  {
+   "query": "what is the function of the notwithstanding clause in the canadian constitution",
+   "answer": "allows Parliament or provincial legislatures to override certain portions of the Charter",
+   "gold": [
+    "977e7c635a599286"
+   ],
+   "paraphrases": [
+    "What role does the notwithstanding clause play in the Canadian Constitution?",
+    "How does the notwithstanding clause operate within the framework of Canada's constitutional document?",
+    "In what way does the notwithstanding clause impact the overall structure and application of the Canadian Constitution?"
+   ]
+  },
+  {
+   "query": "when was the last time lebron scored 50 points",
+   "answer": "November 3, 2017",
+   "gold": [
+    "bea4cedeb44b8294"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "when did the passion of the christ come out",
+   "answer": "2004",
+   "gold": [
+    "5c1c31e6bc5af23b"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who played solomon in little house on the prairie",
+   "answer": "Todd Bridges",
+   "gold": [
+    "82acc663e175d310"
+   ],
+   "paraphrases": [
+    "In the classic television show Little House on the Prairie, which actor essayed the role of Solomon?"
+   ]
+  },
+  {
+   "query": "who is super bowl 2018 half time show",
+   "answer": "Justin Timberlake was the featured performer",
+   "gold": [
+    "c5cc1a5dc15584f5"
+   ],
+   "paraphrases": [
+    "The Super Bowl 2018 halftime show was performed by which artist?"
+   ]
+  },
+  {
+   "query": "nobel laureate who began career as accountant in calcutta",
+   "answer": "Amartya Sen",
+   "gold": [
+    "2fce03e90d327688"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who played shmuel in the boy in the striped pyjamas",
+   "answer": "Jack Scanlon",
+   "gold": [
+    "0acf9f48a5da912d"
+   ],
+   "paraphrases": [
+    "What actor portrayed Shmuel in The Boy in the Striped Pajamas?"
+   ]
+  },
+  {
+   "query": "which state is the richest state in nigeria",
+   "answer": "Lagos State",
+   "gold": [
+    "41be4db50f5ddafe"
+   ],
+   "paraphrases": [
+    "Which Nigerian state boasts the highest level of economic wealth?",
+    "Is there a state in Nigeria that can be considered the wealthiest?",
+    "What is the Nigerian state that stands out as having the greatest amount of riches?"
+   ]
+  },
+  {
+   "query": "what was the code name of the us program to develop an atomic bomb",
+   "answer": "The Manhattan Project",
+   "gold": [
+    "4d127dfa817dc6a7"
+   ],
+   "paraphrases": [
+    "What was the codename given to the US government's project aimed at creating an atomic bomb?",
+    "The US government gave a specific codename to its project focused on developing an atomic bomb; what was it?",
+    "Under what codename did the US conduct its secret development of an atomic bomb?"
+   ]
+  },
+  {
+   "query": "who played santa in the santa clause movies",
+   "answer": "Tim Allen",
+   "gold": [
+    "fb4ffa47619bd52e"
+   ],
+   "paraphrases": [
+    "What actor portrayed Santa Claus in the \"Santa Clause\" film series?"
+   ]
+  },
+  {
+   "query": "where was because i could not stop for death published",
+   "answer": "Poems: Series 1",
+   "gold": [
+    "03c89a94e6332ba2"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who is the actor that plays dr. sean murphy",
+   "answer": "Freddie Highmore",
+   "gold": [
+    "f5f8193a72a24a09"
+   ],
+   "paraphrases": [
+    "What actor portrays Dr. Sean Murphy?",
+    "Who does the role of Dr. Sean Murphy belong to in the movie?",
+    "In the film, which actor takes on the part of Dr. Sean Murphy?"
+   ]
+  },
+  {
+   "query": "where are the 10 plagues found in the bible",
+   "answer": "Book of Exodus",
+   "gold": [
+    "016b1a0659c479ea"
+   ],
+   "paraphrases": [
+    "What are the references to the 10 plagues in the biblical account?",
+    "Where does the Bible record the occurrences of the 10 plagues?",
+    "Can you locate the descriptions of the 10 plagues within the pages of the Bible?"
+   ]
+  },
+  {
+   "query": "who has the most wins on around the horn",
+   "answer": "Woody Paige",
+   "gold": [
+    "cbe785c03686b966"
+   ],
+   "paraphrases": [
+    "Which contestant holds the record for the most victories on Around the Horn?"
+   ]
+  },
+  {
+   "query": "who plays grace in the secret life of the american teenager",
+   "answer": "Megan Park",
+   "gold": [
+    "39a182cdf18dbcef"
+   ],
+   "paraphrases": [
+    "In the hit TV show The Secret Life of the American Teenager, which actor takes on the role of the character known as Grace?"
+   ]
+  },
+  {
+   "query": "when did we first put a rover on mars",
+   "answer": "January 2004",
+   "gold": [
+    "b85a38673c60fdf3"
+   ],
+   "paraphrases": [
+    "What was the earliest date on which humanity successfully deployed a Martian rover?"
+   ]
+  },
+  {
+   "query": "who made the first spanish landing on the mainland of north america",
+   "answer": "1535",
+   "gold": [
+    "2857737930d1ef87"
+   ],
+   "paraphrases": [
+    "What explorer was responsible for the initial Spanish settlement on the North American continent?",
+    "Who was the pioneer behind the historic Spanish arrival on the North American mainland?"
+   ]
+  },
+  {
+   "query": "who was the author of the art of war",
+   "answer": "Sun Tzu",
+   "gold": [
+    "7ccaecf09c824aee"
+   ],
+   "paraphrases": [
+    "What is the identity of the writer responsible for the famous treatise \"The Art of War\"?"
+   ]
+  },
+  {
+   "query": "when does wonder woman come out on blue ray",
+   "answer": "September 19, 2017",
+   "gold": [
+    "2b3b941d5c3ec2c3"
+   ],
+   "paraphrases": [
+    "What is the release date for Wonder Woman on Blu-ray?",
+    "When will Wonder Woman be available on Blu-ray format?"
+   ]
+  },
+  {
+   "query": "when did marathon change its name to snickers",
+   "answer": "19 July 1990",
+   "gold": [
+    "60effa4a698a043d"
+   ],
+   "paraphrases": [
+    "What is the date that Marathon changed its product name to Snickers?",
+    "At what point in time did the company rename Marathon to Snickers?",
+    "Has there ever been a moment in history where Marathon was rebranded as Snickers?"
+   ]
+  },
+  {
+   "query": "how many episodes are there in modern family",
+   "answer": "232",
+   "gold": [
+    "21d6cff674ff4207"
+   ],
+   "paraphrases": [
+    "What is the total number of episodes that have aired throughout the run of Modern Family?",
+    "How many individual installments comprise the television series Modern Family's episode count?"
+   ]
+  },
+  {
+   "query": "what goes on the bottom of shepherd's pie",
+   "answer": "mashed potato",
+   "gold": [
+    "181a178ee5761fb7"
+   ],
+   "paraphrases": [
+    "What is typically layered at the base of a traditional shepherd's pie dish?"
+   ]
+  },
+  {
+   "query": "when does grey's anatomy come back on in march",
+   "answer": "March 1, 2018",
+   "gold": [
+    "66f0fea5df2f1f50"
+   ],
+   "paraphrases": [
+    "What is the airdate for Grey's Anatomy in March?",
+    "When will Grey's Anatomy return in March?"
+   ]
+  },
+  {
+   "query": "who sang raindrops keep fallin on my head",
+   "answer": "B. J. Thomas",
+   "gold": [
+    "175125d15aca2349"
+   ],
+   "paraphrases": [
+    "Who performed the song \"Raindrops Keep Fallin' On My Head\"?"
+   ]
+  },
+  {
+   "query": "what is a wrinkle in time based on",
+   "answer": "the 1962 novel of the same name by Madeleine L'Engle",
+   "gold": [
+    "9aef0b3782696839"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "the recipient of first jnanpith award was an author which language",
+   "answer": "Malayalam",
+   "gold": [
+    "c965dc139923f210"
+   ],
+   "paraphrases": [
+    "What literary giant received the inaugural Jnanpith Award, hailing from a specific linguistic background?"
+   ]
+  },
+  {
+   "query": "phase change from gas to solid is called",
+   "answer": "Deposition",
+   "gold": [
+    "26b20c9ef698a2f9"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "where did they film ghosts of girlfriends past",
+   "answer": "primarily filmed at Castle Hill in Ipswich, Massachusetts",
+   "gold": [
+    "b79825cfcf7ffc8c"
+   ],
+   "paraphrases": [
+    "Where were the scenes for \"Ghosts of Girlfriends Past\" actually shot?",
+    "They filmed \"Ghosts of Girlfriends Past\" at what location?",
+    "What was the filming location for the movie \"Ghosts of Girlfriends Past\"?"
+   ]
+  },
+  {
+   "query": "what's the biggest nfl stadium in the united states",
+   "answer": "MetLife Stadium",
+   "gold": [
+    "5d4e7540352b3e04"
+   ],
+   "paraphrases": [
+    "What is the largest National Football League (NFL) stadium in the United States?"
+   ]
+  },
+  {
+   "query": "to transplant a nucleus from one cell to another cell a scientist would use",
+   "answer": "somatic cell nuclear transfer (SCNT)",
+   "gold": [
+    "fdc13b5b89153f99"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who played little ricky on i love lucy show",
+   "answer": "Keith Thibodeaux",
+   "gold": [
+    "35d350dbcd997478"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "how many steps does the cn tower have",
+   "answer": "2,579",
+   "gold": [
+    "d47d0d56958985d8"
+   ],
+   "paraphrases": [
+    "What is the total number of stairs in the CN Tower?"
+   ]
+  },
+  {
+   "query": "where are the winter olympic games being held this year",
+   "answer": "Pyeongchang County, Gangwon Province, South Korea",
+   "gold": [
+    "6cbcc0ae6ef17ced"
+   ],
+   "paraphrases": [
+    "What cities will host the Winter Olympic Games in the current year?",
+    "This year's Winter Olympics are taking place in which city?"
+   ]
+  },
+  {
+   "query": "the nurses' health study is an example of what type of study",
+   "answer": "a series of prospective studies that examine epidemiology and the long-term effects of nutrition, hormones, environment, and nurses' work-life on health and disease development",
+   "gold": [
+    "ee56af82d536553e"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "ajay devgan preity zinta and madhuri dixit movie",
+   "answer": "Yeh Raaste Hain Pyaar Ke",
+   "gold": [
+    "f2f2978442c40483"
+   ],
+   "paraphrases": [
+    "What is the name of the film featuring Ajay Devgn, Preity Zinta, and Madhuri Dixit?",
+    "Which Bollywood film stars Ajay Devgn alongside Preity Zinta and Madhuri Dixit?",
+    "Can you identify the movie that brings together the on-screen talents of Ajay Devgn, Preity Zinta, and Madhuri Dixit?"
+   ]
+  },
+  {
+   "query": "who is covering the winter olympics in canada",
+   "answer": "CBC/Radio-Canada",
+   "gold": [
+    "bcbcb29825375cec"
+   ],
+   "paraphrases": [
+    "Who has been tasked with providing live coverage of the Winter Olympics from Canadian soil?"
+   ]
+  },
+  {
+   "query": "who has the most big ten championships in football",
+   "answer": "Michigan",
+   "gold": [
+    "5760333bf10df491"
+   ],
+   "paraphrases": [
+    "What team holds the record for the most Big Ten football championships?",
+    "Which college football program boasts the most Big Ten conference championship titles?",
+    "Who among Big Ten schools claims the greatest number of football league title wins?"
+   ]
+  },
+  {
+   "query": "what is united nations declaration of human rights",
+   "answer": "consists of thirty articles affirming an individual's rights",
+   "gold": [
+    "5b29c35f60e64ec1"
+   ],
+   "paraphrases": [
+    "What constitutes the fundamental freedoms and protections enshrined in the United Nations Declaration of Human Rights?"
+   ]
+  },
+  {
+   "query": "what do you call a person who officiates a wedding",
+   "answer": "A marriage officiant, solemniser, or \"vow master\"",
+   "gold": [
+    "d77a85a946cd975d"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who was the girl in the video brenda got a baby",
+   "answer": "Ethel \"Edy\" Proctor",
+   "gold": [
+    "3c1638caf87c4f4c"
+   ],
+   "paraphrases": [
+    "What was the name of the girl who appeared in the video and had a baby with Brenda?",
+    "Who is the female individual featured in the video that Brenda ended up having a child with?"
+   ]
+  },
+  {
+   "query": "who played nicky on the drew carey show",
+   "answer": "Kate Walsh",
+   "gold": [
+    "8001b40d740a99a9"
+   ],
+   "paraphrases": [
+    "What actor portrayed Nicky on The Drew Carey Show?"
+   ]
+  },
+  {
+   "query": "who is the father of lucius in gladiator",
+   "answer": "Lucius Verus",
+   "gold": [
+    "3310ea373151b863"
+   ],
+   "paraphrases": [
+    "What is the identity of Lucius' paternal figure in the movie Gladiator?",
+    "Who plays the role of Lucius' dad in the film Gladiator?"
+   ]
+  },
+  {
+   "query": "who won the 2017 sports personality of the year",
+   "answer": "Mo Farah",
+   "gold": [
+    "b2c4a629f53d5aff"
+   ],
+   "paraphrases": [
+    "What was the name of the person awarded the Sports Personality of the Year title in 2017?",
+    "In 2017, which athlete received the prestigious honor of being named the Sports Personality of the Year?",
+    "The individual recognized as the top sportsperson of 2017 was whom?"
+   ]
+  },
+  {
+   "query": "what is a e8 in the marine corps",
+   "answer": "Master sergeant",
+   "gold": [
+    "40a2dc3201567dc9"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "where is lord's prayer found in bible",
+   "answer": "the long form in the Gospel of Matthew in the middle of the Sermon on the Mount, and the short form in the Gospel of Luke",
+   "gold": [
+    "c80f5dc2673ca134"
+   ],
+   "paraphrases": [
+    "Where in the Bible can I find the Lord's Prayer?",
+    "The Lord's Prayer is located at which passage in the Bible?"
+   ]
+  },
+  {
+   "query": "who played the princess in kingsman secret service",
+   "answer": "Hanna Alstr\u00f6m",
+   "gold": [
+    "b7bdfe6ad2672c1e"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who sing say you won't let go",
+   "answer": "James Arthur",
+   "gold": [
+    "c5dbfe761f5917f2"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "tallest building in the world of all time",
+   "answer": "Burj Khalifa",
+   "gold": [
+    "7e681df647116734"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who performed the first c section in 1794",
+   "answer": "Dr. Jesse Bennett",
+   "gold": [
+    "67f73ec7dca6777a"
+   ],
+   "paraphrases": [
+    "The first recorded cesarean section was carried out by which physician in the year 1794?"
+   ]
+  },
+  {
+   "query": "baseball teams who have not won a world series",
+   "answer": "Texas Rangers",
+   "gold": [
+    "aeefbcc4fb0041e7"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what is the meaning of the name von",
+   "answer": "as a nobiliary particle indicating a noble patrilineality or as a simple preposition that approximately means of or from in the case of commoners",
+   "gold": [
+    "0655dd66166298d8"
+   ],
+   "paraphrases": [
+    "What does the surname \"von\" imply?",
+    "What's the underlying connotation of the title \"von\" in someone's name?"
+   ]
+  },
+  {
+   "query": "who plays hope on the bold and beautiful",
+   "answer": "Kimberly Marie \"Kim\" Matula",
+   "gold": [
+    "6c4d90b8a1c6f30a"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who played anne in anne with an e",
+   "answer": "Amybeth McNulty",
+   "gold": [
+    "fed263ce9d44b83b"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "where did the battle of freeman's farm take place",
+   "answer": "Stillwater, Saratoga County, New York",
+   "gold": [
+    "f4cfbd40efed654a"
+   ],
+   "paraphrases": [
+    "Where was the Battle of Freeman's Farm fought?",
+    "What location saw the Battle of Freeman's Farm unfold?",
+    "In what region did the Battle of Freeman's Farm occur?"
+   ]
+  },
+  {
+   "query": "consist of the sum of the fixed and variable costs for any given level of production",
+   "answer": "total cost (TC)",
+   "gold": [
+    "da99547439cb183a"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "when did season 4 of glee come out",
+   "answer": "September 13, 2012 (2012-09-13) \u2013 May 9, 2013",
+   "gold": [
+    "7d23d5caefe686e8"
+   ],
+   "paraphrases": [
+    "What was the release date for Glee's fourth season?",
+    "When did Season 4 of Glee premiere?"
+   ]
+  },
+  {
+   "query": "how many episodes in season 3 of good witch",
+   "answer": "10",
+   "gold": [
+    "42287bcd801a821e"
+   ],
+   "paraphrases": [
+    "What is the total number of episodes that made up the third season of Good Witch?",
+    "How many installments were featured in Season 3 of Good Witch?",
+    "Can you tell me how many individual episodes comprise the third season of Good Witch?"
+   ]
+  },
+  {
+   "query": "who played the oldest brother in 7th heaven",
+   "answer": "Barry Watson",
+   "gold": [
+    "564d8f3d50eb3937"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who wrote the song rainy days and mondays",
+   "answer": "Paul Williams",
+   "gold": [
+    "11ae78f10f195932"
+   ],
+   "paraphrases": [
+    "What artist composed the tune \"Rainy Days and Mondays\"?",
+    "Who is credited with authoring the song \"Rainy Days and Mondays\"?"
+   ]
+  },
+  {
+   "query": "where is wake forest located in north carolina",
+   "answer": "35\u00b058\u203224\u2033N",
+   "gold": [
+    "6b350a61d7b88e33"
+   ],
+   "paraphrases": [
+    "Where in North Carolina can you find Wake Forest?",
+    "What city is Wake Forest situated in within the state of North Carolina?",
+    "In which location within North Carolina does Wake Forest reside?"
+   ]
+  },
+  {
+   "query": "who wrote the country song i can only imagine",
+   "answer": "Bart Millard",
+   "gold": [
+    "da8db53948a5a49b"
+   ],
+   "paraphrases": [
+    "What artist penned the iconic country ballad \"I Can Only Imagine\"?",
+    "Which country music legend wrote the popular song \"I Can Only Imagine\"?"
+   ]
+  },
+  {
+   "query": "when do you use the roman numerals in chemistry",
+   "answer": "to denote the groups of the periodic table",
+   "gold": [
+    "2f90cacb9cc1abdf"
+   ],
+   "paraphrases": [
+    "What chemical notation conventions require the use of Roman numerals?",
+    "In what situations would you employ Roman numerals in a chemical context?",
+    "Do you ever utilize Roman numerals while working with chemical formulas?"
+   ]
+  },
+  {
+   "query": "who plays jill bigelow in line of duty",
+   "answer": "Polly Walker",
+   "gold": [
+    "e96c92ac06d98338"
+   ],
+   "paraphrases": [
+    "What actor portrays Jill Bigelow in Line of Duty?",
+    "Who is the actor that plays the role of Jill Bigelow in the TV series Line of Duty?"
+   ]
+  },
+  {
+   "query": "who wrote it's gonna take a lot of love",
+   "answer": "Neil Young",
+   "gold": [
+    "947c2bab6d9058b9"
+   ],
+   "paraphrases": [
+    "Who is the songwriter behind the lyrics \"It's Gonna Take a Lot of Love\"?"
+   ]
+  },
+  {
+   "query": "when is the next deadpool movie being released",
+   "answer": "May 18, 2018",
+   "gold": [
+    "ca7ef2d5569d5ede"
+   ],
+   "paraphrases": [
+    "What is the scheduled release date for the upcoming Deadpool film?",
+    "When will the next installment of the Deadpool franchise hit theaters?",
+    "At what point in time can fans expect to see the next Deadpool movie make its debut?"
+   ]
+  },
+  {
+   "query": "whos jack the ripper in gotham by gaslight",
+   "answer": "Jacob Packer",
+   "gold": [
+    "506aa57d8f6ee9fd"
+   ],
+   "paraphrases": [
+    "Who is Jack the Ripper in Gotham by Gaslight?",
+    "In Gotham by Gaslight, who is Jack the Ripper?"
+   ]
+  },
+  {
+   "query": "who sang the song with reba does he love you",
+   "answer": "Linda Davis",
+   "gold": [
+    "672b3df820438be1"
+   ],
+   "paraphrases": [
+    "What artist collaborated with Reba on the song \"Does He Love You\"?"
+   ]
+  },
+  {
+   "query": "what is upstream project in oil and gas",
+   "answer": "searching for potential underground or underwater crude oil and natural gas fields, drilling exploratory wells, and subsequently drilling and operating the wells that recover and bring the crude oil or raw natural gas to the surface",
+   "gold": [
+    "ecbae06bbb8ef51c"
+   ],
+   "paraphrases": [
+    "Can you define an \"upstream\" project in the oil and gas industry?",
+    "In the oil and gas sector, what does it mean for a project to be considered \"upstream\"?"
+   ]
+  },
+  {
+   "query": "what is the main character's name in layer cake",
+   "answer": "XXXX",
+   "gold": [
+    "531bf339b181d8d6"
+   ],
+   "paraphrases": [
+    "What is the protagonist's title in Layer Cake?",
+    "Who is the central figure in the narrative of Layer Cake?"
+   ]
+  },
+  {
+   "query": "what percentage of the us population lives below the poverty line",
+   "answer": "13.5% (43.1 million)",
+   "gold": [
+    "cce4489f7110191f"
+   ],
+   "paraphrases": [
+    "What proportion of American citizens are currently living beneath the poverty threshold?",
+    "Approximately how many percent of the US population subsist at a level below the official poverty line?"
+   ]
+  },
+  {
+   "query": "how many seasons of the blacklist are there on netflix",
+   "answer": "1\u20135 in the United States",
+   "gold": [
+    "69be62df9af9e2c7"
+   ],
+   "paraphrases": [
+    "What number of seasons of The Blacklist can be found on Netflix's streaming platform?",
+    "How many seasons of the TV series The Blacklist are currently available to stream on Netflix?",
+    "Can you tell me the total count of seasons that feature in The Blacklist's lineup on Netflix?"
+   ]
+  },
+  {
+   "query": "who has the most trophies in la liga",
+   "answer": "Real Madrid",
+   "gold": [
+    "38c1a76a4165ff1d"
+   ],
+   "paraphrases": [
+    "What team holds the record for the most trophies won in La Liga?"
+   ]
+  },
+  {
+   "query": "when did mcgee became a regular on ncis",
+   "answer": "season two",
+   "gold": [
+    "81bda78d0efb3195"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "list the seven gifts of the holy spirit",
+   "answer": "wisdom, understanding, counsel, fortitude, knowledge, piety, and fear of the Lord",
+   "gold": [
+    "6e027e0c5f4f6d80"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what is the name given to the common currency to the european union",
+   "answer": "The euro",
+   "gold": [
+    "d7f8c478b59a4625"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who sings the rap in baby by justin bieber",
+   "answer": "Ludacris",
+   "gold": [
+    "74e3cc0588ad34d0"
+   ],
+   "paraphrases": [
+    "What artist performs the rap part in Justin Bieber's song \"Baby\"?",
+    "In whose voice does the rap element appear in Justin Bieber's song \"Baby\"?"
+   ]
+  },
+  {
+   "query": "who is the no. 1 ranked tennis player in the world",
+   "answer": "Rafael Nadal",
+   "gold": [
+    "ebd806e68decf082"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who wins the final fight in real steel",
+   "answer": "Zeus",
+   "gold": [
+    "7f641c21dc399965"
+   ],
+   "paraphrases": [
+    "What team emerges victorious from the ultimate showdown in Real Steel?",
+    "Who takes the title in the climactic championship bout featured in Real Steel?"
+   ]
+  },
+  {
+   "query": "who was the head of the spanish inquisition",
+   "answer": "Dominican Tom\u00e1s de Torquemada",
+   "gold": [
+    "d66fb3a12180d4f8"
+   ],
+   "paraphrases": [
+    "The person in charge of the Spanish Inquisition held which position?",
+    "What official led the Spanish Inquisition?"
+   ]
+  },
+  {
+   "query": "which type of fire detector uses the effect of smoke on a light source and photo-electric cell",
+   "answer": "photoelectric, or optical smoke detector",
+   "gold": [
+    "8f74ac30411baa37"
+   ],
+   "paraphrases": [
+    "What type of fire alarm relies on the interference of smoke particles with a light source and a photo-cell to initiate an alert?"
+   ]
+  },
+  {
+   "query": "list of local government area in benue state",
+   "answer": "Ado",
+   "gold": [
+    "3b6aa1ae6f777383"
+   ],
+   "paraphrases": [
+    "What are the municipalities or administrative divisions within Benue State?",
+    "Can you provide a comprehensive enumeration of local government areas found in Benue State?",
+    "Do you have a tabulation of the various local government areas situated within the geographic boundaries of Benue State?"
+   ]
+  },
+  {
+   "query": "what is the name of the first earthquake early warning system",
+   "answer": "1991",
+   "gold": [
+    "f8ba5f30114c9883"
+   ],
+   "paraphrases": [
+    "What was the original label given to the pioneering seismic alert network?",
+    "The inaugural earthquake warning system went by what designation?",
+    "What did the initial quake detection and notification program call itself?"
+   ]
+  },
+  {
+   "query": "what is the number of total presidential electoral votes",
+   "answer": "538",
+   "gold": [
+    "3f6fc53a15b4c1e7"
+   ],
+   "paraphrases": [
+    "What are the aggregate presidential electoral votes?",
+    "What is the total count of presidential electoral votes?",
+    "How many presidential electoral votes are there in total?"
+   ]
+  },
+  {
+   "query": "who plays ivo on once upon a time",
+   "answer": "Dan Payne",
+   "gold": [
+    "1347b4d9bf02c73b"
+   ],
+   "paraphrases": [
+    "What actor portrays Ivo on Once Upon a Time?",
+    "Which actor takes on the role of Ivo in the TV show Once Upon a Time?"
+   ]
+  },
+  {
+   "query": "what is the largest bill in american money",
+   "answer": "$100",
+   "gold": [
+    "f3a0d95f6053466d"
+   ],
+   "paraphrases": [
+    "The greatest amount of money on a single US bill is which denomination?",
+    "Which American bill has the most significant monetary value?"
+   ]
+  },
+  {
+   "query": "who played lead guitar on 25 or 6 to 4",
+   "answer": "Terry Kath",
+   "gold": [
+    "ba4574fa5c37cb8d"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what is the purse for the senior open",
+   "answer": "fixed in United States dollars, was $2 million in 2011, with a winner's share of $315,600",
+   "gold": [
+    "604c11bdccf004d6"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "how many episodes of the killing on netflix",
+   "answer": "6",
+   "gold": [
+    "8fe3a288c8777524"
+   ],
+   "paraphrases": [
+    "What is the total number of episodes available in The Killing series on Netflix?",
+    "Can you tell me the quantity of episodes that make up The Killing series as it appears on the Netflix catalog?"
+   ]
+  },
+  {
+   "query": "which is the tallest building in the world 2018",
+   "answer": "Burj Khalifa",
+   "gold": [
+    "33f0d3988df07c5c"
+   ],
+   "paraphrases": [
+    "What was the height of the tallest building globally in the year 2018?"
+   ]
+  },
+  {
+   "query": "hours of work to be considered full time",
+   "answer": "from 35 to 40 hours per week",
+   "gold": [
+    "2fe6233c6c3e78c2"
+   ],
+   "paraphrases": [
+    "Is there a specific number of working hours that defines a full-time job?",
+    "At what point do the number of worked hours qualify as a full-time employment arrangement?"
+   ]
+  },
+  {
+   "query": "who did the original spirit in the sky",
+   "answer": "Norman Greenbaum",
+   "gold": [
+    "b1a19540eb7a6159"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "how many episodes are in chicago fire season 4",
+   "answer": "23",
+   "gold": [
+    "bb062d177cb519e9"
+   ],
+   "paraphrases": [
+    "What is the total number of episodes that comprise Chicago Fire Season 4?",
+    "How many episodes are contained within the fourth season of Chicago Fire?",
+    "What is the episode count for Chicago Fire's fourth season?"
+   ]
+  },
+  {
+   "query": "when does a wrinkle in time come out in canada",
+   "answer": "March 9, 2018",
+   "gold": [
+    "e047efdc114eab73"
+   ],
+   "paraphrases": [
+    "What is the release date for \"A Wrinkle in Time\" in Canada?",
+    "When will \"A Wrinkle in Time\" be available to watch in Canada?",
+    "Is there a specific release date for the movie \"A Wrinkle in Time\" in Canadian markets?"
+   ]
+  },
+  {
+   "query": "what year did the us hockey team won the olympics",
+   "answer": "1960 and 1980",
+   "gold": [
+    "bcc418b7bafa16d4"
+   ],
+   "paraphrases": [
+    "What was the year that the US hockey team emerged victorious at the Olympics?",
+    "Can you tell me which year the US hockey team claimed the Olympic championship?",
+    "In what year did the US hockey team achieve its triumphant moment in Olympic competition?"
+   ]
+  },
+  {
+   "query": "what is an example of an americanized mexican food created by tex-mex cuisine",
+   "answer": "nachos",
+   "gold": [
+    "25e8fe7ea2ddb53d"
+   ],
+   "paraphrases": [
+    "What are some examples of Americanized Mexican dishes that originated from Tex-Mex cuisine?",
+    "How do you define an Americanized Mexican dish that emerged as a result of the blending of Mexican and American cuisines in Tex-Mex cooking?",
+    "Can you give me an instance of an Americanized Mexican food that was created through the fusion of Mexican and American culinary traditions, as exemplified by Tex-Mex cuisine?"
+   ]
+  },
+  {
+   "query": "chief election commissioner of india can be removed by whom",
+   "answer": "two-thirds of the Lok Sabha and the Rajya Sabha",
+   "gold": [
+    "d528c438fc5c35e0"
+   ],
+   "paraphrases": [
+    "Chief Election Commissioner of India can be removed by which authority?",
+    "Who has the power to remove the Chief Election Commissioner of India?"
+   ]
+  },
+  {
+   "query": "what is nginx and what is it used for",
+   "answer": "a web server which can also be used as a reverse proxy, load balancer and HTTP cache",
+   "gold": [
+    "35597276c3fce54c"
+   ],
+   "paraphrases": [
+    "What purpose does nginx serve and what are its key functions?",
+    "Can you explain what nginx is and how it's typically employed in web development?"
+   ]
+  },
+  {
+   "query": "what is the approximate volume of blood in your body",
+   "answer": "approximately 5 liters, with females generally having less blood volume than males",
+   "gold": [
+    "66d6ba2ddbb38960"
+   ],
+   "paraphrases": [
+    "About how many liters of blood are contained within your bodily vessels?"
+   ]
+  },
+  {
+   "query": "where do the sharks play in san jose",
+   "answer": "SAP Center at San Jose",
+   "gold": [
+    "17fbaccd23e0348c"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "two main types of research methods used in psychology",
+   "answer": "Correlational research",
+   "gold": [
+    "d2fada521c49f6fb"
+   ],
+   "paraphrases": [
+    "Research designs employed by psychologists primarily fall into what two categories?",
+    "What are the two fundamental research methodologies utilized in the field of psychology?"
+   ]
+  },
+  {
+   "query": "which player won the pga championship by the most shots",
+   "answer": "Greatest winning margin in the match play era: Paul Runyan",
+   "gold": [
+    "6082ed6fe3786e64"
+   ],
+   "paraphrases": [
+    "Which golfer took home the title with the largest winning margin in a PGA Championship?"
+   ]
+  },
+  {
+   "query": "why wasnt agent matthews in miss congeniality 2",
+   "answer": "relocated to Miami",
+   "gold": [
+    "e34f0dee33242125"
+   ],
+   "paraphrases": [
+    "What happened to Agent Matthews that prevented him from appearing in Miss Congeniality 2?"
+   ]
+  },
+  {
+   "query": "how many episodes of ray donovan series 3 are there",
+   "answer": "12",
+   "gold": [
+    "f53c3f630baeb2d4"
+   ],
+   "paraphrases": [
+    "What is the total number of episodes in the third season of the Ray Donovan television series?",
+    "How many individual installments comprise the third season's narrative arc in the show Ray Donovan?"
+   ]
+  },
+  {
+   "query": "what was the city of beijing previously known as",
+   "answer": "Peking",
+   "gold": [
+    "bd9dc3f24b3e8095"
+   ],
+   "paraphrases": [
+    "Prior to its current identity, what was Beijing commonly referred to as?",
+    "In what ways has the city of Beijing been historically known?"
+   ]
+  },
+  {
+   "query": "what is the highest peak in the ozarks",
+   "answer": "Buffalo Lookout",
+   "gold": [
+    "f2a17b9fee62e0aa"
+   ],
+   "paraphrases": [
+    "What are the Ozark Mountains' tallest elevations?",
+    "What's the name of the Ozarks' highest summit?",
+    "At what height does the Ozarks' apex lie?"
+   ]
+  },
+  {
+   "query": "when was the debating club established in almora",
+   "answer": "1871",
+   "gold": [
+    "06b5dc1d550bd9bb"
+   ],
+   "paraphrases": [
+    "The Almora Debating Club was founded in what year?",
+    "What is the founding date of the debating club in Almora?",
+    "When did the Almora community establish its debating club?"
+   ]
+  },
+  {
+   "query": "who sings i want to be a rockstar",
+   "answer": "Canadian rock band Nickelback",
+   "gold": [
+    "d7a2b83b7990f021"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who won the most gold metals in olympics",
+   "answer": "American swimmer Michael Phelps",
+   "gold": [
+    "1668d547d1e3c1c0"
+   ],
+   "paraphrases": [
+    "What country has accumulated the greatest number of Olympic gold medals?",
+    "Which nation has earned the most Olympic gold medal honors throughout history?"
+   ]
+  },
+  {
+   "query": "the father son and holy spirit in latin",
+   "answer": "in nomine Patris et Filii et Spiritus Sancti",
+   "gold": [
+    "33e81e66b493eeec"
+   ],
+   "paraphrases": [
+    "What is the equivalent phrase in Latin for \"the Father, Son, and Holy Spirit\"?",
+    "Can you translate \"the Father, Son, and Holy Spirit\" into Latin?",
+    "In Latin, what is the phrase that corresponds to \"the Father, Son, and Holy Spirit\"?"
+   ]
+  },
+  {
+   "query": "who does the voice of mickey mouse on mickey mouse clubhouse",
+   "answer": "Wayne Allwine",
+   "gold": [
+    "4c7c79a637044572"
+   ],
+   "paraphrases": [
+    "What is the actor responsible for providing Mickey Mouse's voice in Mickey Mouse Clubhouse?",
+    "Who lends their vocal talents to the iconic character of Mickey Mouse in the animated series Mickey Mouse Clubhouse?",
+    "In the popular children's show Mickey Mouse Clubhouse, who does the voice acting for the beloved character Mickey Mouse?"
+   ]
+  },
+  {
+   "query": "who takes over the presidency if the vice president cant",
+   "answer": "Speaker of the House of Representatives",
+   "gold": [
+    "05ad7d8c4cb57c95"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "when was the last year thanksgiving was on the 23rd",
+   "answer": "2017",
+   "gold": [
+    "e6003ef2f264431d"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "when's the last time philly won the superbowl",
+   "answer": "2017",
+   "gold": [
+    "487cee2f76b73a90"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what is the name of governor of maharashtra",
+   "answer": "Chennamaneni Vidyasagar Rao",
+   "gold": [
+    "94090afc80da8293"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "when was the latest version of chrome released",
+   "answer": "2018-01-22",
+   "gold": [
+    "7d06b0af4b2bdf15"
+   ],
+   "paraphrases": [
+    "What is the current release date of Google Chrome?",
+    "The most recent edition of Chrome was launched when specifically?",
+    "At what time did Google issue its most up-to-date Chrome browser?"
+   ]
+  },
+  {
+   "query": "why did the colonists have a problem with the tea act of 1773",
+   "answer": "because they believed that it violated their rights as Englishmen to \"No taxation without representation\", that is, to be taxed only by their own elected representatives and not by a British parliament in which they were not represented",
+   "gold": [
+    "a02f493c423cde0e"
+   ],
+   "paraphrases": [
+    "What were the reasons behind the colonial discontent with the Tea Act of 1773?",
+    "What led to the colonists' opposition to the Tea Act in 1773?"
+   ]
+  },
+  {
+   "query": "whats the difference between tomato paste and tomato puree",
+   "answer": "consistency",
+   "gold": [
+    "41ee6ef130532e53"
+   ],
+   "paraphrases": [
+    "What distinguishes tomato paste from tomato puree?",
+    "Tomato paste versus tomato puree - what's the key distinction?",
+    "How do tomato paste and tomato puree differ in terms of their characteristics?"
+   ]
+  },
+  {
+   "query": "where was the first season of slasher filmed",
+   "answer": "Orangeville, Ontario, Canada",
+   "gold": [
+    "14232782e3b0e992"
+   ],
+   "paraphrases": [
+    "What location served as the backdrop for the filming of the inaugural season of slasher?",
+    "The first season of slasher was lensed in which setting?",
+    "In what environment did the filmmakers capture the scenes for the debut season of slasher?"
+   ]
+  },
+  {
+   "query": "who wrote the song i hate you i love you",
+   "answer": "Garrett Nash",
+   "gold": [
+    "eb230e7510f381f1"
+   ],
+   "paraphrases": [
+    "What artist composed the popular tune \"I Hate You I Love You\"?"
+   ]
+  },
+  {
+   "query": "what state does rick and morty take place in",
+   "answer": "Washington",
+   "gold": [
+    "c416a7113a7d6094"
+   ],
+   "paraphrases": [
+    "What geographic location serves as the primary setting for the adventures of Rick and Morty?"
+   ]
+  },
+  {
+   "query": "many many happy returns of the day meaning",
+   "answer": "a salutation to offer the hope that a happy day being marked would recur many more times",
+   "gold": [
+    "987c1f7efb19432c"
+   ],
+   "paraphrases": [
+    "What is the significance and idiomatic interpretation behind the phrase \"many many happy returns of the day\"?"
+   ]
+  },
+  {
+   "query": "who was fighting in the civil war in england and about what",
+   "answer": "Parliamentarians (\"Roundheads\") and Royalists (\"Cavaliers\")",
+   "gold": [
+    "58eb03be3b623f25"
+   ],
+   "paraphrases": [
+    "What factions were engaged in conflict during the English Civil War and for what reasons?",
+    "In the English Civil War, which groups fought against each other and on what issues?"
+   ]
+  },
+  {
+   "query": "unsaturated fats are comprised of lipids that contain",
+   "answer": "at least one double bond",
+   "gold": [
+    "86ad667a5aa3616e"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who wrote knock knock knocking on heavens door",
+   "answer": "Bob Dylan",
+   "gold": [
+    "fa6916a713c16071"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "when did gaurdians of the galaxy 2 come out",
+   "answer": "May 5, 2017",
+   "gold": [
+    "9ec4da98154bc9ba"
+   ],
+   "paraphrases": [
+    "When was Guardians of the Galaxy Volume 2 first made available to the public?"
+   ]
+  },
+  {
+   "query": "how many casinos are in atlantic city new jersey",
+   "answer": "eleven",
+   "gold": [
+    "45bcf5ce5505feda"
+   ],
+   "paraphrases": [
+    "What is the number of casinos located in Atlantic City, New Jersey?",
+    "Are there a certain number of casinos situated within the city limits of Atlantic City, New Jersey?"
+   ]
+  },
+  {
+   "query": "when did teenage mutant ninja turtles come out",
+   "answer": "1984",
+   "gold": [
+    "570bfd24a183e271"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what can be a visual or mathematical representation of an object or a process",
+   "answer": "3D modeling (or three-dimensional modeling)",
+   "gold": [
+    "f2f25967c7ab408b"
+   ],
+   "paraphrases": [
+    "What is a possible depiction of an object or phenomenon that can take the form of either a visual image or a numerical description?",
+    "Can a graphical or numeric rendering be used to depict and convey information about an entity, action, or occurrence?"
+   ]
+  },
+  {
+   "query": "who played jennifer in back to the future",
+   "answer": "Claudia Grace Wells",
+   "gold": [
+    "9a8b78382151f1bf"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who played john coffey in the movie the green mile",
+   "answer": "Michael Clarke Duncan",
+   "gold": [
+    "1459cdb9713e1737"
+   ],
+   "paraphrases": [
+    "Who portrayed John Coffey in The Green Mile film?"
+   ]
+  },
+  {
+   "query": "how long do former presidents get secret service protection",
+   "answer": "lifetime",
+   "gold": [
+    "7ea13059eb9fd19c"
+   ],
+   "paraphrases": [
+    "What is the typical duration of Secret Service protection for ex-Presidents?",
+    "Former Presidents receive Secret Service protection for approximately how many years after leaving office?",
+    "Do former Presidents continue to receive Secret Service protection for a specific amount of time, and if so, what is that timeframe?"
+   ]
+  },
+  {
+   "query": "who plays the protagonist peter rabbit in the 2018 motion picture release",
+   "answer": "James Corden",
+   "gold": [
+    "1a007e44ad7e36db"
+   ],
+   "paraphrases": [
+    "What actor portrays Peter Rabbit as the main character in the 2018 cinematic adaptation?",
+    "Who voiced the character of Peter Rabbit in the 2018 live-action/CGI film?",
+    "In the 2018 big-screen version, which actor brings the titular character Peter Rabbit to life?"
+   ]
+  },
+  {
+   "query": "who did corbin dance with on dancing with the stars",
+   "answer": "Karina Smirnoff",
+   "gold": [
+    "966b70c6308a9266"
+   ],
+   "paraphrases": [
+    "Corbin's dance partner on Dancing with the Stars was whom?"
+   ]
+  },
+  {
+   "query": "who was the first territorial governor of oklahoma",
+   "answer": "George Washington Steele",
+   "gold": [
+    "82df127f43e9da4a"
+   ],
+   "paraphrases": [
+    "What individual held the distinction of being the initial territorial governor of Oklahoma?",
+    "Who served as the inaugural governor of the Oklahoma Territory?",
+    "The title of the first territorial governor of Oklahoma was bestowed upon which person?"
+   ]
+  },
+  {
+   "query": "what color flame test indicates the presence of strontium",
+   "answer": "Crimson to Scarlet, yellowish through green glass and violet through blue cobalt glass",
+   "gold": [
+    "b7097ddf5b106cf4"
+   ],
+   "paraphrases": [
+    "What shade of flame is characteristic of a metal ion's presence in a chemical reaction when it is strontium?",
+    "The color that appears in a flame test to confirm the identity of an ion as strontium is which one?",
+    "In a flame test, what hue suggests the presence of strontium ions?"
+   ]
+  },
+  {
+   "query": "who has the most all ireland hurling medals",
+   "answer": "Henry Shefflin",
+   "gold": [
+    "63db7c9b025ce58d"
+   ],
+   "paraphrases": [
+    "What Irish hurler holds the record for the most All-Ireland Hurling Championship titles won?",
+    "Who is the player with the highest total of All-Ireland Hurling Championship medals?",
+    "Which player has accumulated the greatest number of All-Ireland Hurling Championship victories?"
+   ]
+  },
+  {
+   "query": "where does the term dog and pony show come from",
+   "answer": "in the United States in the late-19th and early-20th centuries",
+   "gold": [
+    "fff9e0a3c1e76c31"
+   ],
+   "paraphrases": [
+    "What is the origin of the phrase \"dog and pony show\"?",
+    "The expression \"dog and pony show\" originates from what time period?"
+   ]
+  },
+  {
+   "query": "when did the study of media effects begin",
+   "answer": "1919",
+   "gold": [
+    "a6cfb99e3d420857"
+   ],
+   "paraphrases": [
+    "When was the scientific inquiry into the effects of communication technologies first initiated?"
+   ]
+  },
+  {
+   "query": "does reaching base on an error count as an at bat",
+   "answer": "counts as an at bat for the batter unless, in the scorer's judgment, the batter would have reached first base safely but one or more of the additional base(s) reached was the result of the fielder's mistake",
+   "gold": [
+    "e366b841264c2839"
+   ],
+   "paraphrases": [
+    "Is a player's turn at the plate deemed complete when they reach base via an error, thereby satisfying the definition of an at-bat?"
+   ]
+  },
+  {
+   "query": "what is the first step in the evolution of the eye",
+   "answer": "photoreceptor proteins that sense light",
+   "gold": [
+    "e032a78ce86bd7b5"
+   ],
+   "paraphrases": [
+    "What were the initial developments that led to the emergence of visual organs?"
+   ]
+  },
+  {
+   "query": "who played bubba in the heat of the night",
+   "answer": "Carlos Alan Autry Jr.",
+   "gold": [
+    "01a300d751d35450"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who was running as vice president in 1984",
+   "answer": "Ferraro",
+   "gold": [
+    "c6438a22c2eaae75"
+   ],
+   "paraphrases": [
+    "Who filled the role of vice presidential candidate for the party's ticket in 1984?"
+   ]
+  },
+  {
+   "query": "what are the 5 pillars of faith of islam",
+   "answer": "life",
+   "gold": [
+    "f6eb3cfdd36f6906"
+   ],
+   "paraphrases": [
+    "What are the five essential beliefs that underpin the practice and profession of Islam?"
+   ]
+  },
+  {
+   "query": "what is the meaning of 4wd in cars",
+   "answer": "refers a two-axled vehicle with a drivetrain capable of providing torque to all its wheels simultaneously",
+   "gold": [
+    "eacb4fcc2163130c"
+   ],
+   "paraphrases": [
+    "What does the abbreviation \"4WD\" stand for in vehicles?",
+    "What is the common automotive shorthand for four-wheel-drive capabilities?"
+   ]
+  },
+  {
+   "query": "where is the hosts file located in windows 10",
+   "answer": "%SystemRoot%\\System32\\drivers\\etc\\hosts",
+   "gold": [
+    "df5a81b4be2d5166"
+   ],
+   "paraphrases": [
+    "What is the path to the hosts file in Windows 10?",
+    "In which directory can you find the hosts file on a computer running Windows 10?"
+   ]
+  },
+  {
+   "query": "who is the actor who plays king joffrey",
+   "answer": "Jack Gleeson",
+   "gold": [
+    "83dd4c1e2f96dd57"
+   ],
+   "paraphrases": [
+    "Who plays the role of King Joffrey in the production?",
+    "Which actor takes on the part of King Joffrey?"
+   ]
+  },
+  {
+   "query": "when are you considered under the poverty line",
+   "answer": "US$11,770",
+   "gold": [
+    "e7594d3168ca1d42"
+   ],
+   "paraphrases": [
+    "What is the threshold for being classified as living below the poverty line?"
+   ]
+  },
+  {
+   "query": "calpurnia son name in to kill a mockingbird",
+   "answer": "Zeebo",
+   "gold": [
+    "4e0eb165a778761b"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "when does the next episode of izombie air",
+   "answer": "May 14, 2018",
+   "gold": [
+    "c8c1bcb585415cf5"
+   ],
+   "paraphrases": [
+    "What is the airdate for the next installment of iZombie?",
+    "When will the next episode of iZombie be broadcast?",
+    "Can you tell me what date the subsequent episode of iZombie is scheduled to appear on television?"
+   ]
+  },
+  {
+   "query": "billy ocean when the going gets tough movie",
+   "answer": "The Jewel of the Nile",
+   "gold": [
+    "987308d9a298cfdc"
+   ],
+   "paraphrases": [
+    "What's the title of the movie featuring Billy Ocean when things get challenging for him on screen?",
+    "In which cinematic endeavor does Billy Ocean take center stage when the situation turns difficult?"
+   ]
+  },
+  {
+   "query": "what was icq as related to instant messaging",
+   "answer": "an instant messaging client that was first developed and popularized by the Israeli company Mirabilis in 1996",
+   "gold": [
+    "3a5cd3dcfab634cc"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "new mexico was admitted to the union as the . . . state",
+   "answer": "47th",
+   "gold": [
+    "dcf0daff6f683b7b"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what does it mean to fuse the spine",
+   "answer": "a neurosurgical or orthopedic surgical technique that joins two or more vertebrae",
+   "gold": [
+    "e12ef3c755be5c57"
+   ],
+   "paraphrases": [
+    "What does fusion of the spine entail?",
+    "What does it imply when someone says they've fused their spine?",
+    "When we speak of spinal fusion, what does that phrase convey?"
+   ]
+  },
+  {
+   "query": "who won the 7 man elimination chamber match",
+   "answer": "Roman Reigns",
+   "gold": [
+    "6a61ccc3106be1d1"
+   ],
+   "paraphrases": [
+    "Who emerged victorious from the 7-man Elimination Chamber match?"
+   ]
+  },
+  {
+   "query": "what was the first form of manga in japan",
+   "answer": "scrolls dating back to the 12th century",
+   "gold": [
+    "cda348f05a6084e0"
+   ],
+   "paraphrases": [
+    "The initial manifestation of manga in Japan can be identified as what?"
+   ]
+  },
+  {
+   "query": "which songs did liam write as you were",
+   "answer": "Wall of Glass",
+   "gold": [
+    "3c18b25133d32a78"
+   ],
+   "paraphrases": [
+    "On \"As You Were\", what songwriting credits can be attributed to Liam?"
+   ]
+  },
+  {
+   "query": "who played zoe hart on hart of dixie",
+   "answer": "Rachel Sarah Bilson",
+   "gold": [
+    "4d0960964ab2fc1f"
+   ],
+   "paraphrases": [
+    "Who portrayed Zoe Hart in the popular television series Hart of Dixie?"
+   ]
+  },
+  {
+   "query": "who was tammy from basketball wives married to",
+   "answer": "Kenny Anderson",
+   "gold": [
+    "11c47af0c4c34df1"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what is the role of the civil service commission",
+   "answer": "to regulate the employment and working conditions of civil servants, oversee hiring and promotions, and promote the values of the public service",
+   "gold": [
+    "01e91cafdbcd7864"
+   ],
+   "paraphrases": [
+    "The purpose of the Civil Service Commission is to execute what specific tasks?",
+    "In essence, what does the Civil Service Commission do?"
+   ]
+  },
+  {
+   "query": "what is a dropped pin on google maps for",
+   "answer": "marks locations",
+   "gold": [
+    "940e6ab5e059e52f"
+   ],
+   "paraphrases": [
+    "What is the purpose of a pinned location that has been removed from Google Maps?"
+   ]
+  },
+  {
+   "query": "what was the first kind of vertebrate to exist on earth",
+   "answer": "Myllokunmingia",
+   "gold": [
+    "ec3a30c5aba7c454"
+   ],
+   "paraphrases": [
+    "What were the earliest types of vertebrates that inhabited the Earth?",
+    "The first kind of vertebrate to have evolved on our planet was what type?"
+   ]
+  },
+  {
+   "query": "where did city of brotherly love come from",
+   "answer": "from the Ancient Greek terms \u03c6\u03af\u03bb\u03bf\u03c2 ph\u00edlos (beloved, dear) and \u1f00\u03b4\u03b5\u03bb\u03c6\u03cc\u03c2 adelph\u00f3s (brother, brotherly)",
+   "gold": [
+    "9d71aef7932a31e4"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what tool is available from microsoft as an alternative to the usmt for smaller migrations",
+   "answer": "Windows Easy Transfer",
+   "gold": [
+    "ae0a73408bcefca9"
+   ],
+   "paraphrases": [
+    "What alternative software does Microsoft offer for smaller migration projects instead of the USMT?",
+    "Microsoft provides which tool as a substitute for the USMT for managing smaller-scale deployments?",
+    "Can you suggest the Microsoft-provided tool that replaces USMT for handling smaller-sized migrations?"
+   ]
+  },
+  {
+   "query": "when did the angel of the north get built",
+   "answer": "1998",
+   "gold": [
+    "043d3e60c0bab7b7"
+   ],
+   "paraphrases": [
+    "What is the construction date of the Angel of the North sculpture?",
+    "At what point in time was the iconic Angel of the North monument constructed?"
+   ]
+  },
+  {
+   "query": "who said beware of the ides of march",
+   "answer": "a haruspex named Spurinna",
+   "gold": [
+    "0773c4ba8c01b068"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who drafted the document of the un declaration of human rights",
+   "answer": "Eleanor Roosevelt, United States (Chair)",
+   "gold": [
+    "59b99b7625e9f354"
+   ],
+   "paraphrases": [
+    "The person credited with authoring the UN's Declaration of Human Rights is who?"
+   ]
+  },
+  {
+   "query": "who was the actor who played grizzly adams",
+   "answer": "Daniel Francis \"Dan\" Haggerty",
+   "gold": [
+    "6e6e70dba3de2e01"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "where does the highway of heroes start and end",
+   "answer": "between Glen Miller Road in Trenton and the Don Valley Parkway / Highway 404 Junction in Toronto",
+   "gold": [
+    "df3b7d1bdeaf6351"
+   ],
+   "paraphrases": [
+    "What are the starting and ending points of the Highway of Heroes?",
+    "The Highway of Heroes begins and terminates at which locations?",
+    "Starting from what point and culminating at what point is the Highway of Heroes?"
+   ]
+  },
+  {
+   "query": "when was the electronic funds transfer act signed into law",
+   "answer": "in 1978",
+   "gold": [
+    "ac6b26955a8b9cd2"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "where does cortisol come from in the body",
+   "answer": "the zona fasciculata of the adrenal cortex within the adrenal gland",
+   "gold": [
+    "33b525e6fe2ad654"
+   ],
+   "paraphrases": [
+    "What is the origin of cortisol production within the human body?",
+    "How does the body synthesize cortisol, specifically where does it begin its formation process?",
+    "In what part of the body does cortisol synthesis initiate and subsequently occur?"
+   ]
+  },
+  {
+   "query": "who proposed that electrons behave like waves and particles",
+   "answer": "Max Planck, Albert Einstein, Louis de Broglie, Arthur Compton, Niels Bohr and many others",
+   "gold": [
+    "6b5a266760e6b108"
+   ],
+   "paraphrases": [
+    "Who is credited with proposing that electrons can manifest as both wave and particle entities?"
+   ]
+  },
+  {
+   "query": "what territory is spain and the united kingdom in a dispute over",
+   "answer": "Gibraltar",
+   "gold": [
+    "010474c510a944f8"
+   ],
+   "paraphrases": [
+    "What geographic area is subject to a territorial dispute between Spain and the United Kingdom?",
+    "The UK and Spain are at odds over which region does it control?"
+   ]
+  },
+  {
+   "query": "where is the host file located in windows server 2008 r2",
+   "answer": "%SystemRoot%\\System32\\drivers\\etc\\hosts",
+   "gold": [
+    "df5a81b4be2d5166"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "where was the world economic forum held this year",
+   "answer": "Davos, a mountain resort in Graub\u00fcnden, in the eastern Alps region of Switzerland",
+   "gold": [
+    "c89336650dd9808a"
+   ],
+   "paraphrases": [
+    "What town hosted the annual World Economic Forum gathering in recent times?",
+    "The location of this year's World Economic Forum meeting is what?",
+    "At which city did the World Economic Forum take place during its most recent iteration?"
+   ]
+  },
+  {
+   "query": "sri lanka belongs to which part of asia",
+   "answer": "South Asia",
+   "gold": [
+    "c31e41af09df2fbb"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who are the permanent member of un security council",
+   "answer": "China (formerly the Republic of China), Russia (formerly the Soviet Union), France, the United Kingdom, and the United States",
+   "gold": [
+    "d08427c0e44fe796"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "when did the first fleet arive in australia",
+   "answer": "18 January 1788",
+   "gold": [
+    "d7744241c9d03567"
+   ],
+   "paraphrases": [
+    "What was the date of arrival for the First Fleet in Australia?",
+    "The First Fleet arrived in Australia on what specific date?"
+   ]
+  },
+  {
+   "query": "what is the pirates of the caribbean in order",
+   "answer": "The Curse of the Black Pearl",
+   "gold": [
+    "6dc79bc9856125fa"
+   ],
+   "paraphrases": [
+    "In what order were the Pirates of the Caribbean movies released?"
+   ]
+  },
+  {
+   "query": "who played john clark sr on nypd blue",
+   "answer": "Joe Spano",
+   "gold": [
+    "50e7466f1122f968"
+   ],
+   "paraphrases": [
+    "What actor portrayed John Clark Sr. in the TV series NYPD Blue?"
+   ]
+  },
+  {
+   "query": "who invented the cornell method of note taking",
+   "answer": "Walter Pauk",
+   "gold": [
+    "54d60f35641ac8db"
+   ],
+   "paraphrases": [
+    "What individual is credited with developing the Cornell Note-taking system?",
+    "Who developed the Cornell Method of Note-taking?",
+    "Can you identify the person responsible for creating the Cornell Note-taking approach?"
+   ]
+  },
+  {
+   "query": "in 1973 congress passed the war powers resolution to",
+   "answer": "check the president's power to commit the United States to an armed conflict without the consent of the U.S. Congress",
+   "gold": [
+    "8bf7394ef1c57bee"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who was executed for being an american spy during the revolutionary war",
+   "answer": "Nathan Hale",
+   "gold": [
+    "e63a03dd32ef90dd"
+   ],
+   "paraphrases": [
+    "What patriot was put to death for espionage activities during the American Revolutionary War?"
+   ]
+  },
+  {
+   "query": "how much energy does coal produce in the us",
+   "answer": "16.5 quadrillion BTUs",
+   "gold": [
+    "c9f335e69be2eb36"
+   ],
+   "paraphrases": [
+    "What percentage of US energy production comes from coal?",
+    "Coal's contribution to the overall US energy mix is what size?"
+   ]
+  },
+  {
+   "query": "what is the role of reverse transcriptase in retroviral infection",
+   "answer": "to convert single-stranded genomic RNA into double-stranded cDNA which can integrate into the host genome, potentially generating a long-term infection that can be very difficult to eradicate",
+   "gold": [
+    "f34c4fc6d831a18e"
+   ],
+   "paraphrases": [
+    "What role does reverse transcriptase play in facilitating retroviral infection?",
+    "The function of reverse transcriptase is to enable retroviral infection. Can you explain its purpose in this process?",
+    "How does reverse transcriptase contribute to the mechanism of retroviral infection?"
+   ]
+  },
+  {
+   "query": "when did muhammad ali win an olympic gold medal",
+   "answer": "1960",
+   "gold": [
+    "cc9c114b7771e4e6"
+   ],
+   "paraphrases": [
+    "What year did Muhammad Ali capture an Olympic gold medal?",
+    "At what point in his career did Muhammad Ali earn an Olympic gold medal?",
+    "In which year did Muhammad Ali take home the top prize at the Olympics?"
+   ]
+  },
+  {
+   "query": "where was it happened at the world fair filmed",
+   "answer": "Seattle, Washington",
+   "gold": [
+    "c3112379433be06f"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "the intermaxillary segment formed by the fusion of the",
+   "answer": "tissues in the vicinity of the nose",
+   "gold": [
+    "1fafb28b87d7425b"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "when did first fast and furious come out",
+   "answer": "2001",
+   "gold": [
+    "1aca62da559e301b"
+   ],
+   "paraphrases": [
+    "What was the release date of the initial film in the Fast and Furious franchise?"
+   ]
+  },
+  {
+   "query": "when does star wars battlefront 2 com out",
+   "answer": "November 17, 2017",
+   "gold": [
+    "48a2894026eec4cc"
+   ],
+   "paraphrases": [
+    "What is the release date for Star Wars Battlefront 2?",
+    "At what point in time will Star Wars Battlefront 2 be available?"
+   ]
+  },
+  {
+   "query": "who was defeated in the french and indian war",
+   "answer": "France",
+   "gold": [
+    "5770ae97a0c63edf"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "who coined the phrase let get ready to rumble",
+   "answer": "Michael Buffer",
+   "gold": [
+    "eb3829d66a8f0a61"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "when did the us take over wake island",
+   "answer": "January 17, 1899",
+   "gold": [
+    "f2979d068b846a90"
+   ],
+   "paraphrases": [
+    "What is the historical date of the United States' occupation of Wake Island?",
+    "At what point in time did the US assume control over Wake Island?",
+    "When was the US first involved in governing Wake Island?"
+   ]
+  },
+  {
+   "query": "when did men's curling start in the olympics",
+   "answer": "1998",
+   "gold": [
+    "1fb05e754a5203ff"
+   ],
+   "paraphrases": [
+    "Men's curling was introduced as an Olympic event in what year?",
+    "At what point in history did men's curling make its debut at the Olympics?"
+   ]
+  },
+  {
+   "query": "what does it mean to be pound for pound",
+   "answer": "a ranking used in combat sports, such as boxing[1] or mixed martial arts,[2] of who the better fighters are relative to their weight",
+   "gold": [
+    "9086c4fb593a24f9"
+   ],
+   "paraphrases": [
+    "What do the words \"pound for pound\" imply?",
+    "Does \"pound for pound\" convey a specific meaning in this context?"
+   ]
+  },
+  {
+   "query": "who plays lefou in beauty and the beast 1991",
+   "answer": "Venezuelan voice actor Jesse Corti",
+   "gold": [
+    "c6dacd6e0314a35f"
+   ],
+   "paraphrases": [
+    "What actor portrays LeFou in the 1991 film Beauty and the Beast?",
+    "In the 1991 animated Disney classic Beauty and the Beast, which actor provides the voice for the role of LeFou?"
+   ]
+  },
+  {
+   "query": "when did the apple iphone se come out",
+   "answer": "March 31, 2016",
+   "gold": [
+    "7e66d3df211ac4e8"
+   ],
+   "paraphrases": [
+    "What was the release date of the original Apple iPhone?"
+   ]
+  },
+  {
+   "query": "when's the last time army won the army navy game",
+   "answer": "2017",
+   "gold": [
+    "c17fa7a8a4ed83c2"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "where is bermuda located on the world map",
+   "answer": "approximately 1,070 km (665 mi) east-southeast of Cape Hatteras, North Carolina; 1,236 km (768 mi) south of Cape Sable Island, Nova Scotia; and 1,578 km (981 mi) north of Puerto Rico",
+   "gold": [
+    "f8b7d5e2593a9f8b"
+   ],
+   "paraphrases": [
+    "What is the location of Bermuda on a global scale?",
+    "Can you pinpoint the exact spot where Bermuda is situated on a world map?",
+    "In which region would you find Bermuda if you were to consult a worldwide geographic representation?"
+   ]
+  },
+  {
+   "query": "who is given credit for inventing the aqua lung",
+   "answer": "\u00c9mile Gagnan",
+   "gold": [
+    "3d51670caa4d4f81"
+   ],
+   "paraphrases": [
+    "What individual is credited with the invention of the aqua lung?",
+    "Who typically receives recognition for developing the aqua lung?",
+    "Credit is usually accorded to which person for inventing the aqua lung?"
+   ]
+  },
+  {
+   "query": "how many episodes in game if thrones season 7",
+   "answer": "seven",
+   "gold": [
+    "cfc12e4ce04e1019"
+   ],
+   "paraphrases": [
+    "What is the total number of episodes that comprise Game of Thrones Season 7?",
+    "How many individual installments does Game of Thrones Season 7 feature?",
+    "Can you tell me the count of episodes that make up the seventh season of Game of Thrones?"
+   ]
+  }
+ ]
+}

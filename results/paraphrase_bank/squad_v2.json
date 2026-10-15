@@ -1,0 +1,3244 @@
+{
+ "dataset": "squad_v2",
+ "paraphraser": "llama3:latest",
+ "candidates": 814,
+ "kept": 573,
+ "bases": [
+  {
+   "query": "What Revolutionary War midnight rider was a Huguenot descendant?",
+   "answer": "Paul Revere",
+   "gold": [
+    "0a118a818a197b12"
+   ],
+   "paraphrases": [
+    "What was the identity of the midnight messenger who was a descendant of Huguenots during the Revolutionary War era?"
+   ]
+  },
+  {
+   "query": "By how many kilometers does the traveling salesman problem seek to classify a route between the 15 largest cities in Germany?",
+   "answer": "2000",
+   "gold": [
+    "00b76f48835bfc24"
+   ],
+   "paraphrases": [
+    "What is the distance gap that the traveling salesman problem aims to minimize when finding a route connecting the 15 biggest cities in Germany?"
+   ]
+  },
+  {
+   "query": "How are the packets routed ",
+   "answer": "individually, sometimes resulting in different paths and out-of-order delivery",
+   "gold": [
+    "415f6ece6468aa11"
+   ],
+   "paraphrases": [
+    "How do packets get directed?",
+    "What is the process by which packets are guided through a network?",
+    "In what way are data packets steered?"
+   ]
+  },
+  {
+   "query": "What did the Jewish people do so pagan items wouldn't be in the temple of Jerusalem?",
+   "answer": "gathered in the streets",
+   "gold": [
+    "0078a3aad6d29993"
+   ],
+   "paraphrases": [
+    "Jewish people took what measures to ensure that idols and other non-Jewish objects were not brought into the Temple of Jerusalem?",
+    "To prevent the desecration of their sacred space, what actions did Jewish people take regarding pagan items and the Temple of Jerusalem?",
+    "What steps did Jewish people take to keep the Temple of Jerusalem free from the presence of non-Jewish cultic objects?"
+   ]
+  },
+  {
+   "query": "What is included with each packet label",
+   "answer": "Each packet is labeled with a destination address, source address, and port numbers. It may also be labeled with the sequence number of the packet",
+   "gold": [
+    "415f6ece6468aa11"
+   ],
+   "paraphrases": [
+    "What information accompanies each packet label?",
+    "Packet labels include what specific details?",
+    "Each packet label contains which particulars?"
+   ]
+  },
+  {
+   "query": "Which article made provisions for concentrations or mergers and the abuse of a dominant position by companies?",
+   "answer": "article 66",
+   "gold": [
+    "ca02817db884a9c2"
+   ],
+   "paraphrases": [
+    "What provisions were established in an article governing concentrations or mergers and the abuse of a dominant market position by businesses?"
+   ]
+  },
+  {
+   "query": "Where are the gonads located?",
+   "answer": "in the parts of the internal canal network under the comb rows",
+   "gold": [
+    "d4b179250b58e123"
+   ],
+   "paraphrases": [
+    "What is the anatomical location of the reproductive organs?",
+    "In what part of the body can you find the sex glands?",
+    "The testes and ovaries are situated in which area?"
+   ]
+  },
+  {
+   "query": "What English chemist showed that fire only needed nitoaereus?",
+   "answer": "John Mayow",
+   "gold": [
+    "d8abf737112efa93"
+   ],
+   "paraphrases": [
+    "Is there a notable English chemist who proved that fire requires only nitre to continue burning?",
+    "Did an English chemist uncover the surprising fact that fire can thrive solely with the presence of nitre?"
+   ]
+  },
+  {
+   "query": "The average contractor hired how many employees?",
+   "answer": "fewer than 10 employees",
+   "gold": [
+    "7f004f5ed5931562"
+   ],
+   "paraphrases": [
+    "What was the typical quantity of people a building contractor had working for him?",
+    "How many individuals did a standard builder typically have on his payroll?"
+   ]
+  },
+  {
+   "query": "The modern trend in design is toward integration of what?",
+   "answer": "previously separated specialties",
+   "gold": [
+    "2c447bf3a7af6862"
+   ],
+   "paraphrases": [
+    "Designers today focus on combining which elements to achieve harmony?",
+    "In contemporary design, what features are being brought together to produce a unified visual style?"
+   ]
+  },
+  {
+   "query": "In which direction does the west side of Fresno neighborhood lie to the 99 freeway?",
+   "answer": "southwest",
+   "gold": [
+    "7c68f0f764734062"
+   ],
+   "paraphrases": [
+    "What is the relative location of the western boundary of Fresno neighborhood in relation to the 99 freeway?",
+    "To which side of the 99 freeway does the west side of Fresno neighborhood face?",
+    "The west side of Fresno neighborhood lies on what side of the 99 freeway?"
+   ]
+  },
+  {
+   "query": "What are the secretions commonly called?",
+   "answer": "ink",
+   "gold": [
+    "ee37f6d5e8ae5ffa"
+   ],
+   "paraphrases": [
+    "These body fluids are also referred to as what?"
+   ]
+  },
+  {
+   "query": "What did Philo incorrectly assume that the air became?",
+   "answer": "fire",
+   "gold": [
+    "1eabc60bd67e2820"
+   ],
+   "paraphrases": [
+    "What was Philo's mistaken notion about the state of the air?",
+    "Philo mistakenly believed the air transformed into what exactly?",
+    "In his misinformed thinking, what form did Philo believe the air took?"
+   ]
+  },
+  {
+   "query": "What 3 things does the Air Force work key on ",
+   "answer": "use of a decentralized network with multiple paths between any two points, dividing user messages into message blocks",
+   "gold": [
+    "a4008fb587348767"
+   ],
+   "paraphrases": [
+    "What are the three primary focuses of the Air Force's efforts?",
+    "The Air Force concentrates its attention on what three main areas?"
+   ]
+  },
+  {
+   "query": "Which company did Mrs Foster work for?",
+   "answer": "British Gas plc",
+   "gold": [
+    "bcb1003142eb1518"
+   ],
+   "paraphrases": [
+    "What was the name of the corporation where Mrs Foster held her position?",
+    "At which organization did Mrs Foster find employment?",
+    "Which firm employed Mrs Foster in a professional capacity?"
+   ]
+  },
+  {
+   "query": "What device is used to recycle the boiler water in most steam engines?",
+   "answer": "water pump",
+   "gold": [
+    "777ba60932fa02fb"
+   ],
+   "paraphrases": [
+    "What type of equipment is typically employed to re-circulate boiler water within a typical steam engine setup?",
+    "The component responsible for recycling boiler water in most steam engines is which one?",
+    "In what manner is the boiler water reused in most steam engines, and what device specifically facilitates this process?"
+   ]
+  },
+  {
+   "query": "Who often operates internet pharmacies?",
+   "answer": "brick-and-mortar community pharmacies that serve consumers online and those that walk in their door",
+   "gold": [
+    "c6305dffc303d36c"
+   ],
+   "paraphrases": [
+    "Who typically runs online drugstores?"
+   ]
+  },
+  {
+   "query": "How has this debate been proven?",
+   "answer": "This debate has proved difficult",
+   "gold": [
+    "f9de1761ee43bd39"
+   ],
+   "paraphrases": [
+    "What evidence supports the claims made in this debate?",
+    "How does one demonstrate the validity of this debate's arguments?"
+   ]
+  },
+  {
+   "query": "What percentage of electrical power in the United States is made by steam turbines?",
+   "answer": "90",
+   "gold": [
+    "be940bee7bb45d69"
+   ],
+   "paraphrases": [
+    "What proportion of electricity generated in the United States originates from steam turbine technology?",
+    "What percentage of total US electricity output is produced by means of steam-driven turbines?",
+    "In terms of energy generation, what share of US power production comes from steam-powered turbines?"
+   ]
+  },
+  {
+   "query": "Where is Brazil ranked globally in soybean production?",
+   "answer": "second-largest global producer",
+   "gold": [
+    "3895e66f384dc9af"
+   ],
+   "paraphrases": [
+    "What is Brazil's global ranking in terms of soybean production?",
+    "Globally, what position does Brazil occupy in the context of soybean crop yields?"
+   ]
+  },
+  {
+   "query": "What other sources of high oxidative potential can add to a fire?",
+   "answer": "compounds of oxygen",
+   "gold": [
+    "ad88fe48ac1ab4c4"
+   ],
+   "paraphrases": [
+    "What additional fuels with high oxidative potential could potentially feed a fire?",
+    "Can you identify other substances that possess a high potential for oxidation and might be added to an existing fire?"
+   ]
+  },
+  {
+   "query": "Where was the location of the colonial government that administered the new colony?",
+   "answer": "Sydney",
+   "gold": [
+    "73c9e930c6dd2929"
+   ],
+   "paraphrases": [
+    "What region did the colonial government that governed the newly established settlement call home?",
+    "In which area was the governing body responsible for the new colony situated?"
+   ]
+  },
+  {
+   "query": "Which group has two layers of cells with a middle layer of mesoglea?",
+   "answer": "sponges and cnidarians, ctenophores",
+   "gold": [
+    "0b5c5e9ff90b17df"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "Where did scientists find their Y. pestis sample? ",
+   "answer": "from the tooth sockets in human skeletons",
+   "gold": [
+    "14726515a519c37e"
+   ],
+   "paraphrases": [
+    "Scientists discovered their Y. pestis sample in what location?",
+    "The Y. pestis sample was found by scientists at which site?",
+    "Scientists located their Y. pestis sample in which area?"
+   ]
+  },
+  {
+   "query": "What was Norman Cantor's theory about the plague?",
+   "answer": "a combination of anthrax and other pandemics",
+   "gold": [
+    "8f276d70be8d055b"
+   ],
+   "paraphrases": [
+    "Norman Cantor's idea about the plague was what?"
+   ]
+  },
+  {
+   "query": "What second part of air was deemed lifeless by Lavoisier?",
+   "answer": "azote",
+   "gold": [
+    "99ba13b83b00cb79"
+   ],
+   "paraphrases": [
+    "What portion of air did Lavoisier consider to be lifeless in its second form?",
+    "Lavoisier considered what as lifeless when it occurred in the second state of air?",
+    "In his analysis, what aspect of air did Lavoisier deem lifeless in its second manifestation?"
+   ]
+  },
+  {
+   "query": "Which party is strongest in Victoria's northwestern and eastern regions?",
+   "answer": "National Party",
+   "gold": [
+    "1f0fc4793c092f70"
+   ],
+   "paraphrases": [
+    "What party has traditionally held sway over Victoria's northwestern and eastern areas?",
+    "In which parts of Victoria, specifically the northwestern and eastern regions, does a particular party enjoy greatest support?"
+   ]
+  },
+  {
+   "query": "Who was a prominent Huguenot in Holland?",
+   "answer": "Pierre Bayle",
+   "gold": [
+    "52e533d595a50176"
+   ],
+   "paraphrases": [
+    "What notable Huguenot figure played a significant role in Dutch history?",
+    "Which influential Huguenot refugee left their mark on the Dutch community?"
+   ]
+  },
+  {
+   "query": "In an atmospheric engine, what does air pressure push against?",
+   "answer": "piston",
+   "gold": [
+    "584f3e0b53ad471e"
+   ],
+   "paraphrases": [
+    "What is pushed by air pressure in an atmospheric engine?",
+    "In an atmospheric engine, which surface does air pressure exert its force on?"
+   ]
+  },
+  {
+   "query": "What are the eight comb rows on the outer surface called?",
+   "answer": "swimming-plates",
+   "gold": [
+    "db10d196495a1619"
+   ],
+   "paraphrases": [
+    "What is the term for the eight comb-like structures found on the outer surface?",
+    "The eight ridges located on the exterior of what are they collectively known as?",
+    "On the outside, a series of eight projections are referred to by what name?"
+   ]
+  },
+  {
+   "query": "Why would one want to give a speech?",
+   "answer": "explaining their actions",
+   "gold": [
+    "7707b43e2d9349ec"
+   ],
+   "paraphrases": [
+    "What is the motivation behind delivering an oral presentation?",
+    "To what end might someone choose to address an audience verbally?"
+   ]
+  },
+  {
+   "query": "What measurement do scientists used to determine the quality of water?",
+   "answer": "biochemical oxygen demand",
+   "gold": [
+    "ab5c862550d9c095"
+   ],
+   "paraphrases": [
+    "What parameters do researchers utilize to assess the purity of water?",
+    "What metric do scientists employ to gauge the excellence of water?",
+    "By what standard do experts measure the caliber of water?"
+   ]
+  },
+  {
+   "query": "Who is required to verify and have existing utility lines marked?",
+   "answer": "contractors",
+   "gold": [
+    "980a20d86de338dc"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "How are AUSTPAC connections made ",
+   "answer": "Access can be via a dial-up terminal to a PAD, or, by linking a permanent X.25 node to the network",
+   "gold": [
+    "1f239cb46f0c6bc9"
+   ],
+   "paraphrases": [
+    "What is the process for creating an AUSTPAC connection?",
+    "How do you establish a link between entities using AUSTPAC?",
+    "In what way are AUSTPAC connections formed?"
+   ]
+  },
+  {
+   "query": "Where is the principle of proportionality recognized in the EC treaty?",
+   "answer": "in Article 5",
+   "gold": [
+    "a9fac3680b78bf80"
+   ],
+   "paraphrases": [
+    "In which article of the EC treaty is the principle of proportionality enshrined?"
+   ]
+  },
+  {
+   "query": "What molecule does the Sun have in higher proportion than Earth?",
+   "answer": "oxygen-16",
+   "gold": [
+    "11e489536cc7ac71"
+   ],
+   "paraphrases": [
+    "What is the molecular composition of the Sun compared to that of Earth, and which molecule does it have in greater abundance?",
+    "The Sun has a higher concentration of what type of molecule relative to our planet?"
+   ]
+  },
+  {
+   "query": "Refineries, process chemical, power generation, mills and manufacturing plants are under what sector of construction?",
+   "answer": "Industrial",
+   "gold": [
+    "0303b992326c30ab"
+   ],
+   "paraphrases": [
+    "Industrial facilities that include refineries, process chemical plants, power generation stations, mills, and manufacturing facilities fall within which category of the construction industry?",
+    "Which sector of construction encompasses industrial facilities such as refineries, process chemical plants, power generation stations, mills, and manufacturing facilities?",
+    "Do industrial facilities like refineries, process chemical plants, power generation stations, mills, and manufacturing facilities belong to a specific sector within the construction industry?"
+   ]
+  },
+  {
+   "query": "In modern times, firms may offer themselves as what for a construction project?",
+   "answer": "\"one-stop shopping\"",
+   "gold": [
+    "2c447bf3a7af6862"
+   ],
+   "paraphrases": [
+    "In modern times, which option do firms typically opt for in offering their services for a construction project?",
+    "What type of entity do companies usually present themselves as when bidding on a construction project in contemporary times?",
+    "Can a company nowadays position itself as what when seeking to participate in the development of a construction project?"
+   ]
+  },
+  {
+   "query": "What is the main difference between online pharmacies and community pharmacies?",
+   "answer": "the method by which the medications are requested and received",
+   "gold": [
+    "c6305dffc303d36c"
+   ],
+   "paraphrases": [
+    "What are the key distinctions between online pharmacies and traditional community pharmacies?",
+    "How do online pharmacies differ fundamentally from brick-and-mortar community pharmacies?"
+   ]
+  },
+  {
+   "query": "Thoreau mentions what type of person could corrupt a government system?",
+   "answer": "elite politicians",
+   "gold": [
+    "f9ec01d3339f2f3a"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "Which organic compounds contain the greatest amount of oxygen by mass?",
+   "answer": "carbohydrates",
+   "gold": [
+    "bb44cc7d6df50b60"
+   ],
+   "paraphrases": [
+    "Organic compounds that contain the most oxygen by mass are which ones?"
+   ]
+  },
+  {
+   "query": "When violence is used, what is civil disobedience sometimes called?",
+   "answer": "civil rebellion",
+   "gold": [
+    "f21c4becc50a26d5"
+   ],
+   "paraphrases": [
+    "What term is often applied to civil disobedience when it employs violent means?",
+    "Civil disobedience that incorporates physical force goes by what name?",
+    "In instances where civil disobedience resorts to aggressive action, what label is commonly assigned?"
+   ]
+  },
+  {
+   "query": "What does connection orientation require",
+   "answer": "a setup phase in each involved node before any packet is transferred to establish the parameters of communication",
+   "gold": [
+    "b2e6e0a40bc743d3"
+   ],
+   "paraphrases": [
+    "What is necessary for connection orientation?",
+    "What specific requirement must be met in order to achieve connection orientation?"
+   ]
+  },
+  {
+   "query": "What is unique about  simultaneous hermaphrodites?",
+   "answer": "can produce both eggs and sperm at the same time.",
+   "gold": [
+    "70150ba659ef2c4b"
+   ],
+   "paraphrases": [
+    "What characteristic sets apart organisms that exhibit simultaneous hermaphroditism from others?",
+    "How do species that display both male and female reproductive organs at the same time differ from those that do not?",
+    "In what ways are animals that possess identical male and female reproductive structures simultaneously distinct from those that do not?"
+   ]
+  },
+  {
+   "query": "Where did Harold II die?",
+   "answer": "Battle of Hastings",
+   "gold": [
+    "b0cc267c558cbacb"
+   ],
+   "paraphrases": [
+    "What was the location of Harold's II demise?",
+    "In what place did Harold II meet his end?"
+   ]
+  },
+  {
+   "query": "What type of vote must the Parliament have to either block or suggest changes to the Commission's proposals?",
+   "answer": "a majority",
+   "gold": [
+    "3c1fdff7bdb3cfd3"
+   ],
+   "paraphrases": [
+    "What kind of approval does the European Parliament require in order to veto or propose alterations to the European Commission's suggestions?",
+    "The Parliament must possess what sort of mandate to either reject or modify the Commission's recommendations?"
+   ]
+  },
+  {
+   "query": "What book of the Bible discusses civil disobedience?",
+   "answer": "Book of Exodus",
+   "gold": [
+    "d3683b277766779b"
+   ],
+   "paraphrases": [
+    "Which book in the Holy Scriptures examines the principles of nonviolent protest?",
+    "In which part of the Christian scripture is the idea of deliberate, law-abiding dissent explored?"
+   ]
+  },
+  {
+   "query": "What is stratigraphy?",
+   "answer": "the study of sedimentary layers",
+   "gold": [
+    "d93c7d5b00d35e99"
+   ],
+   "paraphrases": [
+    "The layers of rock formed by sedimentation and their sequence in time and space are collectively referred to as what?"
+   ]
+  },
+  {
+   "query": "In what country can most of the Amazon rainforest be found?",
+   "answer": "Brazil",
+   "gold": [
+    "c7c7ec362f0439a4"
+   ],
+   "paraphrases": [
+    "What percentage of the Amazon rainforest is typically located within a specific nation's borders?",
+    "In which country does the majority of the Amazon rainforest primarily reside?"
+   ]
+  },
+  {
+   "query": "Where did Huguenots and Walloons settle in England?",
+   "answer": "Canterbury",
+   "gold": [
+    "f684d24fedd06ae1"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "What trading company helped settle Huguenots near the Cape?",
+   "answer": "Dutch East India Company",
+   "gold": [
+    "395b1cfae86dbeb3"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "What is the main reason consulting pharmacists are increasingly working directly with patients?",
+   "answer": "because many elderly people are now taking numerous medications but continue to live outside of institutional settings",
+   "gold": [
+    "7a964e744589792d"
+   ],
+   "paraphrases": [
+    "What prompts a growing number of consulting pharmacists to establish direct relationships with patients?",
+    "Why are more and more consulting pharmacists opting to engage in patient-focused work?"
+   ]
+  },
+  {
+   "query": "Although southern california consts of a heavily developed urban environment, how much of it has been left undeveloped?",
+   "answer": "vast areas",
+   "gold": [
+    "8c3b7f94a92a31bd"
+   ],
+   "paraphrases": [
+    "Despite its densely populated metropolitan areas, what percentage of Southern California remains untouched by human development?",
+    "In contrast to its bustling cities and towns, just how much of Southern California's landscape has escaped the grasp of urbanization?",
+    "While urbanization has thoroughly transformed most of Southern California, what proportion of it has been spared from the effects of human activity?"
+   ]
+  },
+  {
+   "query": "What is the total make up of fish species living in the Amazon?",
+   "answer": "one in five",
+   "gold": [
+    "e9030e5e203b110c"
+   ],
+   "paraphrases": [
+    "What is the combined tally of fish species that inhabit the Amazon ecosystem?",
+    "What is the overall count of fish species found in the Amazon environment?",
+    "Can you provide a comprehensive list of fish species that reside within the Amazon basin?"
+   ]
+  },
+  {
+   "query": "What has the Court required to be more accessible?",
+   "answer": "higher education",
+   "gold": [
+    "b425c59663b1f599"
+   ],
+   "paraphrases": [
+    "What must the Court ensure is more readily available?"
+   ]
+  },
+  {
+   "query": "Which parts of the Earth are included in the lithosphere? ",
+   "answer": "the crust and rigid uppermost portion of the upper mantle",
+   "gold": [
+    "550636c40fe4508a"
+   ],
+   "paraphrases": [
+    "What regions of the Earth make up the lithosphere?",
+    "The lithosphere includes which portions of our planet?"
+   ]
+  },
+  {
+   "query": "By what means were scientists able to liquefy air?",
+   "answer": "compressing and cooling",
+   "gold": [
+    "36476aaf2aea4f79"
+   ],
+   "paraphrases": [
+    "What methods did scientists employ to transform air into a liquid state?",
+    "How did scientists manage to condense and liquefy atmospheric gases?",
+    "What procedures allowed scientists to convert air into its liquid form?"
+   ]
+  },
+  {
+   "query": "What scientific field's theory has received contributions from the steam engine?",
+   "answer": "thermodynamic",
+   "gold": [
+    "90f58333c97a52e6"
+   ],
+   "paraphrases": [
+    "What branch of science has seen its principles refined by the development of the steam engine?",
+    "The theory of which scientific discipline was influenced by the invention of the steam engine?"
+   ]
+  },
+  {
+   "query": "In the case Geven v Land Nordrhein-Westfalen, how many hours was the Dutch woman in question working in Germany?",
+   "answer": "between 3 and 14 hours a week",
+   "gold": [
+    "d59faf758de4ddf1"
+   ],
+   "paraphrases": [
+    "What is the number of hours worked by the Dutch woman in the context of the court case Geven v Land Nordrhein-Westfalen?"
+   ]
+  },
+  {
+   "query": "In the year 2000 how many square kilometres of the Amazon forest had been lost?",
+   "answer": "587,000",
+   "gold": [
+    "3895e66f384dc9af"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "In order to better understand the orientations of faults and folds, structural geologists do what with measurements of geological structures?",
+   "answer": "plot and combine",
+   "gold": [
+    "ab6a56d5f9eb9f32"
+   ],
+   "paraphrases": [
+    "What are the steps taken by structural geologists to gain a deeper comprehension of fault and fold orientations based on measurements of geological structures?",
+    "To elucidate the orientations of faults and folds, structural geologists conduct what kind of analysis using data from geological structure measurements?",
+    "Structural geologists employ which type of measurement analysis to comprehend the orientations of faults and folds more effectively?"
+   ]
+  },
+  {
+   "query": "Jamboree Business Parks belongs to which business center?",
+   "answer": "West Irvine",
+   "gold": [
+    "3990a188c951ac2a"
+   ],
+   "paraphrases": [
+    "What business center does Jamboree Business Parks belong to?",
+    "Jamboree Business Parks is a part of what business center?",
+    "To which business center does Jamboree Business Parks owe its allegiance?"
+   ]
+  },
+  {
+   "query": "What were the origins of the Raouliii family?",
+   "answer": "Norman mercenary",
+   "gold": [
+    "b1d0c552c7191c03"
+   ],
+   "paraphrases": [
+    "What is the ancestral history of the Raouliii family?",
+    "From where did the Raouliii family originate?",
+    "Can you trace back the roots of the Raouliii family to its earliest beginnings?"
+   ]
+  },
+  {
+   "query": "What equates to a squared integer according to polynomial time reduction?",
+   "answer": "multiplying two integers",
+   "gold": [
+    "54711cd280362ef0"
+   ],
+   "paraphrases": [
+    "What is equivalent to a squared integer under a polynomial-time reduction?",
+    "Under a polynomial-time reduction, what quantity is equivalent to a squared integer?",
+    "According to polynomial-time reduction, which value is equivalent to a squared integer?"
+   ]
+  },
+  {
+   "query": "What is KMJ now referred to?",
+   "answer": "NBC affiliate KSEE",
+   "gold": [
+    "2487c8649dc181a8"
+   ],
+   "paraphrases": [
+    "What is the current designation of KMJ?",
+    "KMJ is now commonly known as what?"
+   ]
+  },
+  {
+   "query": "The time required to output an answer on a deterministic Turing machine is expressed as what?",
+   "answer": "state transitions",
+   "gold": [
+    "5944ed72046a98d7"
+   ],
+   "paraphrases": [
+    "What does it mean for a deterministic Turing machine to take to produce its response?"
+   ]
+  },
+  {
+   "query": "Under normal conditions, what do two atoms of oxygen form?",
+   "answer": "dioxygen",
+   "gold": [
+    "e1e68b90e348d860"
+   ],
+   "paraphrases": [
+    "What is the typical product of the combination between two atoms of oxygen under standard circumstances?",
+    "When two atoms of oxygen bond together typically, what type of molecule results?"
+   ]
+  },
+  {
+   "query": "What type of technology is the non organic separating of gases?",
+   "answer": "non-cryogenic",
+   "gold": [
+    "9e5f19ae8c4bcea4"
+   ],
+   "paraphrases": [
+    "What kind of technological process involves the separation of gases without using living organisms?",
+    "Which type of technology separates gases without relying on biological systems?",
+    "Can you identify the type of technology that is used to separate gases without involving any organic components?"
+   ]
+  },
+  {
+   "query": "Residential construction practices, technologies, and resources must conform to what?",
+   "answer": "local building authority regulations and codes of practice",
+   "gold": [
+    "ce8d2359f23498cb"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "Which country was the last to receive the disease?",
+   "answer": "northwestern Russia",
+   "gold": [
+    "2e5e9baaa2d5e643"
+   ],
+   "paraphrases": [
+    "What nation was the final recipient of the disease?",
+    "In which country did the disease arrive lastly?",
+    "Which nation got the disease most recently?"
+   ]
+  },
+  {
+   "query": "Where did the world's first railway journey terminate?",
+   "answer": "Abercynon",
+   "gold": [
+    "8394917ed3c6abd9"
+   ],
+   "paraphrases": [
+    "What was the final destination of the world's inaugural railway journey?",
+    "The world's first railway journey ended at which location?",
+    "At what point did the world's pioneering railway journey come to a stop?"
+   ]
+  },
+  {
+   "query": "What signer of the Articles of Confederation was descended from Huguenots?",
+   "answer": "Henry Laurens",
+   "gold": [
+    "0a118a818a197b12"
+   ],
+   "paraphrases": [
+    "Who among those who signed the Articles of Confederation possessed heritage tied to the Huguenot faith?"
+   ]
+  },
+  {
+   "query": "What was the memoir entitled which was submitted to the American Philosophical Society?",
+   "answer": "Observations on the Geology of the United States explanatory of a Geological Map",
+   "gold": [
+    "b7ccb0b6320d2cd2"
+   ],
+   "paraphrases": [
+    "What was the title of the memoir that was presented to the American Philosophical Society?",
+    "The memoir presented to the American Philosophical Society went by what name?"
+   ]
+  },
+  {
+   "query": "How are the votes weighted to ensure that smaller states aren't dominated by larger ones?",
+   "answer": "inversely",
+   "gold": [
+    "dd04072038d1a3ed"
+   ],
+   "paraphrases": [
+    "What mechanism is used to balance the voting power of smaller states against larger ones?",
+    "To prevent smaller states from being overshadowed by their larger counterparts, what method is employed to distribute the weight of each state's vote?"
+   ]
+  },
+  {
+   "query": "Who were the current rights holders for the Primer League?",
+   "answer": "ITV",
+   "gold": [
+    "33e437b3aa69c51c"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "Where do pharmacists acquire more preparation following pharmacy school?",
+   "answer": "a pharmacy practice residency",
+   "gold": [
+    "cb0bbdad5ec4984d"
+   ],
+   "paraphrases": [
+    "Pharmacists obtain additional preparation after completing their education at pharmacy school where?",
+    "What opportunities exist for pharmacists to gain further preparation beyond their initial pharmacy schooling?",
+    "Following completion of a pharmacy degree, what avenues are available for pharmacists to acquire supplementary preparation?"
+   ]
+  },
+  {
+   "query": "What type of fault boundary is defined by having widespread powerful earthquakes, as in the state of California?",
+   "answer": "Transform boundaries",
+   "gold": [
+    "c8c47f5e5a648817"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "What did the BankAmericard allow customers do to that they couldn't do with previous financial instruments?",
+   "answer": "to revolve a balance",
+   "gold": [
+    "5aee5e7fbe75fde0"
+   ],
+   "paraphrases": [
+    "Can users perform certain actions with a BankAmericard that were not feasible with earlier payment methods?",
+    "In what ways did the BankAmericard empower its users compared to older forms of financial transactions?"
+   ]
+  },
+  {
+   "query": "For what reason would someone avoid crimes while protesting?",
+   "answer": "avoiding attribution",
+   "gold": [
+    "1e39559648bdfe42"
+   ],
+   "paraphrases": [
+    "What motivates individuals to refrain from committing crimes during a protest?",
+    "Someone might choose not to engage in criminal behavior when demonstrating, why is that?",
+    "What drives people to eschew illegal activities when expressing dissent through public assembly?"
+   ]
+  },
+  {
+   "query": "Brownlee justifies civil disobedience toward what branch of the government?",
+   "answer": "legal system",
+   "gold": [
+    "992197d93539b123"
+   ],
+   "paraphrases": [
+    "What branch of the government does Brownlee argue for resisting through civil disobedience?",
+    "Brownlee advocates for using civil disobedience against which government entity?",
+    "To which governmental institution does Brownlee justify employing civil disobedience?"
+   ]
+  },
+  {
+   "query": "WHy was the Merit network formed in Michigan ",
+   "answer": "as a means to help the state's educational and economic development",
+   "gold": [
+    "8680c2d1511073df"
+   ],
+   "paraphrases": [
+    "How did the Merit network come into being in Michigan to start with?",
+    "In what ways was the Merit network established in Michigan at its inception?"
+   ]
+  },
+  {
+   "query": "What industry has managed to survive major military spending cutbacks?",
+   "answer": "aerospace",
+   "gold": [
+    "493072669f8fd14c"
+   ],
+   "paraphrases": [
+    "What sector has demonstrated remarkable resilience in the face of significant reductions in defense expenditures?",
+    "The industry that has effectively navigated the challenges posed by substantial decreases in government spending on warfare has been which one?",
+    "Which industry has shown an impressive ability to adapt and thrive despite the severe cuts in military budgets?"
+   ]
+  },
+  {
+   "query": "What additional srevice did BSkyB offer besides HD channels that they claimed offered \"substantially more value\"?",
+   "answer": "Video On Demand",
+   "gold": [
+    "30b0e064c3aca4d3"
+   ],
+   "paraphrases": [
+    "What other service did BSkyB provide beyond its high-definition channel offerings that it touted as providing significantly increased value?",
+    "Apart from its high-definition channel lineup, what extra service did BSkyB claim would deliver noticeably greater value to customers?",
+    "In addition to its array of HD channels, what supplementary service did BSkyB market as providing a substantial increase in value for subscribers?"
+   ]
+  },
+  {
+   "query": "How many nations control this region in total?",
+   "answer": "This region includes territory belonging to nine nations.",
+   "gold": [
+    "c7c7ec362f0439a4"
+   ],
+   "paraphrases": [
+    "How does the number of nations that govern this region tally up?",
+    "What is the aggregate count of countries that hold sway over this geographical area?"
+   ]
+  },
+  {
+   "query": "What well-known archeologist believed the Amazon didn't have many inhabitants?",
+   "answer": "Betty Meggers",
+   "gold": [
+    "32aa68d3a51961f2"
+   ],
+   "paraphrases": [
+    "What famous archaeologist thought that the Amazon region was relatively sparsely populated?",
+    "The renowned archaeologist who held the view that the Amazon area had few permanent residents was whom?",
+    "Who was the prominent archaeologist who hypothesized that the Amazon jungle was home to a small number of inhabitants?"
+   ]
+  },
+  {
+   "query": "What is the largest stadium in Australia?",
+   "answer": "Melbourne Cricket Ground",
+   "gold": [
+    "3548c9026a06bf24"
+   ],
+   "paraphrases": [
+    "What is the biggest stadium in Australia?"
+   ]
+  },
+  {
+   "query": "That there currently exists no known integer factorization problem underpins what commonly used system?",
+   "answer": "modern cryptographic systems",
+   "gold": [
+    "aa681b6c7d1a2367"
+   ],
+   "paraphrases": [
+    "What fundamental system relies on the fact that there is no known integer factorization problem?",
+    "The existence of a currently unsolved integer factorization problem forms the foundation for which widely employed algorithm?"
+   ]
+  },
+  {
+   "query": "What are some of scientists arguments? ",
+   "answer": "the rainforest was reduced to small, isolated refugia separated by open forest and grassland",
+   "gold": [
+    "f9de1761ee43bd39"
+   ],
+   "paraphrases": [
+    "What do scientists claim to prove their points?",
+    "Some of the scientific community's main assertions are what?"
+   ]
+  },
+  {
+   "query": "Where do scientists think all of the plagues originated from?",
+   "answer": "China",
+   "gold": [
+    "61ba934084baf3b8"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "Dutch architect Janjaap Ruijssenaars's performative architecture 3D-printed building is scheduled to be built when?",
+   "answer": "Working versions of 3D-printing building technology are already printing",
+   "gold": [
+    "1b8917ce895b36f1"
+   ],
+   "paraphrases": [
+    "Janjaap Ruijssenaars' 3D-printed structure, a product of his performative architecture, has an anticipated completion date of when?",
+    "When will the 3D-printed edifice, designed by Janjaap Ruijssenaars in the context of his work on performative architecture, be fully constructed?",
+    "Janjaap Ruijssenaars' innovative building, featuring 3D printing and performative architecture, is slated to reach its final state when?"
+   ]
+  },
+  {
+   "query": "What type of engines became widespread around the end of the 19th century?",
+   "answer": "compound",
+   "gold": [
+    "a6b7ec7938b966c8"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "What was the one linear HD channel Virgin Media carried from November 2006 to July 2009?",
+   "answer": "BBC HD",
+   "gold": [
+    "450ad678c6861fc9"
+   ],
+   "paraphrases": [
+    "What single high-definition television channel did Virgin Media broadcast exclusively from November 2006 until July 2009?",
+    "Virgin Media offered a solitary linear HD channel between November 2006 and July 2009, but what was it?"
+   ]
+  },
+  {
+   "query": "During what period did downtown Fresno thrive?",
+   "answer": "Between the 1880s and World War II",
+   "gold": [
+    "757871995f001fd9"
+   ],
+   "paraphrases": [
+    "What was the era when downtown Fresno reached its peak of prosperity?",
+    "In which time frame did downtown Fresno experience its heyday as a vibrant urban center?"
+   ]
+  },
+  {
+   "query": "Where is the Asian influence strongest in Victoria?",
+   "answer": "Bendigo",
+   "gold": [
+    "114b4c83f0905851"
+   ],
+   "paraphrases": [
+    "What region of Victoria exhibits the most pronounced Asian cultural impact?",
+    "In which part of Victoria can you find the most significant Asian cultural imprint?",
+    "The Asian cultural presence is most prominent in what area of Victoria?"
+   ]
+  },
+  {
+   "query": "What would be needed to host a larger population?",
+   "answer": "agriculture",
+   "gold": [
+    "32aa68d3a51961f2"
+   ],
+   "paraphrases": [
+    "What essential changes would enable a community to accommodate more people?"
+   ]
+  },
+  {
+   "query": "What do tribes use Google Earth and GPS for?",
+   "answer": "to help strengthen their territorial claims",
+   "gold": [
+    "f4dabeabfa17830c"
+   ],
+   "paraphrases": [
+    "What purpose do tribal communities typically serve by utilizing Google Earth and GPS technologies?",
+    "How are native tribes generally employing Google Earth and GPS for their purposes?",
+    "In what ways are indigenous communities commonly using Google Earth and GPS tools?"
+   ]
+  },
+  {
+   "query": "What are three examples of complexity classes associated with definitions established by probabilistic Turing machines?",
+   "answer": "BPP, ZPP and RP",
+   "gold": [
+    "b12f8869c244fe80"
+   ],
+   "paraphrases": [
+    "Would you be able to give three examples of complexity classes that are related to definitions established by probabilistic Turing machines?"
+   ]
+  },
+  {
+   "query": "What did DECnet originally do ",
+   "answer": "connect two PDP-11 minicomputers",
+   "gold": [
+    "63be2650416e20d7"
+   ],
+   "paraphrases": [
+    "What was the primary function of DECnet when it was first introduced?",
+    "How did DECnet operate initially?",
+    "In its original form, what was the core purpose of DECnet?"
+   ]
+  },
+  {
+   "query": "What inventor built on to the findings of Philo of  Byzantium?",
+   "answer": "Leonardo da Vinci",
+   "gold": [
+    "1eabc60bd67e2820"
+   ],
+   "paraphrases": [
+    "What engineer expanded upon the ideas of Philo of Byzantium?",
+    "Philo of Byzantium's discoveries were further developed by which innovator?",
+    "Whose innovations drew inspiration from Philo of Byzantium's earlier work?"
+   ]
+  },
+  {
+   "query": "What is one common example of a critical complexity measure?",
+   "answer": "time",
+   "gold": [
+    "e3b13d85a858b90f"
+   ],
+   "paraphrases": [
+    "What are some notable examples of critical complexity measures, and can you cite one in particular that is widely recognized?",
+    "One prominent instance of a critical complexity measure is what specific type?"
+   ]
+  },
+  {
+   "query": "What did Davies call his system ",
+   "answer": "packet switching",
+   "gold": [
+    "fceaf8d74e889c18"
+   ],
+   "paraphrases": [
+    "Davies referred to what as his system?"
+   ]
+  },
+  {
+   "query": "What part of the Earth is composed of mostly of silicates of iron and magnesium?",
+   "answer": "Earth's mantle",
+   "gold": [
+    "1bb8a054229137a9"
+   ],
+   "paraphrases": [
+    "What portion of our planet is primarily made up of silicate minerals that are rich in iron and magnesium?",
+    "The Earth's crust is primarily composed of what type of mineral, which is characterized by the presence of silicon and ions of iron and magnesium?",
+    "Which part of the terrestrial sphere is dominated by silicates containing significant amounts of iron and magnesium?"
+   ]
+  },
+  {
+   "query": "Other than many sunny days, what characteristic is typical for the climate in souther California?",
+   "answer": "infrequent rain",
+   "gold": [
+    "c573b153ffd8943e"
+   ],
+   "paraphrases": [
+    "What characteristic of the climate in southern California stands out beyond the frequent sunshine it experiences?",
+    "Is there a defining feature of the climate in southern California that's more notable than the abundance of sunny days it enjoys?"
+   ]
+  },
+  {
+   "query": "What type of professionals are pharmacists?",
+   "answer": "healthcare professionals",
+   "gold": [
+    "a310999bb352084a"
+   ],
+   "paraphrases": [
+    "What kind of workers do you find in pharmacies?"
+   ]
+  },
+  {
+   "query": "What does the pleurobrachia have on opposite sides of its body?",
+   "answer": "a pair of long, slender tentacles",
+   "gold": [
+    "37330ae11a488365"
+   ],
+   "paraphrases": [
+    "What features are mirrored on either side of a Pleurobrachia's body?"
+   ]
+  },
+  {
+   "query": "What are the two primary constitutional sources of the European Union?",
+   "answer": "Treaty on European Union (TEU) and the Treaty on the Functioning of the European Union (TFEU)",
+   "gold": [
+    "8aa9f86abdd34927"
+   ],
+   "paraphrases": [
+    "The EU's constitutional basis is rooted in which two fundamental documents?"
+   ]
+  },
+  {
+   "query": "WHat allows customers to get Sky+ functions if they do not subscribe to BSkyB's channels?",
+   "answer": "monthly fee",
+   "gold": [
+    "4223eae6be53331c"
+   ],
+   "paraphrases": [
+    "What enables non-subscribers to access Sky+ features?",
+    "What permits non-BSkyB subscribers to utilize Sky+ functionality?",
+    "Does something else allow people who don't pay for BSkyB content to still use the Sky+ service?"
+   ]
+  },
+  {
+   "query": "In what century did the history of the steam engine begin?",
+   "answer": "first",
+   "gold": [
+    "73afbad581995770"
+   ],
+   "paraphrases": [
+    "What was the century in which the history of the steam engine started?",
+    "The start of the history of the steam engine took place in what century?",
+    "When did the story of the steam engine's development begin, and in which century did this happen?"
+   ]
+  },
+  {
+   "query": "Why did OPEC raise the price of oil to $5.11?",
+   "answer": "In response to American aid to Israel",
+   "gold": [
+    "dd048906ab302fce"
+   ],
+   "paraphrases": [
+    "What was the reason behind OPEC's decision to set the price of oil at $5.11?",
+    "OPEC's move to raise the price of oil to $5.11 - what drove this choice?"
+   ]
+  },
+  {
+   "query": "In what book did Betty Meggers describe the idea of the Amazon being sparsely populated?",
+   "answer": "Amazonia: Man and Culture in a Counterfeit Paradise",
+   "gold": [
+    "32aa68d3a51961f2"
+   ],
+   "paraphrases": [
+    "Which book contains Betty Meggers' argument for a relatively uninhabited Amazonian environment?"
+   ]
+  },
+  {
+   "query": "What is the term of office for each house member?",
+   "answer": "four years",
+   "gold": [
+    "2ef6bc8b598c3ae9"
+   ],
+   "paraphrases": [
+    "What is the duration for which a representative serves in each chamber?",
+    "How long do members of Congress serve their respective terms?",
+    "For how many years does each congressional representative hold office?"
+   ]
+  },
+  {
+   "query": "What is the exchange of a set of obligations between two or more parties?",
+   "answer": "A contract",
+   "gold": [
+    "0e1560b33ab1f933"
+   ],
+   "paraphrases": [
+    "What do you get when two or more parties agree to undertake certain responsibilities towards each other?",
+    "An agreement among multiple parties in which each party assumes specific commitments towards others is known as what?"
+   ]
+  },
+  {
+   "query": "What did ITV increase their yearly offer for control of the rights to broadcast the Primer League to?",
+   "answer": "\u00a334m",
+   "gold": [
+    "33e437b3aa69c51c"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "What three things are needed for construction to take place?",
+   "answer": "planning,[citation needed] design, and financing",
+   "gold": [
+    "ea82c9d7a805e960"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "When did the black death technically subside?",
+   "answer": "By the end of 1350",
+   "gold": [
+    "0b363ccd79edf5a3"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "How was the ctenophore mnemiopsis leidyi introduced into The Black Sea and the Sea of Azov?",
+   "answer": "via the ballast tanks of ships",
+   "gold": [
+    "e72f4d9a7040228d"
+   ],
+   "paraphrases": [
+    "What is the origin story behind the introduction of the invasive species Mnemiopsis leidyi to the Black Sea and the Sea of Azov?"
+   ]
+  },
+  {
+   "query": "Gandhi often referenced Shelley's poem in his efforts to do what? ",
+   "answer": "free India",
+   "gold": [
+    "8e240428cc00a7e3"
+   ],
+   "paraphrases": [
+    "In his endeavors, Gandhi repeatedly drew inspiration from Shelley's poetry for which particular goal?"
+   ]
+  },
+  {
+   "query": "Classification of resources is contingent on determining the upper and lower bounds of minimum time required by what?  ",
+   "answer": "the most efficient algorithm",
+   "gold": [
+    "217d81bcc0dab6b3"
+   ],
+   "paraphrases": [
+    "The classification of resources hinges on establishing the threshold values for the minimum time required by what factor?",
+    "The level at which resource classification depends on identifying the extreme points marking the lower and upper bounds of the time necessary for a specific process?"
+   ]
+  },
+  {
+   "query": "Photosynthesis uses which energy to for oxygen from water?",
+   "answer": "sunlight",
+   "gold": [
+    "6b5baac861c36b5f"
+   ],
+   "paraphrases": [
+    "What type of energy is used by photosynthesis to release oxygen from water molecules?",
+    "Photosynthesis employs what kind of energy to liberate oxygen from H2O?",
+    "Does photosynthesis utilize solar energy to produce oxygen from water?"
+   ]
+  },
+  {
+   "query": "What happens as they build phase 1?",
+   "answer": "they design phase 2",
+   "gold": [
+    "4bfde5c5f53f6992"
+   ],
+   "paraphrases": [
+    "What occurs during the construction of Phase 1?",
+    "As they construct Phase 1, what takes place?",
+    "During the process of building Phase 1, what happens?"
+   ]
+  },
+  {
+   "query": "In what year is the oldest pharmacy said to have been established?",
+   "answer": "1221",
+   "gold": [
+    "b793fdc89c85940b"
+   ],
+   "paraphrases": [
+    "What is the earliest recorded founding date of a pharmacy?",
+    "When was the oldest known pharmacy established?",
+    "Can you tell me the year when the oldest pharmacy supposedly opened its doors?"
+   ]
+  },
+  {
+   "query": "What did Paul Baran develop ",
+   "answer": "Paul Baran developed the concept Distributed Adaptive Message Block Switching",
+   "gold": [
+    "dfc62fde23936e1e"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "What is septicemia? ",
+   "answer": "(a type of \"blood poisoning\"",
+   "gold": [
+    "8f276d70be8d055b"
+   ],
+   "paraphrases": [
+    "Septicemia, what is its definition?"
+   ]
+  },
+  {
+   "query": "What gauge of rail lines do two tourist lines use?",
+   "answer": "760 mm",
+   "gold": [
+    "697a7cf1275ff152"
+   ],
+   "paraphrases": [
+    "What size of railroad tracks are utilized by two separate tourist train routes?",
+    "What gauge of rail track does each of the two tourist rail lines employ?"
+   ]
+  },
+  {
+   "query": "What group of scientists seek to measure the amounts of oxygen in marine animals?",
+   "answer": "Paleoclimatologists",
+   "gold": [
+    "683b342d0ffcfc6f"
+   ],
+   "paraphrases": [
+    "What scientists are responsible for quantifying the levels of oxygen within marine organisms?",
+    "Researchers who aim to determine the concentration of oxygen in marine animals belong to which scientific group?",
+    "Which scientific discipline is focused on measuring the quantities of oxygen found in marine animals?"
+   ]
+  },
+  {
+   "query": "What is the name given to the district that is associated with the motion picture industry?",
+   "answer": "Hollywood",
+   "gold": [
+    "30b7a829adbfdb90"
+   ],
+   "paraphrases": [
+    "What is the term used to describe the region linked to the film production industry?",
+    "The area commonly referred to as the hub of the movie business is known by what name?",
+    "What is the colloquialism used to refer to the geographic location closely tied to the development and production of motion pictures?"
+   ]
+  },
+  {
+   "query": "What is the scientific designation of oxygen? ",
+   "answer": "O2",
+   "gold": [
+    "fd80faaf43d6d563"
+   ],
+   "paraphrases": [
+    "What is the chemical notation for oxygen?",
+    "The scientific name for oxygen is what?",
+    "Oxygen's chemical formula is known as what?"
+   ]
+  },
+  {
+   "query": "When were the Normans in Normandy?",
+   "answer": "10th and 11th centuries",
+   "gold": [
+    "dd5c8526091ce0e9"
+   ],
+   "paraphrases": [
+    "What time period did the Normans occupy the region now known as Normandy?",
+    "By what era did the Normans establish themselves in their homeland, Normandy?"
+   ]
+  },
+  {
+   "query": "What did DECnet phase 2 become ",
+   "answer": "were open standards with published specifications, and several implementations were developed outside DEC, including one for Linux",
+   "gold": [
+    "63be2650416e20d7"
+   ],
+   "paraphrases": [
+    "What was the outcome of DECnet Phase 2?",
+    "DECnet Phase 2 evolved into what?",
+    "Did DECnet Phase 2 ultimately transform into?"
+   ]
+  },
+  {
+   "query": "What route connects Fresno with the California Central Valley?",
+   "answer": "State Route 99",
+   "gold": [
+    "299ff1ed613c902a"
+   ],
+   "paraphrases": [
+    "Which transportation artery serves as the main conduit between Fresno and the larger California Central Valley area?"
+   ]
+  },
+  {
+   "query": "Stable and radioactive isotope studies provide insight into what?",
+   "answer": "geochemical evolution of rock units",
+   "gold": [
+    "8b8190fdb07a1af9"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "The design team is most commonly employed by who?",
+   "answer": "the property owner",
+   "gold": [
+    "6b3c0a7178c7d09d"
+   ],
+   "paraphrases": [
+    "What type of organization does the design team typically work for?",
+    "Who tends to hire and utilize the services of the design team most often?"
+   ]
+  },
+  {
+   "query": "Is the Lisbon Treaty one that would alter existing treaties or replace them?",
+   "answer": "altered the existing treaties",
+   "gold": [
+    "1a10ced916ac064f"
+   ],
+   "paraphrases": [
+    "The Lisbon Treaty is it meant to modify existing agreements or supersede them entirely?",
+    "Would the Lisbon Treaty be an instrument for amending extant treaties or serving as a substitute for them altogether?"
+   ]
+  },
+  {
+   "query": "Gateways allowed private companies to do what ",
+   "answer": "private networks were often connected via gateways to the public network to reach locations not on the private network",
+   "gold": [
+    "6094a4450dff844a"
+   ],
+   "paraphrases": [
+    "What did gateways enable private companies to accomplish?",
+    "Gateways granted private companies the ability to perform which specific actions?",
+    "Private companies were permitted to engage in what activities by gateways?"
+   ]
+  },
+  {
+   "query": "Who wrote the poem The Mark of Anarchy?",
+   "answer": "Percy Shelley",
+   "gold": [
+    "8e240428cc00a7e3"
+   ],
+   "paraphrases": [
+    "Who penned the poem titled The Mark of Anarchy?",
+    "The poet who authored The Mark of Anarchy is whom?",
+    "Authorship of the poem known as The Mark of Anarchy is attributed to which person?"
+   ]
+  },
+  {
+   "query": "Who backed policies that have solutions that sound good but have poor prospects?",
+   "answer": "congresses and presidents",
+   "gold": [
+    "b0008033f8b97b0c"
+   ],
+   "paraphrases": [
+    "Who supported initiatives whose attractive solutions concealed disappointing outcomes?",
+    "Whose campaign promoted policies that seemed promising at first glance but ultimately lacked substance?"
+   ]
+  },
+  {
+   "query": "Who became king in 1643?",
+   "answer": "Louis XIV",
+   "gold": [
+    "291631d73d5dcdb5"
+   ],
+   "paraphrases": [
+    "What monarch took the throne in the year 1643?",
+    "Which individual became the reigning monarch in the calendar year of 1643?"
+   ]
+  },
+  {
+   "query": "What does oxygen the basis for in combustion?",
+   "answer": "chemical energy",
+   "gold": [
+    "ad88fe48ac1ab4c4"
+   ],
+   "paraphrases": [
+    "What is oxygen's role in the process of combustion?",
+    "In a chemical reaction like combustion, what is oxygen most fundamental to?"
+   ]
+  },
+  {
+   "query": "What element is used as a coolant in the process of making liquid oxygen?",
+   "answer": "liquid nitrogen",
+   "gold": [
+    "c456b31b38f7b3d6"
+   ],
+   "paraphrases": [
+    "The material utilized as a coolant during the manufacturing of liquid oxygen is what?",
+    "In the fabrication of liquid oxygen, which component functions as a cooling agent?"
+   ]
+  },
+  {
+   "query": "How many invertebrate species are known in Brazil alone? ",
+   "answer": "96,660 and 128,843",
+   "gold": [
+    "e9030e5e203b110c"
+   ],
+   "paraphrases": [
+    "Are there a large quantity of invertebrate species known to exist solely within the borders of Brazil?"
+   ]
+  },
+  {
+   "query": "What type of civil disobedience is larger scale?",
+   "answer": "Revolutionary civil disobedience",
+   "gold": [
+    "3277b5c5165e8c9c"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "In what year did developers Billings & Meyering acquire the Alta Vista Tract?",
+   "answer": "1914",
+   "gold": [
+    "30b96d00b6abd2b9"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "Which principle is based on the appearance of fossils in sedimentary rocks?",
+   "answer": "The principle of faunal succession",
+   "gold": [
+    "c018c8eb3d4256f4"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "How much is terra preta distributed over the Amazon forest?",
+   "answer": "large areas",
+   "gold": [
+    "4e29e864fdfd291b"
+   ],
+   "paraphrases": [
+    "What percentage of the Amazon forest is terra preta actually found in?",
+    "How widespread is terra preta across the Amazonian ecosystem?",
+    "To what extent does terra preta cover the vast expanse of the Amazon rainforest?"
+   ]
+  },
+  {
+   "query": "What did water that flowed towards the Pacific have to flow across during the mid-Eocene?",
+   "answer": "Amazonas Basin",
+   "gold": [
+    "bb8a76f08ce73953"
+   ],
+   "paraphrases": [
+    "As the Pacific-bound water flowed, what geological barriers lay in its path during the mid-Eocene period?"
+   ]
+  },
+  {
+   "query": "The European Court of Justice cannot uphold measures that are incompatible with what?",
+   "answer": "fundamental rights recognised and protected in the constitutions of member states",
+   "gold": [
+    "c98abf1f37465d91"
+   ],
+   "paraphrases": [
+    "Measures inconsistent with which fundamental concept can the ECJ not confirm?"
+   ]
+  },
+  {
+   "query": "How many firms were existing in 2005?",
+   "answer": "667,000 firms",
+   "gold": [
+    "7f004f5ed5931562"
+   ],
+   "paraphrases": [
+    "How many companies had already been established by the year 2005?",
+    "What was the total number of businesses that existed prior to 2005?"
+   ]
+  },
+  {
+   "query": "What percentage of a high pressure engine's efficiency has the Energiprojekt AB engine achieved?",
+   "answer": "27-30",
+   "gold": [
+    "0db918cf93dd83cd"
+   ],
+   "paraphrases": [
+    "How much of a high-pressure engine's total efficiency is achieved by the Energiprojekt AB engine?",
+    "To what extent has the Energiprojekt AB engine succeeded in realizing a high-pressure engine's potential for efficiency?"
+   ]
+  },
+  {
+   "query": "How did user of Tymnet connect ",
+   "answer": "connected via dial-up connections or dedicated async connections",
+   "gold": [
+    "6094a4450dff844a"
+   ],
+   "paraphrases": [
+    "What were the methods used by users to establish connections on Tymnet?",
+    "User connections to Tymnet - what was the typical process?"
+   ]
+  },
+  {
+   "query": "What do oxygen tanks, cryogenics, and chemical compounds serve as for oxygen?",
+   "answer": "storage",
+   "gold": [
+    "730ba21044662301"
+   ],
+   "paraphrases": [
+    "What is the purpose of oxygen tanks, cryogenic storage, and chemical compounds regarding oxygen?",
+    "Oxygen tanks, cryogenics, and chemical compounds are used to provide what function in terms of oxygen?",
+    "In what capacity do oxygen tanks, cryogenic applications, and chemical compounds supply oxygen?"
+   ]
+  },
+  {
+   "query": "What is the average plant biosmass?",
+   "answer": "356 \u00b1 47 tonnes per hectare",
+   "gold": [
+    "b88f2e98aa5ed396"
+   ],
+   "paraphrases": [
+    "What is the typical aggregate of organic matter produced by plants?",
+    "Average biomass production levels are what?"
+   ]
+  },
+  {
+   "query": "What did Davies want to build ",
+   "answer": "proposed to build a nationwide network in the UK",
+   "gold": [
+    "fceaf8d74e889c18"
+   ],
+   "paraphrases": [
+    "What was it that Davies desired to construct?",
+    "Davies sought to create what specific thing?",
+    "What object did Davies wish to manufacture?"
+   ]
+  },
+  {
+   "query": "What was the UK governments benefits agenchy checking in 2012?",
+   "answer": "Sky TV bills",
+   "gold": [
+    "d3384a30ecacbbee"
+   ],
+   "paraphrases": [
+    "What did the Benefits Agency of the UK government check in 2012?",
+    "In 2012, what was checked by the UK government's Benefits Agency?",
+    "The UK government's Benefits Agency was doing what kind of checks in 2012?"
+   ]
+  },
+  {
+   "query": "To whom did William Maclure submit the map?",
+   "answer": "the American Philosophical Society",
+   "gold": [
+    "b7ccb0b6320d2cd2"
+   ],
+   "paraphrases": [
+    "William Maclure submitted his map to what group?"
+   ]
+  },
+  {
+   "query": "Which type of climate may have allowed the rainforest to spread across the continent?",
+   "answer": "the wetter climate may have allowed the tropical rainforest to spread out across the continent.",
+   "gold": [
+    "24fea2565633e416"
+   ],
+   "paraphrases": [
+    "What kind of climate conditions might have enabled the expansion of the rainforest across the continent?",
+    "Could a certain type of climate have facilitated the widespread distribution of the rainforest on the continent?",
+    "Was a particular type of climate conducive to the growth and spreading of the rainforest across the entire continent?"
+   ]
+  },
+  {
+   "query": "How are pharmacists regulated in most jurisdictions?",
+   "answer": "separately from physicians",
+   "gold": [
+    "ba71a4259a62247d"
+   ],
+   "paraphrases": [
+    "What laws and policies oversee the daily activities of pharmacists in typical geographic areas?"
+   ]
+  },
+  {
+   "query": "What is an example of an NP-intermediate problem not known to exist in P or NP-complete? ",
+   "answer": "graph isomorphism problem",
+   "gold": [
+    "5c0fd2f8509736ad"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "What is the most rainfall recorded in a 24 hour period in Fresno?",
+   "answer": "3.55 inches",
+   "gold": [
+    "b754709d2be6673e"
+   ],
+   "paraphrases": [
+    "What is the highest amount of precipitation that has fallen in a single day within the 24-hour time frame in Fresno?",
+    "The greatest amount of rain to fall within a 24-hour period in Fresno was how much?",
+    "In what quantity did the most rainfall occur over a span of 24 hours in Fresno?"
+   ]
+  },
+  {
+   "query": "How many crank rotations are there in an engine cycle?",
+   "answer": "one",
+   "gold": [
+    "e14ec1d9643c7f64"
+   ],
+   "paraphrases": [
+    "What is the total number of crankshaft revolutions that occur during a single engine cycle?",
+    "How many complete turns does the crankshaft make from start to finish in a typical engine cycle?"
+   ]
+  },
+  {
+   "query": "What feature will enrich the the pedestrian friendly environment after restoration?",
+   "answer": "wide sidewalks",
+   "gold": [
+    "57e770affb89fe4f"
+   ],
+   "paraphrases": [
+    "What aspect of the restored area will enhance the pedestrian-friendly atmosphere?",
+    "After restoration, which distinct feature will elevate the ambiance for pedestrians in this area?"
+   ]
+  },
+  {
+   "query": "When did Sky launch a TV advertising campaign target towards women?",
+   "answer": "September 2007",
+   "gold": [
+    "4223eae6be53331c"
+   ],
+   "paraphrases": [
+    "What was the year Sky launched an advertising campaign specifically designed for a female audience on television?",
+    "At what point in time did Sky start airing TV commercials focused on women with their advertising efforts?"
+   ]
+  },
+  {
+   "query": "Who do clinical pharmacists work with much of the time?",
+   "answer": "physicians and other healthcare professionals",
+   "gold": [
+    "1d470bf791028e4f"
+   ],
+   "paraphrases": [
+    "What professions do clinical pharmacists collaborate with most frequently?",
+    "With whom do clinical pharmacists typically spend a significant amount of their working hours?"
+   ]
+  },
+  {
+   "query": "When did the Court of Justice rule that the Commission could only propose that there must be some criminal sanctions?",
+   "answer": "October 2007",
+   "gold": [
+    "a88c4ac0de00e799"
+   ],
+   "paraphrases": [
+    "What was the date on which the Court of Justice decided that the Commission's authority to propose lay in suggesting the imposition of criminal penalties?"
+   ]
+  },
+  {
+   "query": "What river was Petrela located by?",
+   "answer": "Deabolis",
+   "gold": [
+    "00490c1aee74110c"
+   ],
+   "paraphrases": [
+    "Petrela was situated on the banks of which river?"
+   ]
+  },
+  {
+   "query": "Packet Switching contrast with what other principal ",
+   "answer": "circuit switching",
+   "gold": [
+    "9ef6e305a45e267b"
+   ],
+   "paraphrases": [
+    "What is packet switching compared to?",
+    "Packet switching differs from which other fundamental networking principle?",
+    "In comparison to which other primary networking methodology does packet switching diverge?"
+   ]
+  },
+  {
+   "query": "What do coastal beroids not have that other ctenophora have?",
+   "answer": "tentacles",
+   "gold": [
+    "ee73f593c26ad38e"
+   ],
+   "paraphrases": [
+    "What characteristics distinguish coastal beroeids from other ctenophores?",
+    "Coastal beroeids lack which features are present in other ctenophores?"
+   ]
+  },
+  {
+   "query": "William would eventually gain what throne?",
+   "answer": "King of England",
+   "gold": [
+    "edb8d00a6415b164"
+   ],
+   "paraphrases": [
+    "William would ultimately ascend to which royal seat?",
+    "What future throne would William eventually come to claim?"
+   ]
+  },
+  {
+   "query": "How many miles does the dust travels over the Atlantic Ocean?",
+   "answer": "1,600 miles",
+   "gold": [
+    "6490f518fe350da9"
+   ],
+   "paraphrases": [
+    "What distance does the dust cover as it drifts across the Atlantic Ocean?",
+    "How far does the dust migrate over the Atlantic Ocean?",
+    "In what total mileage do the dust particles travel as they traverse the Atlantic Ocean?"
+   ]
+  },
+  {
+   "query": "Silicates of magnesium and iron make up of the Earth's ___",
+   "answer": "mantle",
+   "gold": [
+    "1bb8a054229137a9"
+   ],
+   "paraphrases": [
+    "What percentage of the Earth's composition is taken up by silicates of magnesium and iron?"
+   ]
+  },
+  {
+   "query": "There are direct contractual links between who?",
+   "answer": "the architect's client and the main contractor",
+   "gold": [
+    "956d35ad3934882f"
+   ],
+   "paraphrases": [
+    "What contracts directly connect?",
+    "Who do direct contractual ties exist between?",
+    "Are there contractual connections directly linking which group?"
+   ]
+  },
+  {
+   "query": "Who is the final judge of right and wrong?",
+   "answer": "The individual",
+   "gold": [
+    "f9ec01d3339f2f3a"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "How many campuses does the University of California have?",
+   "answer": "5",
+   "gold": [
+    "4caee0394ea5501c"
+   ],
+   "paraphrases": [
+    "What is the total number of campuses that comprise the University of California system?",
+    "Can you tell me how many separate locations or physical sites are part of the University of California's overall educational platform?"
+   ]
+  },
+  {
+   "query": "What class of ships is an example of large passenger liners?",
+   "answer": "Olympic",
+   "gold": [
+    "3c91050d11e7bf64"
+   ],
+   "paraphrases": [
+    "What type of vessels are exemplified by large passenger liners?",
+    "A category of ships notable for carrying a large number of travelers is which one?"
+   ]
+  },
+  {
+   "query": "What is the steam engine's thermodynamic basis?",
+   "answer": "Rankine cycle",
+   "gold": [
+    "babfdcdb4f5e11f8"
+   ],
+   "paraphrases": [
+    "What are the fundamental principles of thermodynamics that underlie the operation of a steam engine?",
+    "The steam engine's functioning relies on which thermodynamic concepts and laws?",
+    "On what thermodynamic principles does the steam engine's mechanism rely?"
+   ]
+  },
+  {
+   "query": "What is the principle that states that with sedimentary rocks, inclusions must be older than the formation that contains them?",
+   "answer": "The principle of inclusions and components",
+   "gold": [
+    "1e0b24e08630dc44"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "What two areas in the Republic were first to grant rights to the Huguenots?",
+   "answer": "Amsterdam and the area of West Frisia",
+   "gold": [
+    "45a0b4e5e93112c3"
+   ],
+   "paraphrases": [
+    "What regions within the Republic of France were pioneers in extending civil liberties to Huguenot communities?",
+    "In which parts of the Republic did the authorities take the pioneering step of recognizing the rights of Huguenots?",
+    "The Republic's two early adopters of policies favoring the rights of Huguenots were located in which areas?"
+   ]
+  },
+  {
+   "query": "BQP and QMA are examples of complexity classes most commonly associated with what type of Turing machine?",
+   "answer": "quantum",
+   "gold": [
+    "b12f8869c244fe80"
+   ],
+   "paraphrases": [
+    "What type of Turing machine is usually connected to the complexity classes represented by BQP and QMA?"
+   ]
+  },
+  {
+   "query": "In what year did the Norman's invade at Bannow Bay?",
+   "answer": "1169",
+   "gold": [
+    "823249b3c179c7bf"
+   ],
+   "paraphrases": [
+    "What was the year in which the Normans invaded at Bannow Bay?"
+   ]
+  },
+  {
+   "query": "How many inhabitants does the Los Angeles area contain?",
+   "answer": "12 million",
+   "gold": [
+    "1fde3c0825f00730"
+   ],
+   "paraphrases": [
+    "What is the population count of the Los Angeles region?",
+    "The number of people residing in the Los Angeles area is what?",
+    "How many individuals make up the total population of the Los Angeles metropolitan area?"
+   ]
+  },
+  {
+   "query": "Oxygen exists in the atmosphere by way of what?",
+   "answer": "carbon dioxide",
+   "gold": [
+    "1bb8a054229137a9"
+   ],
+   "paraphrases": [
+    "What form does oxygen take in the air?"
+   ]
+  },
+  {
+   "query": "What are cestida called?",
+   "answer": "belt animals",
+   "gold": [
+    "936d1474d94981a1"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "What did Donald Davies Develop",
+   "answer": "independently developed the same message routing methodology as developed by Baran",
+   "gold": [
+    "fceaf8d74e889c18"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "What complexity class is characterized by a computational tasks and efficient algorithms?",
+   "answer": "P",
+   "gold": [
+    "c38ef516e41c288e"
+   ],
+   "paraphrases": [
+    "Which complexity class refers to algorithms and tasks that can be solved quickly and efficiently?"
+   ]
+  },
+  {
+   "query": "In what cases can the EU not override German law?",
+   "answer": "if the EU does not comply with its basic constitutional rights and principles",
+   "gold": [
+    "6fdda2b40ed2d1eb"
+   ],
+   "paraphrases": [
+    "What are the situations where the European Union cannot supersede German legislation?",
+    "Under which circumstances is it impossible for the EU to trump German domestic law?",
+    "In what scenarios would the EU be unable to prevail over Germany's national laws?"
+   ]
+  },
+  {
+   "query": "How long ago did oxygen reach 10% of its present level?",
+   "answer": "1.7 billion years ago",
+   "gold": [
+    "8ef143d276f98e3c"
+   ],
+   "paraphrases": [
+    "How many years have passed since oxygen composition dropped to 10% of its current value?",
+    "At what point in the past did oxygen levels fall below 10% of their modern-day concentration?",
+    "When was it that oxygen's atmospheric presence dipped down to just 10% of its contemporary percentage?"
+   ]
+  },
+  {
+   "query": "What reasons cause failure of the disobedience with authorities?",
+   "answer": "lack of understanding of the legal ramifications,",
+   "gold": [
+    "b0b415698a08be37"
+   ],
+   "paraphrases": [
+    "What are the underlying causes that lead to the failure of disobeying authority?",
+    "What factors contribute to the ineffectiveness of defying those in power?"
+   ]
+  },
+  {
+   "query": "Rather than the fuel, what is oxygen to a fire?",
+   "answer": "oxidant",
+   "gold": [
+    "ad88fe48ac1ab4c4"
+   ],
+   "paraphrases": [
+    "What role does oxygen play in a fire instead of the fuel itself?",
+    "What takes the place of fuel as far as its importance in a fire goes for oxygen?"
+   ]
+  },
+  {
+   "query": "How long does it take for new areas to have significant oil production?",
+   "answer": "five to ten years",
+   "gold": [
+    "61af1803b0730548"
+   ],
+   "paraphrases": [
+    "What is the typical timeframe before newly discovered oil regions can yield substantial crude output?",
+    "At what point do newly found oil-rich regions typically achieve meaningful levels of oil extraction?"
+   ]
+  },
+  {
+   "query": "The fact that not all fossils may be found globally at the same time causes the principle to become what?",
+   "answer": "complex",
+   "gold": [
+    "c018c8eb3d4256f4"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "What type of theater do the neighborhoods feature?",
+   "answer": "live theater",
+   "gold": [
+    "f875007e3f454eb0"
+   ],
+   "paraphrases": [
+    "What kind of theater spaces are characteristic of the neighborhoods?",
+    "The type of theater typically found in the neighborhoods is what?",
+    "In terms of theater, what does each neighborhood commonly have?"
+   ]
+  },
+  {
+   "query": "What did AUSTPAC support ",
+   "answer": "supporting applications such as on-line betting, financial applications",
+   "gold": [
+    "1f239cb46f0c6bc9"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "What element did Gay-Lussac and von Humboldt discover was present in twice the amount of oxygen in water?",
+   "answer": "hydrogen",
+   "gold": [
+    "e0e9c1b00942a791"
+   ],
+   "paraphrases": [
+    "What was the elemental composition found by Gay-Lussac and von Humboldt to be twice as abundant as oxygen in water?"
+   ]
+  },
+  {
+   "query": "Compared to other Australian cities, what is the size of Melbourne?",
+   "answer": "second-largest",
+   "gold": [
+    "2f4205298894876b"
+   ],
+   "paraphrases": [
+    "What are the dimensions of Melbourne in comparison to other major cities in Australia?",
+    "How does the scale of Melbourne compare to that of its fellow cities in Australia?",
+    "In terms of spatial extent, how does Melbourne differ from other major urban centers within Australia?"
+   ]
+  },
+  {
+   "query": "How long did Julia Butterfly Hill live in a tree?",
+   "answer": "738 days",
+   "gold": [
+    "6246745d994cea4c"
+   ],
+   "paraphrases": [
+    "What was the duration of Julia Butterfly Hill's occupation of a tree?",
+    "For how many days did Julia Butterfly Hill reside in a tree?",
+    "Julia Butterfly Hill spent how much time living in a tree?"
+   ]
+  },
+  {
+   "query": "Intractable problems lacking polynomial time solutions necessarily negate the practical efficacy of what type of algorithm?",
+   "answer": "exponential-time algorithms",
+   "gold": [
+    "ba15f86ae09bc08e"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "Focus on what is to ameliorate the many problems that arise from the often highly competitive and adversarial practices within the construction industry.",
+   "answer": "co-operation",
+   "gold": [
+    "1cf4f15a6611259d"
+   ],
+   "paraphrases": [
+    "What can be done to alleviate the myriad problems resulting from the cutthroat rivalry and adversarial behaviors that characterize the construction industry's operations?"
+   ]
+  },
+  {
+   "query": "What is the name of Sky Q's broadband router?",
+   "answer": "Sky Q Hub",
+   "gold": [
+    "2892ce1ee90d7e75"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "The Amazon region is home to how many species of insect?",
+   "answer": "2.5 million",
+   "gold": [
+    "e9030e5e203b110c"
+   ],
+   "paraphrases": [
+    "The Amazon region harbors a staggering multitude of what insects?",
+    "What is the estimated total number of insect species found within the Amazon region's boundaries?"
+   ]
+  },
+  {
+   "query": "Which basin does the dust falls over into?",
+   "answer": "Amazon basin",
+   "gold": [
+    "6490f518fe350da9"
+   ],
+   "paraphrases": [
+    "What body of water does the dust fall into?",
+    "Into what basin does the dust precipitate?",
+    "The dust falls into which basin?"
+   ]
+  },
+  {
+   "query": "What are some of the accepted general principles of European Union law?",
+   "answer": "fundamental rights (see human rights), proportionality, legal certainty, equality before the law and subsidiarity",
+   "gold": [
+    "3a6d439fe6e7862d"
+   ],
+   "paraphrases": [
+    "What principles are commonly regarded as fundamental to EU legislation?",
+    "Which of the following guidelines have been widely adopted in EU legal practice?",
+    "Are there any universally applicable rules that govern the application of EU law?"
+   ]
+  },
+  {
+   "query": "When was the colony of New South Wales founded?",
+   "answer": "1788",
+   "gold": [
+    "73c9e930c6dd2929"
+   ],
+   "paraphrases": [
+    "What is the year that marks the establishment of the colony of New South Wales?",
+    "When did the colony of New South Wales first come into existence?",
+    "At what point in time did the colony of New South Wales have its origin?"
+   ]
+  },
+  {
+   "query": "How did the plague infiltrate Alexandria?",
+   "answer": "y through the port's trade with Constantinople, and ports on the Black Sea",
+   "gold": [
+    "798a2ea2ee1414e1"
+   ],
+   "paraphrases": [
+    "What was the mechanism by which the plague reached and affected the city of Alexandria?",
+    "The plague's entry into Alexandria - what were the circumstances that allowed it to happen?",
+    "Through what means or channels did the plague manage to penetrate and spread within the city of Alexandria?"
+   ]
+  },
+  {
+   "query": "Who's satellites would the new free-to-air channels be broadcast from?",
+   "answer": "Astra",
+   "gold": [
+    "1ee077fd22f6021a"
+   ],
+   "paraphrases": [
+    "The forthcoming free-to-air channels will be relayed via what satellite network?"
+   ]
+  },
+  {
+   "query": "The cities of Los Angeles and San Diego are a part of which state?",
+   "answer": "California",
+   "gold": [
+    "2c8c5bc876d6673e"
+   ],
+   "paraphrases": [
+    "What region does Los Angeles and San Diego share?",
+    "Which state has the cities of Los Angeles and San Diego as its constituents?"
+   ]
+  },
+  {
+   "query": "What does ctenophore mean in Greek?",
+   "answer": "comb-bearing",
+   "gold": [
+    "3526ee48cec62575"
+   ],
+   "paraphrases": [
+    "In what sense do the Greeks define ctenophore?"
+   ]
+  },
+  {
+   "query": "What is a hermaphrodite?",
+   "answer": "a single animal can produce both eggs and sperm",
+   "gold": [
+    "70150ba659ef2c4b"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "What month is the warmest in Fresno?",
+   "answer": "July",
+   "gold": [
+    "9bf726114e7f5273"
+   ],
+   "paraphrases": [
+    "What is the month that experiences the highest temperatures in Fresno?",
+    "The month with the greatest warmth in Fresno is which one?"
+   ]
+  },
+  {
+   "query": "How much did Saudi Arabia spend on spreading Wahhabism?",
+   "answer": "over 100 billion dollars",
+   "gold": [
+    "b88785ffc0e7962a"
+   ],
+   "paraphrases": [
+    "What was the financial allocation made by Saudi Arabia to promote Wahhabism?",
+    "To what extent has Saudi Arabia financially supported the dissemination of Wahhabist ideologies?"
+   ]
+  },
+  {
+   "query": "In what year did Fresno experience the most rainfall?",
+   "answer": "1885",
+   "gold": [
+    "b754709d2be6673e"
+   ],
+   "paraphrases": [
+    "What was the year that saw the highest amount of rainfall in Fresno?",
+    "The year when Fresno received its maximum precipitation occurred when exactly?"
+   ]
+  },
+  {
+   "query": "Where was the 1857 riot?",
+   "answer": "Buckland Valley",
+   "gold": [
+    "114b4c83f0905851"
+   ],
+   "paraphrases": [
+    "The 1857 riot took place in which location?"
+   ]
+  },
+  {
+   "query": "What are the three construction subsectors?",
+   "answer": "building construction, heavy and civil engineering construction, and specialty trade contractors",
+   "gold": [
+    "0cc7e2c8f48dd8eb"
+   ],
+   "paraphrases": [
+    "The construction sector can be broadly categorized into what three distinct groups?"
+   ]
+  },
+  {
+   "query": "Which park is home to the Fresno Chafffee Zoo?",
+   "answer": "Roeding Park",
+   "gold": [
+    "325b9415640f2472"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "How many passengers can the Ford Fiesta accommodate?",
+   "answer": "at least four passengers",
+   "gold": [
+    "cbcbc6a35007c78d"
+   ],
+   "paraphrases": [
+    "How many people can fit inside a Ford Fiesta vehicle?",
+    "What is the seating capacity of the Ford Fiesta model?",
+    "The Ford Fiesta has room for how many travelers?"
+   ]
+  },
+  {
+   "query": "There is criticism that the energy policies are expensive quick fixes that ignore which facts?",
+   "answer": "market and technology realities",
+   "gold": [
+    "b0008033f8b97b0c"
+   ],
+   "paraphrases": [
+    "What criticisms exist about the energy policies being costly temporary solutions that overlook certain realities?"
+   ]
+  },
+  {
+   "query": "What type of microscope is used by petrologists?",
+   "answer": "petrographic microscope",
+   "gold": [
+    "8b8190fdb07a1af9"
+   ],
+   "paraphrases": [
+    "What kind of microscope do petrologists typically use?",
+    "Petrologists employ which type of microscope in their work?",
+    "In what way do petrologists utilize a microscope for their research?"
+   ]
+  },
+  {
+   "query": "From what landmark within Fresno does the Tower Theatre get its name?",
+   "answer": "water tower",
+   "gold": [
+    "7e9ee265449fa226"
+   ],
+   "paraphrases": [
+    "What is the origin of the name \"Tower Theatre\" in reference to a specific location within Fresno?",
+    "The name \"Tower Theatre\" originates from which notable point within the city limits of Fresno?",
+    "Does the name \"Tower Theatre\" have any connection to a distinct landmark situated within the city of Fresno?"
+   ]
+  },
+  {
+   "query": "A satellite that measured the amount of dust going to the Amazon was named what?",
+   "answer": "CALIPSO",
+   "gold": [
+    "6490f518fe350da9"
+   ],
+   "paraphrases": [
+    "What was the name given to a space mission focused on quantifying the volume of dust entering the Amazon region?",
+    "The satellite tasked with monitoring the influx of dust into the Amazon received what designation?"
+   ]
+  },
+  {
+   "query": "What is the estimate for the amount of tree species in the amazon tropical rain forest?",
+   "answer": "16,000 species",
+   "gold": [
+    "c7c7ec362f0439a4"
+   ],
+   "paraphrases": [
+    "What is the approximate number of tree species found in the Amazon tropical rainforest?",
+    "The estimated total number of tree species in the Amazon tropical rainforest is what?",
+    "How many tree species are thought to exist in the Amazon tropical rainforest, and what is this estimate?"
+   ]
+  },
+  {
+   "query": "How far does one pharmacy in Croatia date back to?",
+   "answer": "1317",
+   "gold": [
+    "b793fdc89c85940b"
+   ],
+   "paraphrases": [
+    "What is the historical depth of a single pharmacy in Croatia?",
+    "To what point in the past does the history of a specific pharmacy in Croatia reach?"
+   ]
+  },
+  {
+   "query": "Has there ever been anyone charged with importing drugs from Canada for personal medicinal use?",
+   "answer": "There is no known case",
+   "gold": [
+    "a81ba15411e0a721"
+   ],
+   "paraphrases": [
+    "Has someone at any point in time been accused of bringing in drugs from Canada for their own medical purposes?",
+    "Was there ever a situation where someone faced charges for importing drugs from Canada for their own medicinal use?"
+   ]
+  },
+  {
+   "query": "How can function problems typically be restated?",
+   "answer": "decision problems",
+   "gold": [
+    "b6b3b4a40d231c6d"
+   ],
+   "paraphrases": [
+    "What is a typical approach to rewriting function problems?",
+    "Can function problems usually be rephrased in some way?",
+    "In what ways do function problems often need to be reworded?"
+   ]
+  },
+  {
+   "query": "What political party is strongest in Melbourne's working class suburbs?",
+   "answer": "Australian Labor Party",
+   "gold": [
+    "1f0fc4793c092f70"
+   ],
+   "paraphrases": [
+    "Which party typically garners the greatest amount of support from residents living in Melbourne's blue-collar neighborhoods?",
+    "In terms of electoral preference, which political party tends to have the strongest following among the population residing in Melbourne's industrial districts?"
+   ]
+  },
+  {
+   "query": "What does the euplokamis use the three types of movement for?",
+   "answer": "capturing prey",
+   "gold": [
+    "50dc97ced70e6366"
+   ],
+   "paraphrases": [
+    "What is the primary function of the euplokamis' ability to exhibit three distinct modes of movement?",
+    "The euplokamis employs its three types of movement for what purpose?",
+    "In what way do the euplokamis utilize its three kinds of movement?"
+   ]
+  },
+  {
+   "query": "When did the y. pestis reach England?",
+   "answer": "spring of 1349",
+   "gold": [
+    "3bc57095aeacb5ad"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "In what year did the Amazon experience a drought that may have been more extreme than in 2005?",
+   "answer": "2010",
+   "gold": [
+    "fb7cece550ee7b62"
+   ],
+   "paraphrases": [
+    "What was the year when a potentially even more severe drought hit the Amazon, similar to the one experienced in 2005?",
+    "In which year did the Amazon suffer a drought possibly as severe or even more so than the one observed in 2005?",
+    "Was there a year in which the Amazon endured a drought that might have been at least as extreme, if not more so, compared to the 2005 event?"
+   ]
+  },
+  {
+   "query": "Point Conception is an example of a landmark among what boundary of southern California?",
+   "answer": "northern",
+   "gold": [
+    "5621a695e0f4cee7"
+   ],
+   "paraphrases": [
+    "Point Conception is an instance of a notable location situated along which border of southern California?",
+    "What boundary does Point Conception represent as an exemplar of a significant geographical marker in southern California?",
+    "Point Conception serves as a prominent reference point on the edge of which boundary in southern California?"
+   ]
+  },
+  {
+   "query": "For each of the 28 member states, how many Commissioner's are represented for each one?",
+   "answer": "one Commissioner for each of the 28 member states",
+   "gold": [
+    "6cbc27f4f6c138cc"
+   ],
+   "paraphrases": [
+    "In this specific organization, how many commissioners are there for every single one of its 28 member states?"
+   ]
+  },
+  {
+   "query": "What type of rail line is Pacific National?",
+   "answer": "freight services",
+   "gold": [
+    "38ef368895718c22"
+   ],
+   "paraphrases": [
+    "What kind of railway does Pacific National operate?"
+   ]
+  },
+  {
+   "query": "What were the annual carriage fees for the channels?",
+   "answer": "\u00a330m",
+   "gold": [
+    "b2f898736ced32b6"
+   ],
+   "paraphrases": [
+    "What was the cost of carrying each channel's signal annually?",
+    "The annual fee charged by each channel to be carried on a platform was what?"
+   ]
+  },
+  {
+   "query": "Big O notation provides autonomy to upper and lower bounds with relationship to what? ",
+   "answer": "the computational model",
+   "gold": [
+    "25160eaaf4cedb4f"
+   ],
+   "paraphrases": [
+    "What is the relationship that big O notation provides autonomy to for both upper and lower bounds?",
+    "In what way does big O notation grant freedom to specify relationships between upper and lower bounds?",
+    "To what kind of relationships does big O notation offer independence in setting both upper and lower bounds?"
+   ]
+  },
+  {
+   "query": "What foreign bodies, which are older than the rocks themselves, occur igneous rocks?",
+   "answer": "xenoliths",
+   "gold": [
+    "1e0b24e08630dc44"
+   ],
+   "paraphrases": [
+    "What types of extraneous materials are found in igneous rocks that predate their formation?"
+   ]
+  },
+  {
+   "query": "What material's weight gain during rusting was an early clue that philogiston theory was wrong?",
+   "answer": "metals",
+   "gold": [
+    "fbc28ab618de17aa"
+   ],
+   "paraphrases": [
+    "What metal's increased mass upon rusting served as an initial indication that phlogiston theory was flawed?"
+   ]
+  },
+  {
+   "query": "How did the new king react to the Huguenots?",
+   "answer": "acted increasingly aggressively to force the Huguenots to convert",
+   "gold": [
+    "291631d73d5dcdb5"
+   ],
+   "paraphrases": [
+    "What was the response of the newly crowned monarch towards the Huguenot community?",
+    "How did the recently ascended ruler treat the Huguenot minority?"
+   ]
+  },
+  {
+   "query": "After what year did compounding cease to be used in Britain?",
+   "answer": "1930",
+   "gold": [
+    "688a529e2d6116cd"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "Where are the rows of combs located?",
+   "answer": "from near the mouth to the opposite end",
+   "gold": [
+    "d56f2fcb959ed212"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "Where is the neighborhood of Sunnyside located in Fresno?",
+   "answer": "Fresno's far southeast side",
+   "gold": [
+    "9a83164fe22168da"
+   ],
+   "paraphrases": [
+    "What area of Fresno does the Sunnyside neighborhood occupy?",
+    "Where is the location of the Sunnyside neighborhood situated in Fresno?",
+    "In what part of Fresno can you find the Sunnyside neighborhood?"
+   ]
+  },
+  {
+   "query": "What did the Court of Justice reason were controlled in all member states in Josemans v Burgemeester van Maastricht?",
+   "answer": "narcotic drugs",
+   "gold": [
+    "4fa5eaa7154a62b8"
+   ],
+   "paraphrases": [
+    "In the Josemans v Burgemeester van Maastricht case, what matters was the Court of Justice persuaded were regulated uniformly across all member states?"
+   ]
+  },
+  {
+   "query": "What effect did breathing Priestley's discovered gas have on the experiment's mouse?",
+   "answer": "active",
+   "gold": [
+    "2eca63750a362ff2"
+   ],
+   "paraphrases": [
+    "How did breathing in the gas affect the experiment's mouse after it had been released by Priestley?",
+    "In what way was the mouse impacted when it breathed in the gas discovered and described by Priestley?"
+   ]
+  },
+  {
+   "query": "What marine engines were less efficient than steam turbines?",
+   "answer": "reciprocating steam engines",
+   "gold": [
+    "e2525668eb13ddf3"
+   ],
+   "paraphrases": [
+    "What types of marine engines had lower efficiency compared to steam turbines?",
+    "Marine engines that struggled with efficiency in comparison to steam turbines were which ones?",
+    "Were there any marine engines whose performance was inferior to that of steam turbines?"
+   ]
+  },
+  {
+   "query": "What helps the process of free movement of goods?",
+   "answer": "a customs union, and the principle of non-discrimination",
+   "gold": [
+    "dce71b97746bb114"
+   ],
+   "paraphrases": [
+    "What facilitates the unimpeded flow of commodities?",
+    "What are the key factors that foster the unhindered exchange of goods?"
+   ]
+  },
+  {
+   "query": "How many different species of ctenohore are there?",
+   "answer": "100\u2013150 species",
+   "gold": [
+    "ee73f593c26ad38e"
+   ],
+   "paraphrases": [
+    "What is the total number of distinct species of ctenohores that exist?",
+    "There are how many unique species of ctenohores found in nature?",
+    "Can you tell me the exact count of all different species of ctenohores?"
+   ]
+  },
+  {
+   "query": "During which period in history was the Amazon rainforest a narrow band of forest?",
+   "answer": "Oligocene",
+   "gold": [
+    "24fea2565633e416"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "Who applies expertise to relate the work and materials involved to a proper valuation?",
+   "answer": "Cost engineers and estimators",
+   "gold": [
+    "e32237eb13f46727"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "In how many places is oxygen stored in its cycle?",
+   "answer": "three",
+   "gold": [
+    "dd790b7fdd627903"
+   ],
+   "paraphrases": [
+    "What are the locations where oxygen stores itself during its metabolic process?",
+    "At what points does oxygen accumulate and store energy throughout its life cycle?"
+   ]
+  },
+  {
+   "query": "Developments in which scientists influenced the creation of pharmacology in medieval Islam?",
+   "answer": "botany and chemistry",
+   "gold": [
+    "d0c3193100a2c9ce"
+   ],
+   "paraphrases": [
+    "What scientific advancements contributed to the establishment of pharmacology in medieval Islamic civilization?",
+    "Influential developments among scientists that shaped the emergence of pharmacology in medieval Islamic culture were what?"
+   ]
+  },
+  {
+   "query": "What types of medications do specialty pharmacies stock?",
+   "answer": "novel medications that need to be properly stored, administered, carefully monitored, and clinically managed",
+   "gold": [
+    "4cb08df8d00c330d"
+   ],
+   "paraphrases": [
+    "What kinds of pharmaceuticals do specialty pharmacies typically carry in their inventory?",
+    "Which classes of medication do specialty pharmacies usually dispense to patients?"
+   ]
+  },
+  {
+   "query": "In what year did one individual suggest classifying the trees of the Amazon into four categories?",
+   "answer": "2006",
+   "gold": [
+    "2c21a41415000684"
+   ],
+   "paraphrases": [
+    "What year was it that someone proposed categorizing the Amazon's tree species into four distinct groups?",
+    "When did one person first propose a system for grouping the Amazon's tree species into four categories?",
+    "Who is credited with having suggested, in what year, dividing the Amazon's trees into four separate classifications?"
+   ]
+  },
+  {
+   "query": "Which branch of the EU has had the most influence on the development of EU law?",
+   "answer": "judicial branch",
+   "gold": [
+    "0316b036cf4be739"
+   ],
+   "paraphrases": [
+    "Which EU institution has exercised the greatest impact on shaping EU legislation?",
+    "The European Union branch responsible for the majority of influential EU laws is which one?"
+   ]
+  },
+  {
+   "query": "In what form is oxygen transported in smaller containers?",
+   "answer": "compressed gas",
+   "gold": [
+    "730ba21044662301"
+   ],
+   "paraphrases": [
+    "What is the molecular state of oxygen during transportation in vessels with smaller capacities?",
+    "In which form does oxygen get dispersed throughout smaller containers used for its conveyance?"
+   ]
+  },
+  {
+   "query": "In what years did Spain and Portugal join the European Union?",
+   "answer": "1985",
+   "gold": [
+    "93fbba530b12b34e"
+   ],
+   "paraphrases": [
+    "What are the dates when Spain and Portugal became member states of the European Union?",
+    "When did Spain and Portugal officially enter the European Union?",
+    "At what points in time did Spain and Portugal gain membership in the European Union?"
+   ]
+  },
+  {
+   "query": "From whom did the Huguenots purchase the land where they settled?",
+   "answer": "John Pell, Lord of Pelham Manor",
+   "gold": [
+    "8936635bf73401c4"
+   ],
+   "paraphrases": [
+    "The French Protestants acquired the territory on which they established their colony from what party?",
+    "From whom did the Huguenots obtain the property on which they built their community?",
+    "Whom did the Huguenots buy the land from that would eventually become their new home?"
+   ]
+  },
+  {
+   "query": "Downtown Burbank is an example of what kind of district?",
+   "answer": "business",
+   "gold": [
+    "6c46f023fb08a6f6"
+   ],
+   "paraphrases": [
+    "What type of district is Downtown Burbank?",
+    "Downtown Burbank is categorized as which kind of district?",
+    "Is Downtown Burbank a representative example of a specific type of district?"
+   ]
+  },
+  {
+   "query": "Who did Emma Marry?",
+   "answer": "King Ethelred II",
+   "gold": [
+    "2040b02c1c6b01d5"
+   ],
+   "paraphrases": [
+    "What was the name of Emma's husband?",
+    "Emma tied the knot with whom?",
+    "To whom did Emma become married?"
+   ]
+  },
+  {
+   "query": "To what pathogen that causes gas gangrene is oxygen poisonous?",
+   "answer": "anaerobic bacteria",
+   "gold": [
+    "ee860af1558390e8"
+   ],
+   "paraphrases": [
+    "Oxygen is toxic to which type of bacteria, causing it to produce gas gangrene when present?"
+   ]
+  },
+  {
+   "query": "What causes the population of ctenophora to grow at an explosive rate?",
+   "answer": "hermaphroditism and early reproduction",
+   "gold": [
+    "70150ba659ef2c4b"
+   ],
+   "paraphrases": [
+    "What drives the rapid proliferation of ctenophora populations?",
+    "The factors contributing to the explosive growth in ctenophora populations are what?"
+   ]
+  },
+  {
+   "query": "How is packet mode communication implemented ",
+   "answer": "with or without intermediate forwarding nodes",
+   "gold": [
+    "c3e063b58dd288e8"
+   ],
+   "paraphrases": [
+    "How does packet mode communication get implemented?",
+    "What methods are used to implement packet mode communication?",
+    "Packet mode communication - what techniques are employed to bring it into effect?"
+   ]
+  },
+  {
+   "query": "Where was the disease spreading between 1348 and 1350?",
+   "answer": "Germany and Scandinavia",
+   "gold": [
+    "2e5e9baaa2d5e643"
+   ],
+   "paraphrases": [
+    "Across what areas did the pandemic spread unchecked during the period from 1348 to 1350?"
+   ]
+  },
+  {
+   "query": "What is located on the site of The Weaving House currently?",
+   "answer": "a restaurant",
+   "gold": [
+    "f684d24fedd06ae1"
+   ],
+   "paraphrases": [
+    "What exists at the present site of The Weaving House?"
+   ]
+  },
+  {
+   "query": "How many campuses does the California State University have?",
+   "answer": "12",
+   "gold": [
+    "4caee0394ea5501c"
+   ],
+   "paraphrases": [
+    "How many campuses are there in the California State University system?",
+    "What is the total number of campuses within the California State University's organization?",
+    "The California State University operates how many distinct campuses altogether?"
+   ]
+  },
+  {
+   "query": "What is the effect on humans of oxygen?",
+   "answer": "mild euphoric",
+   "gold": [
+    "dbbb33306f8f3529"
+   ],
+   "paraphrases": [
+    "What effects do humans experience as a result of exposure to oxygen?"
+   ]
+  },
+  {
+   "query": "Did the European Court of Justice rule the defendant in the case of Commission v. Edith Cresson broke any laws?",
+   "answer": "did in fact not break any law",
+   "gold": [
+    "78ded48433791256"
+   ],
+   "paraphrases": [
+    "Was the defendant found to have violated legal norms by the European Court of Justice in its judgment regarding Commission v. Edith Cresson?",
+    "Did the European Court of Justice's decision in Commission v. Edith Cresson conclude that the defendant had committed a legal transgression?",
+    "In the case of Commission v. Edith Cresson, did the European Court of Justice determine that the defendant was guilty of unlawful behavior?"
+   ]
+  },
+  {
+   "query": "What percentage of the land cleared in the Amazon is used for growing livestock?",
+   "answer": "91%",
+   "gold": [
+    "3895e66f384dc9af"
+   ],
+   "paraphrases": [
+    "How much of the land converted from forest to pasture in the Amazon is utilized for rearing animals?"
+   ]
+  },
+  {
+   "query": "When was the Dutch Revolt?",
+   "answer": "1568\u20131609",
+   "gold": [
+    "dc852fea2c951a6e"
+   ],
+   "paraphrases": [
+    "What was the timing of the Dutch Revolt?",
+    "When did the Dutch Revolt take place?",
+    "The Dutch Revolt occurred at what point in time?"
+   ]
+  },
+  {
+   "query": "How long ago was it when the water broke through the Purus Arch?",
+   "answer": "Within the last 5\u201310 million years",
+   "gold": [
+    "bb8a76f08ce73953"
+   ],
+   "paraphrases": [
+    "What is the time elapsed since the water burst through the Purus Arch?"
+   ]
+  },
+  {
+   "query": "What percentage was the increase of agricultural products in 2003-04?",
+   "answer": "17%",
+   "gold": [
+    "caa4bb3befe82e04"
+   ],
+   "paraphrases": [
+    "What was the proportionate rise in agricultural product output between 2003 and 2004?",
+    "The degree to which agricultural production surged from 2003 to 2004 is what percentage?",
+    "To what extent did agricultural output expand during the 2003-04 period, measured as a percentage increase?"
+   ]
+  },
+  {
+   "query": "Who was the chief executive officer when the service began?",
+   "answer": "Sam Chisholm",
+   "gold": [
+    "1ee077fd22f6021a"
+   ],
+   "paraphrases": [
+    "What was the identity of the top administrator in place at the time the service launched?",
+    "The individual serving as head honcho was who when the service got underway?"
+   ]
+  },
+  {
+   "query": "A single line connects San Bernardino, Riverside and what other county?",
+   "answer": "Orange",
+   "gold": [
+    "c2e8ff4717327b79"
+   ],
+   "paraphrases": [
+    "One line of demarcation joins San Bernardino, Riverside, and which other county together?",
+    "What county shares a continuous boundary with both San Bernardino and Riverside?"
+   ]
+  },
+  {
+   "query": "In which year did the newspaper change its previous definition?",
+   "answer": "1999",
+   "gold": [
+    "f85a29eb0186d32f"
+   ],
+   "paraphrases": [
+    "What was the year that saw a revision of the newspaper's earlier definition?",
+    "In what year did the newspaper alter its former definition?"
+   ]
+  },
+  {
+   "query": "Sedimentary rock can be turned into which of the three types of rock?",
+   "answer": "metamorphic rock",
+   "gold": [
+    "a05eabc8f87fdca8"
+   ],
+   "paraphrases": [
+    "Which of the three primary categories of rocks is sedimentary rock capable of being transformed into?",
+    "Can sedimentary rock be reformed into one of the three fundamental classes of rocks?"
+   ]
+  },
+  {
+   "query": "What was an example of a type of warship that required high speed?",
+   "answer": "dreadnought battleships",
+   "gold": [
+    "240c8b1f49cd836b"
+   ],
+   "paraphrases": [
+    "What kind of warship had a need for rapid velocity?",
+    "Can you give me an instance of a naval vessel that needed to be swift?",
+    "Which type of warship necessitated a high level of propulsion speed?"
+   ]
+  },
+  {
+   "query": "Who owns the rail lines in Victoria?",
+   "answer": "government-owned",
+   "gold": [
+    "38ef368895718c22"
+   ],
+   "paraphrases": [
+    "What company or entity is responsible for managing the rail infrastructure in the state of Victoria?",
+    "Which entity holds ownership and operates the railway lines throughout Victoria?"
+   ]
+  },
+  {
+   "query": "\"An Account of Further Discoveries in Air\" was published by who in 1775?",
+   "answer": "Joseph Priestley",
+   "gold": [
+    "2eca63750a362ff2"
+   ],
+   "paraphrases": [
+    "In the year 1775, which individual wrote the publication \"An Account of Further Discoveries in Air\"?",
+    "Whom did it fall to publish the treatise \"An Account of Further Discoveries in Air\" in 1775?"
+   ]
+  },
+  {
+   "query": "How much food does a ctenophora eat in a day?",
+   "answer": "ten times their own weight",
+   "gold": [
+    "ee73f593c26ad38e"
+   ],
+   "paraphrases": [
+    "How many calories do ctenophores consume on a daily basis?",
+    "In what quantity does a typical ctenophora ingest its sustenance over the course of 24 hours?",
+    "What is the average amount of food that a ctenophora consumes in one day?"
+   ]
+  },
+  {
+   "query": "What is the prize offered for finding a solution to P=NP?",
+   "answer": "$1,000,000",
+   "gold": [
+    "57ea608fc0f4249a"
+   ],
+   "paraphrases": [
+    "A solution to the P versus NP problem, if found, would earn its discoverer a coveted what?"
+   ]
+  },
+  {
+   "query": "Who is given credit for discovering geoglyphs along the Amazon River?",
+   "answer": "Ondemar Dias",
+   "gold": [
+    "040a5627ef7bb5d9"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "What is the number of plant species in economics and social interest?",
+   "answer": "438,000",
+   "gold": [
+    "b88f2e98aa5ed396"
+   ],
+   "paraphrases": [
+    "What is the total count of plant species that have economic or social significance?",
+    "Can you identify the exact quantity of plant species that are relevant to economic and social concerns?",
+    "In what manner does one quantify the multitude of plant species that hold economic or social importance?"
+   ]
+  },
+  {
+   "query": "What magnitude was the 1994 Northridge earthquake?",
+   "answer": "6.7",
+   "gold": [
+    "1eab59159d4e8655"
+   ],
+   "paraphrases": [
+    "What was the size of the 1994 Northridge earthquake?",
+    "The magnitude of the 1994 Northridge earthquake was what?",
+    "How large was the 1994 Northridge earthquake in terms of its seismic intensity?"
+   ]
+  },
+  {
+   "query": "What is the usual source of heat for boiling water in the steam engine?",
+   "answer": "burning combustible materials",
+   "gold": [
+    "973bba514a778416"
+   ],
+   "paraphrases": [
+    "What is the typical origin of warmth used to boil water in a steam engine?",
+    "The primary generator of heat used to boil water in a steam engine is what?",
+    "In a traditional steam engine, what supplies the usual warmth required for boiling water?"
+   ]
+  },
+  {
+   "query": "If law breaking is not done in a public manor it is not considered what term?",
+   "answer": "civil disobedience",
+   "gold": [
+    "d3683b277766779b"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "Who is the first administrator of the Federal Energy Office?",
+   "answer": "William E. Simon",
+   "gold": [
+    "54dc2ba078167fe1"
+   ],
+   "paraphrases": [
+    "What was the identity of the initial head of the Federal Energy Office?",
+    "The individual serving as the inaugural chief of the Federal Energy Office is who?",
+    "Who took on the role of the primary administrator for the newly established Federal Energy Office from its inception?"
+   ]
+  },
+  {
+   "query": "What did Mitsubishi rename its Forte to?",
+   "answer": "Dodge D-50",
+   "gold": [
+    "8dc2fb949d6dc11e"
+   ],
+   "paraphrases": [
+    "What was formerly known as the Mitsubishi Forte called after a name change?"
+   ]
+  },
+  {
+   "query": "What did this concept contradict ",
+   "answer": "This concept contrasted and contradicted the theretofore established principles of pre-allocation of network bandwidth",
+   "gold": [
+    "dfc62fde23936e1e"
+   ],
+   "paraphrases": [
+    "What was the opposing idea that this concept negated?",
+    "This concept challenged what previous notion?",
+    "In contrast to what, did this concept exist?"
+   ]
+  },
+  {
+   "query": "What were Huguenots who stayed in France eventually known as?",
+   "answer": "\"new converts\"",
+   "gold": [
+    "30002152686f8427"
+   ],
+   "paraphrases": [
+    "What became of those Huguenots who chose to remain in France?",
+    "In the long run, what was the term used for Huguenots who decided not to depart from France?"
+   ]
+  },
+  {
+   "query": "What did Baran develop during research at RAND ",
+   "answer": "the concept of distributed adaptive message block switching",
+   "gold": [
+    "a4008fb587348767"
+   ],
+   "paraphrases": [
+    "What was the outcome of Baran's research endeavors while he was affiliated with the RAND Corporation?",
+    "Baran's work at RAND culminated in the development of what specific concept?"
+   ]
+  },
+  {
+   "query": "What was the period called that was 505 million years ago?",
+   "answer": "Cambrian period.",
+   "gold": [
+    "2cd5effea6825a6e"
+   ],
+   "paraphrases": [
+    "What era took place precisely 505 million years ago?"
+   ]
+  },
+  {
+   "query": "Between which two streets along Kearney Boulevard were wealthy African-Americans at one time residing?",
+   "answer": "Fresno Street and Thorne Ave",
+   "gold": [
+    "5ee9e17954c8db6e"
+   ],
+   "paraphrases": [
+    "What streets on Kearney Boulevard did wealthy African-Americans once call home?",
+    "Along what stretch of Kearney Boulevard can be found the historic residences of affluent African-Americans?"
+   ]
+  },
+  {
+   "query": "Who wrote \"Walking in Fresno?\"",
+   "answer": "Bill Aken",
+   "gold": [
+    "3c0389077487bd14"
+   ],
+   "paraphrases": [
+    "\"Who is credited with authoring the work 'Walking in Fresno'?"
+   ]
+  },
+  {
+   "query": "What device is used to test the magnetic attractions involved in liquid oxygen?",
+   "answer": "powerful magnet",
+   "gold": [
+    "0ed001b44e25271e"
+   ],
+   "paraphrases": [
+    "What apparatus is employed to assess the magnetic properties inherent in liquid oxygen?",
+    "The instrument of choice for probing the magnetically-driven phenomena within liquid oxygen is which device?"
+   ]
+  },
+  {
+   "query": "What was the name of the legislation passed in 1850?",
+   "answer": "the Missouri Compromise",
+   "gold": [
+    "93e67f8281dd40c1"
+   ],
+   "paraphrases": [
+    "What is the title of the law enacted in 1850?",
+    "The act that took effect in 1850 was known as what?"
+   ]
+  },
+  {
+   "query": "When did oxygen begin to move from the oceans to the atmosphere?",
+   "answer": "3\u20132.7 billion years ago",
+   "gold": [
+    "8ef143d276f98e3c"
+   ],
+   "paraphrases": [
+    "What was the approximate time when oxygen started transitioning from the oceans to the atmosphere?",
+    "At what point in Earth's history did oxygen first emerge from the oceans and migrate into the air?"
+   ]
+  },
+  {
+   "query": "What percentage of oxygen will a zeolite sieve produce?",
+   "answer": "90% to 93%",
+   "gold": [
+    "9e5f19ae8c4bcea4"
+   ],
+   "paraphrases": [
+    "What proportion of oxygen can be expected from a zeolite sieve?",
+    "The amount of oxygen that a zeolite sieve will yield is what percentage?",
+    "How much oxygen, as a percentage, does a zeolite sieve typically release?"
+   ]
+  },
+  {
+   "query": "What replaced the Sky+Box?",
+   "answer": "Sky+HD Box",
+   "gold": [
+    "4223eae6be53331c"
+   ],
+   "paraphrases": [
+    "What took the place of the Sky+Box?",
+    "The successor to the Sky+Box was what?",
+    "What did the Sky+Box get replaced by?"
+   ]
+  },
+  {
+   "query": "Where is the airport located?",
+   "answer": "the West Side",
+   "gold": [
+    "a1b693cf36415473"
+   ],
+   "paraphrases": [
+    "What is the location of the airport?",
+    "The airport can be found at what geographic coordinates?"
+   ]
+  },
+  {
+   "query": "Along with marine engines and industrial units, in what machines was compounding popular?",
+   "answer": "road engines",
+   "gold": [
+    "688a529e2d6116cd"
+   ],
+   "paraphrases": [
+    "What types of machinery were known to utilize compounding in addition to marine engines and industrial units?",
+    "Compound processes were also used in which kinds of machines besides marine engines and industrial units?"
+   ]
+  },
+  {
+   "query": "What was the outcome of living in the California Redwood tree?",
+   "answer": "successfully preventing it from being cut down",
+   "gold": [
+    "6246745d994cea4c"
+   ],
+   "paraphrases": [
+    "What happened to an organism that made its home in a California Redwood tree?",
+    "What were the consequences for any creature that chose to reside within the towering canopy of a California Redwood?",
+    "For any species that opted to take up residence amidst the majesty of a California Redwood, what was the result?"
+   ]
+  },
+  {
+   "query": "Does BSkyB carry any control over the picture quality of a channel?",
+   "answer": "not",
+   "gold": [
+    "a28b1741ae11a0ca"
+   ],
+   "paraphrases": [
+    "Does Sky Broadcasting (BSkyB) exert any influence over the visual fidelity of a televised program?",
+    "Can BSkyB be said to have any influence on the picture clarity of a broadcast channel?",
+    "To what extent does BSkyB exercise control over the image resolution of a television station?"
+   ]
+  },
+  {
+   "query": "The number of new Huguenot colonists declined after what year?",
+   "answer": "1700",
+   "gold": [
+    "395b1cfae86dbeb3"
+   ],
+   "paraphrases": [
+    "What year marked a decline in the influx of Huguenot settlers?"
+   ]
+  },
+  {
+   "query": "How many miles south of San Jose is the north - south midway point located?",
+   "answer": "11",
+   "gold": [
+    "5621a695e0f4cee7"
+   ],
+   "paraphrases": [
+    "At what mileage does the northernmost point marking the halfway point lie when moving south from San Jose?",
+    "In terms of mileage, how far south of San Jose is the location where one would find the midway point running along a north-south axis?"
+   ]
+  },
+  {
+   "query": "How did the Nixon administration negotiate with the uncooperative countries?",
+   "answer": "They arranged for Israel to pull back from the Sinai Peninsula and the Golan Heights.",
+   "gold": [
+    "0fd3a0b720dd6f64"
+   ],
+   "paraphrases": [
+    "What diplomatic approaches did the Nixon administration employ to deal with nations that were resistant to cooperation?",
+    "In what ways did the Nixon administration attempt to persuade and engage with countries that were not willing to collaborate?"
+   ]
+  },
+  {
+   "query": "What did Virgin Media concentrate on instead of offering linear channels?",
+   "answer": "Video On Demand",
+   "gold": [
+    "450ad678c6861fc9"
+   ],
+   "paraphrases": [
+    "What was Virgin Media's focus rather than providing traditional linear television channels?",
+    "Instead of broadcasting linear TV channels, what did Virgin Media prioritize?",
+    "Rather than delivering a lineup of linear television channels, what did Virgin Media concentrate on?"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,3091 @@
+{
+ "dataset": "ms_marco",
+ "paraphraser": "llama3:latest",
+ "candidates": 806,
+ "kept": 449,
+ "bases": [
+  {
+   "query": "what are some man made features in ecuador",
+   "answer": "No Answer Present.",
+   "gold": [
+    "4298e8a0c0d17f7c"
+   ],
+   "paraphrases": [
+    "What human constructed elements can be found in Ecuador?",
+    "Are there any anthropogenic features present in Ecuador?"
+   ]
+  },
+  {
+   "query": "does cholesterol contribute to heart disease and stroke",
+   "answer": "Yes, High levels of LDL cholesterol raise your risk for heart disease and stroke.",
+   "gold": [
+    "ff36f34c97a4b97b"
+   ],
+   "paraphrases": [
+    "What role does cholesterol play in the development of cardiovascular disorders such as heart disease and stroke?",
+    "Is there a link between cholesterol levels and an increased risk of heart disease and stroke?",
+    "To what extent is high cholesterol implicated in the etiology of cardiovascular events like heart disease and stroke?"
+   ]
+  },
+  {
+   "query": "how long before you see results for body weight squats",
+   "answer": "Four to eight weeks",
+   "gold": [
+    "5e70d12793e1cdc9"
+   ],
+   "paraphrases": [
+    "At what point, if at all, should you start to notice visible effects on your body composition from performing bodyweight squats regularly?"
+   ]
+  },
+  {
+   "query": "common symptoms of acute vascular insufficiency include quizlet",
+   "answer": "No Answer Present.",
+   "gold": [
+    "a2074b61685de119"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what causes window seal failure",
+   "answer": "Cleaning windows with a pressure washer or regular garden hose can flood the seal, Dramatic temperature changes expand and high wind loads cause glass to flex, which can weaken the seal and lead to failure.",
+   "gold": [
+    "f7eef18f4cf50285"
+   ],
+   "paraphrases": [
+    "What leads to the breakdown in window seals over time?",
+    "In what ways can window seals become compromised and lose their effectiveness?"
+   ]
+  },
+  {
+   "query": "what county is racine wv in",
+   "answer": "Racine is in Boone County, West Virginia.",
+   "gold": [
+    "d6b234954938b727"
+   ],
+   "paraphrases": [
+    "What county does Racine, WV reside in?",
+    "Racine, West Virginia - which county does it fall within?"
+   ]
+  },
+  {
+   "query": "what are koks",
+   "answer": "KOKS Group is the world's largest exporter of merchant pig iron and Russia's largest manufacturer of merchant coke.",
+   "gold": [
+    "ed97b259b1d2ce4d"
+   ],
+   "paraphrases": [
+    "What is popularly known as Koks?"
+   ]
+  },
+  {
+   "query": "what are urbanization",
+   "answer": "Urbanization is the increasing proportion of country's population living within urban areas.",
+   "gold": [
+    "1b5a2911aaa4a4b5"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what age can children remain on parents insurance",
+   "answer": "Children up to age 26 remain on parents insurance.",
+   "gold": [
+    "10cf0a7ee0068603"
+   ],
+   "paraphrases": [
+    "Children up to what age are permitted to remain covered under their parent's insurance policy?"
+   ]
+  },
+  {
+   "query": "what covers the nerve fibers.of.the brain",
+   "answer": "No Answer Present.",
+   "gold": [
+    "968b9f2a97aae36f"
+   ],
+   "paraphrases": [
+    "What surrounds the nerve fibers of the brain?",
+    "The brain's nerve fibers are covered by what substance?",
+    "What layer envelops the nerve fibers within the brain?"
+   ]
+  },
+  {
+   "query": "what century is john donne from",
+   "answer": "John Donne is from an eighteenth-century.",
+   "gold": [
+    "e6ea4515e14ad968"
+   ],
+   "paraphrases": [
+    "What time period does John Donne belong to?",
+    "In which century was John Donne born?",
+    "Can you tell me in which century John Donne lived?"
+   ]
+  },
+  {
+   "query": "symptoms of a gastric ulcer in women",
+   "answer": "acidic and extremely painful is symptom of a gastric ulcer in women.",
+   "gold": [
+    "18030dc12744628b"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what cord do i need for my fax machine",
+   "answer": "No Answer Present.",
+   "gold": [
+    "82f77ceff01be771"
+   ],
+   "paraphrases": [
+    "What type of cable is required to connect my fax machine?",
+    "What kind of cord should I use to operate my fax device?",
+    "Which telephone cable do I require to facilitate transmission from my fax machine?"
+   ]
+  },
+  {
+   "query": "cost to replace fusion outside mirror",
+   "answer": "No Answer Present.",
+   "gold": [
+    "45ba6280108d8d03"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what are us government jobs",
+   "answer": "No Answer Present.",
+   "gold": [
+    "07792aeba6a28931"
+   ],
+   "paraphrases": [
+    "What types of careers can be found working for the US government?"
+   ]
+  },
+  {
+   "query": "average annual salary in nh",
+   "answer": "$68,250",
+   "gold": [
+    "28aaa34fa5e94fd7"
+   ],
+   "paraphrases": [
+    "What is the typical yearly compensation for a worker in New Hampshire?",
+    "In New Hampshire, what is the mean annual wage for employees?"
+   ]
+  },
+  {
+   "query": "what county in pa is etna",
+   "answer": "Etna is in Allegheny County, Pennsylvania.",
+   "gold": [
+    "9a29a31c5f73ef38"
+   ],
+   "paraphrases": [
+    "What is the name of the county located in Pennsylvania where Etna is situated?",
+    "Which county in Pennsylvania does Etna call home?"
+   ]
+  },
+  {
+   "query": "what adidas shoes are best for running",
+   "answer": "Adidas Adios Boost 3, Adidas Outdoor Gsg9 are the best Adidas shoes for running.",
+   "gold": [
+    "3395e3bddffa0b44",
+    "50fef5268d21b3f4"
+   ],
+   "paraphrases": [
+    "What are the top Adidas shoe recommendations for running enthusiasts?",
+    "What's the most suitable Adidas footwear for individuals who prioritize performance in their runs?"
+   ]
+  },
+  {
+   "query": "tita name meaning",
+   "answer": "The name Tita means honored.",
+   "gold": [
+    "64ebb2f63fa0bc36"
+   ],
+   "paraphrases": [
+    "What does the name Titus mean?",
+    "The meaning of the name Titus is what?"
+   ]
+  },
+  {
+   "query": "water park in indiana",
+   "answer": "Splashin' Safari, Caribbean Cove",
+   "gold": [
+    "f825a0a925444094",
+    "ed541089753217c8"
+   ],
+   "paraphrases": [
+    "Where can I find information on water parks situated inside the borders of Indiana?"
+   ]
+  },
+  {
+   "query": "can you deduct child care expenses",
+   "answer": "Yes, you can only take a deduction up to $3,000 for one qualifying child",
+   "gold": [
+    "6ba769a5a7c8931b"
+   ],
+   "paraphrases": [
+    "What expenses related to childcare are eligible for deduction?",
+    "Are there any childcare expenses that I can write off on my taxes?",
+    "Can I claim a tax deduction for the costs of caring for my children?"
+   ]
+  },
+  {
+   "query": "bc what amount can rent be increased",
+   "answer": "No Answer Present.",
+   "gold": [
+    "0c02355dbdf2feed"
+   ],
+   "paraphrases": [
+    "What is the maximum permissible increase in rent?",
+    "To what extent can rent be raised?"
+   ]
+  },
+  {
+   "query": "what are the foods that are zero points on weight watchers",
+   "answer": "The fish, beans, celery, carrots, fruit, vegetables and corn are the foods that are zero points on weight watchers.",
+   "gold": [
+    "444f7ee62cd64f28",
+    "6e5f122c61e5c791",
+    "52d2f0e6b2d1281a"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what are thai spring roll wrappers",
+   "answer": "No Answer Present.",
+   "gold": [
+    "2d8d7a1bcc2a8b0a"
+   ],
+   "paraphrases": [
+    "Can you tell me about the typical wrapping material used in traditional Thai spring rolls?"
+   ]
+  },
+  {
+   "query": "what are nuisance tenants?",
+   "answer": "In a landlord-tenant context, a nuisance is the obstruction of the free use of rental property so as to interfere with the comfortable enjoyment of life.",
+   "gold": [
+    "078ae4896845981b"
+   ],
+   "paraphrases": [
+    "What kind of tenants are considered a hassle to deal with?",
+    "Who are the types of renters that can cause problems for property owners?"
+   ]
+  },
+  {
+   "query": "vegan how much protein a day",
+   "answer": "The recommendation for protein for adult male vegans is around 63 grams per day and around 52 grams per day for adult female vegans.",
+   "gold": [
+    "f6f48f5f5a89a467"
+   ],
+   "paraphrases": [
+    "What is the daily recommended intake of protein for individuals following a vegan diet?",
+    "How many grams of protein should someone consuming a plant-based diet aim to consume each day?"
+   ]
+  },
+  {
+   "query": "what do i need for a liquor license",
+   "answer": "A liquor license is needed if you or your business sells, manufactures, imports, or distributes alcohol in Oregon.",
+   "gold": [
+    "5b542b3b612ec414"
+   ],
+   "paraphrases": [
+    "What are the requirements to obtain a liquor license?",
+    "To get a liquor license, what steps must I take?"
+   ]
+  },
+  {
+   "query": "epr properties price",
+   "answer": "EPR properties price target is $71.71.",
+   "gold": [
+    "19f1f9ce79a1aa47"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what are the most commonly used batteries",
+   "answer": "Dry Leclanche or carbon-zinc, alkaline and lithium batteries are the most commonly used batteries.",
+   "gold": [
+    "5f4bccf6c05b911c"
+   ],
+   "paraphrases": [
+    "What types of batteries are used most frequently?",
+    "Which battery varieties are the most widely employed?"
+   ]
+  },
+  {
+   "query": "what are the basic assumptions economists have about individuals?",
+   "answer": "The main economists assumptions about individuals are that people have rational preferences, they are self-interested, they are utility maximisers and they have access to all relevant information.",
+   "gold": [
+    "e237002a1638e1a6"
+   ],
+   "paraphrases": [
+    "What assumptions do economists make about human behavior?",
+    "Economists' fundamental presumptions regarding individual decision-making are which ones?"
+   ]
+  },
+  {
+   "query": "what are the norman islands",
+   "answer": "Norman Island is an island located at the southern tip of the British Virgin Islands.",
+   "gold": [
+    "af09e625a1817acd"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "very slow movement of rock downhill",
+   "answer": "Creep is the very slow downhill movement of rock and soil.",
+   "gold": [
+    "2cbea6348d72764d"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "how many litres of diesel are in a barrel",
+   "answer": "40 liters",
+   "gold": [
+    "f43ef0dba4050eb0"
+   ],
+   "paraphrases": [
+    "What is the total volume of diesel fuel contained within a single barrel?",
+    "A standard barrel contains what amount of diesel fuel by volume?"
+   ]
+  },
+  {
+   "query": "can gas cause right side back pain",
+   "answer": "Yes, Gas can cause right side back pain.",
+   "gold": [
+    "184715a411164a3f"
+   ],
+   "paraphrases": [
+    "Is a gas-related condition a possible explanation for right-side back discomfort?"
+   ]
+  },
+  {
+   "query": "weight of vinyl weatherstrip per foot",
+   "answer": "No Answer Present.",
+   "gold": [
+    "a15df5c3e3bd42df"
+   ],
+   "paraphrases": [
+    "Can you tell me the approximate weight of vinyl weatherstripping per foot?"
+   ]
+  },
+  {
+   "query": "tourism geography",
+   "answer": "Tourism geography is the study of travel and tourism, as an industry and as a social and cultural activity.",
+   "gold": [
+    "e36d83f6ce477e55"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "weather in paradise hills",
+   "answer": "Paradise Hills New Mexico United States Weather, partly cloudy with a temperature of 3\u00b0C and a wind South-South-East speed of 17 Km/h. The humidity will be 35% and there will be 0.0 mm of precipitation.",
+   "gold": [
+    "371c74902d9a7a48"
+   ],
+   "paraphrases": [
+    "What's the current climate like in Paradise Hills?",
+    "How would you describe the weather conditions currently prevailing in Paradise Hills?",
+    "Is there anything noteworthy about the atmospheric conditions in Paradise Hills right now?"
+   ]
+  },
+  {
+   "query": "what county is hollister ca in?",
+   "answer": "Hollister is in San Benito County, California.",
+   "gold": [
+    "88f47035fe571ce0"
+   ],
+   "paraphrases": [
+    "What is the county where Hollister, California is located?",
+    "In which county is Hollister situated in California?",
+    "Hollister, a city in California, is situated in which county?"
+   ]
+  },
+  {
+   "query": "what courses does pest control companies employees take",
+   "answer": "Pest control companies employees take courses like, the basics of pesticide safety, such as proper application techniques, preventing exposure to pesticides and proper cleansing methods in instances of exposure.",
+   "gold": [
+    "44df1b3889eb57f9"
+   ],
+   "paraphrases": [
+    "What type of educational programs do workers at pest control companies typically enroll in?",
+    "Pest control company staff members often pursue which specific training modules?",
+    "Do employees working for pest control companies typically attend certain types of courses?"
+   ]
+  },
+  {
+   "query": "underlying proficiency",
+   "answer": "The Common Underlying Proficiency model or the one balloon theory described by Jim Cummins purports that proficiencies involving more cognitively demanding tasks are common across languages.",
+   "gold": [
+    "5cda3404750bddda"
+   ],
+   "paraphrases": [
+    "What lies beneath one's apparent mastery?"
+   ]
+  },
+  {
+   "query": "why do we describe waves as rhythmic motions",
+   "answer": "No Answer Present.",
+   "gold": [
+    "d83bc7571fc810be"
+   ],
+   "paraphrases": [
+    "What is the motivation behind describing waves as repetitive movements?",
+    "How did we come to associate waves with rhythmic oscillations?"
+   ]
+  },
+  {
+   "query": "trod meaning",
+   "answer": "Trod is the past tense of tread, which is defined as to step on, over or to float in water.",
+   "gold": [
+    "d7c2fe1763a76b05"
+   ],
+   "paraphrases": [
+    "What does \"trod\" mean?",
+    "What's the definition of \"trod\"?"
+   ]
+  },
+  {
+   "query": "what are five benefits of ecosystem services",
+   "answer": "Ecosystem goods and services produce the many life-sustaining benefits we receive from nature\u2014clean air and water, fertile soil for crop production, pollination, and flood control.",
+   "gold": [
+    "416729404e2388f3"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "types of focalizacion",
+   "answer": "The types of focalization are character-bound or internal and external.",
+   "gold": [
+    "b217bddc9e9c562b"
+   ],
+   "paraphrases": [
+    "What are the kinds of focalization?",
+    "Types of focalization that exist?",
+    "There are what types of focalization?"
+   ]
+  },
+  {
+   "query": "victorinox luggage warranty",
+   "answer": "No Answer Present.",
+   "gold": [
+    "fc03738e691be2b2"
+   ],
+   "paraphrases": [
+    "How long does the warranty on Victorinox brand luggage last?"
+   ]
+  },
+  {
+   "query": "what county is huntington beach florida in",
+   "answer": "Huntington Beach is in Orange County, Florida.",
+   "gold": [
+    "266d4861645fbe92"
+   ],
+   "paraphrases": [
+    "Is Huntington Beach located within a specific county in Florida?",
+    "In which county is Huntington Beach situated in Florida?"
+   ]
+  },
+  {
+   "query": "temperature of water for hurricane formation",
+   "answer": "Temperature of water for hurricane formation is 26.5 degrees Celsius or 80 Fahrenheit or greater.",
+   "gold": [
+    "6fd7b017b258f6a6"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what are proteins kids definition",
+   "answer": "No Answer Present.",
+   "gold": [
+    "86fccfd8da4159a3"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "symptoms of too much salt in a dog's diet",
+   "answer": "No Answer Present.",
+   "gold": [
+    "89299cf6fd93b9ce"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "canadian us currency",
+   "answer": "No Answer Present.",
+   "gold": [
+    "692d25b7423b54e9"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what causes clean breath",
+   "answer": "Eating garlic and a lax teeth-brushing routine cause bad breath.",
+   "gold": [
+    "b5a3d870305fa91a"
+   ],
+   "paraphrases": [
+    "Fresh breath is caused by what?",
+    "What triggers a person to have good-smelling breath?",
+    "What factors contribute to having a pleasant mouth odor?"
+   ]
+  },
+  {
+   "query": "the bancorp routing number",
+   "answer": "The bancorp routing number is 114924742.",
+   "gold": [
+    "0f29889a70430357"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what county is clinton ct",
+   "answer": "Clinton is in Middlesex County, Connecticut, United States.",
+   "gold": [
+    "21bd5a3cc47d13cc"
+   ],
+   "paraphrases": [
+    "What is the county where Clinton, CT is located?"
+   ]
+  },
+  {
+   "query": "convert ft to meter formula",
+   "answer": "0.3048 meters in a foot.",
+   "gold": [
+    "16d813fa0c4bd1be"
+   ],
+   "paraphrases": [
+    "What is the mathematical equation for converting feet to meters?",
+    "How do you transform feet into meters using a conversion formula?"
+   ]
+  },
+  {
+   "query": "types of energy production in washington state",
+   "answer": "The types of energy production in Washington State are Silicon Energy, or Bioenergy.",
+   "gold": [
+    "ccbfb09c4df05c18",
+    "38ff249e8e10b5a0"
+   ],
+   "paraphrases": [
+    "What forms of energy generation are prevalent in Washington?"
+   ]
+  },
+  {
+   "query": "define system interface design",
+   "answer": "No Answer Present.",
+   "gold": [
+    "d6278781f27939a1"
+   ],
+   "paraphrases": [
+    "What are the intentional touchpoints where users interact with a system to achieve their goals?"
+   ]
+  },
+  {
+   "query": "weather in delaware state",
+   "answer": "Weather in delaware state is Mostly sunny highs in the lower 70s. Temperature falling into the lower 60s. Southwest winds around 15 mph with gusts up to 30 mph.",
+   "gold": [
+    "991ccb49edb43756"
+   ],
+   "paraphrases": [
+    "What is the typical climate like in Delaware?",
+    "Can you tell me about the weather conditions in the state of Delaware?",
+    "How does the climate typically fare in Delaware?"
+   ]
+  },
+  {
+   "query": "what causes hypersensitivity after a migraine",
+   "answer": "Trigeminal disturbance hypersensitivity after a migraine.",
+   "gold": [
+    "b0e7d796b4144eb5"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "terrestrial plant definition",
+   "answer": "A terrestrial plant is a plant that grows on or in or from land.",
+   "gold": [
+    "f6e6bb4acd9a7298"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "how do i measure density",
+   "answer": "No Answer Present.",
+   "gold": [
+    "c78f6a2e355ac8a6"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "vortus investment advisors",
+   "answer": "Vortus Investment Advisors is a fort worth based private equity firm focused on the lower to middle market upstream energy industry in North America.",
+   "gold": [
+    "c17762e7782c1007"
+   ],
+   "paraphrases": [
+    "Can you tell me about Vortus Investment Advisors?"
+   ]
+  },
+  {
+   "query": "ebay 1/24 scale johnny white lightning chase cars for sale",
+   "answer": "No Answer Present.",
+   "gold": [
+    "404886cbfb2da2bf"
+   ],
+   "paraphrases": [
+    "What options exist on eBay for buying 1/24 scale models of Johnny White Lightning's Chase Cars?",
+    "Are there any 1/24 scale Johnny White Lightning Chase Cars for sale through eBay?"
+   ]
+  },
+  {
+   "query": "how do dangerous animals adapt",
+   "answer": "No Answer Present.",
+   "gold": [
+    "0f1170a1189ceee2"
+   ],
+   "paraphrases": [
+    "How do hazardous creatures modify their characteristics to survive?",
+    "What strategies do perilous species use to cope with their environments?",
+    "In what ways do menacing organisms adjust their traits to thrive?"
+   ]
+  },
+  {
+   "query": "calories in panera organic tomato bisque",
+   "answer": "There are 110 calories in Organic Panera Bread Tomato Bisque.",
+   "gold": [
+    "5c11722b05dcdb7d"
+   ],
+   "paraphrases": [
+    "What is the calorie count for Panera Organic Tomato Bisque?",
+    "How many calories are there in a serving of Panera's Organic Tomato Bisque?",
+    "Can you tell me the nutritional information, specifically the calorie content, for Panera's Organic Tomato Bisque?"
+   ]
+  },
+  {
+   "query": "bubble buddy spongebob what year was it made",
+   "answer": "No Answer Present.",
+   "gold": [
+    "ec885884f37ae310"
+   ],
+   "paraphrases": [
+    "What is the release year of SpongeBob SquarePants' iconic \"Bubble Buddy\" character?",
+    "In which year did the beloved \"Bubble Buddy\" from SpongeBob SquarePants make its debut?"
+   ]
+  },
+  {
+   "query": "what are the four main types of membranes in the body?",
+   "answer": "The four main types of membranes in the body are cutaneous membranes, serous membranes, mucous membranes and synovial membranes.",
+   "gold": [
+    "ecce5094157cf5a1"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "how much money does a small koi cost",
+   "answer": "Domestic average quality Koi generally cost $5-$15 a pound. Small 3-4 inch Koi cost around $3, while large foot long Koi cost around $20-$25.",
+   "gold": [
+    "c8c6b2624d978582"
+   ],
+   "paraphrases": [
+    "What is the typical price range for a small koi fish?",
+    "Can I expect to spend a certain amount on a small koi?",
+    "How much can I anticipate paying for a small koi?"
+   ]
+  },
+  {
+   "query": "enterovesical fistula symptoms",
+   "answer": "No Answer Present.",
+   "gold": [
+    "a57f37da68e22b82"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "butte montana dmv phone number",
+   "answer": "The phone number of DMV at Butte, Montana is 406 497 6301.",
+   "gold": [
+    "b54c6009bc0b49c2"
+   ],
+   "paraphrases": [
+    "What is the DMV phone number for Butte, Montana?",
+    "Is there a specific phone number for the Department of Motor Vehicles in Butte, Montana that I can call?",
+    "Can you provide me with the DMV contact information for Butte, Montana, including their phone number?"
+   ]
+  },
+  {
+   "query": "gigabit ethernet fiber media converter",
+   "answer": "Gigabit Ethernet Media Converter MC210CS a media converter designed to convert 1000BASE-LX/LH fiber to 1000Base-T copper media or vice versa.",
+   "gold": [
+    "2774ceaa7892c5e1"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "another name for heart failure",
+   "answer": "Alternate name for heart failure is dropsyLeft-side, or systolic.",
+   "gold": [
+    "b935ef012f44aec7"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what county is universal city in?",
+   "answer": "Universal City is located in Bexar County.",
+   "gold": [
+    "5c292e2f8e790752"
+   ],
+   "paraphrases": [
+    "What is the county where Universal City is located?",
+    "Is Universal City situated within a specific county?",
+    "In which county does Universal City lie?"
+   ]
+  },
+  {
+   "query": "weather in bodo norway",
+   "answer": "In Bodo, Norway, the maximum temperature will be 0\u2103 or 32\u2109 on Monday 19 th February at around 1 pm and in the same week the minimum temperature will be -9\u2103 or 15\u2109 on Sunday 25 th February at around 10 pm.",
+   "gold": [
+    "ec4404c7b82098ea"
+   ],
+   "paraphrases": [
+    "What is the current weather like in Bod\u00f8, Norway?"
+   ]
+  },
+  {
+   "query": "what diagnostic test examines a sample of fluid surrounding the brain and spinal cord?",
+   "answer": "No Answer Present.",
+   "gold": [
+    "0125cf4d483c6871"
+   ],
+   "paraphrases": [
+    "What type of diagnostic test evaluates a sample of cerebrospinal fluid?",
+    "The diagnostic procedure that involves collecting and examining cerebrospinal fluid is which one?"
+   ]
+  },
+  {
+   "query": "weather in sierra vista",
+   "answer": "The highest monthly average temperature in Sierra Vista for June is 81 degrees and the lowest monthly average temperature for December is 49 degrees. The most monthly precipitation occurs in August with 5 inches.",
+   "gold": [
+    "5c745c61e1f4780e"
+   ],
+   "paraphrases": [
+    "What is the current weather situation like in Sierra Vista?",
+    "How would you describe the atmospheric conditions currently prevailing in Sierra Vista?",
+    "Can you tell me what the weather is like right now in Sierra Vista?"
+   ]
+  },
+  {
+   "query": "waushara wi population",
+   "answer": "Waushara County, WI has a population of 24,321 people.",
+   "gold": [
+    "4c27450b90effbb2"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what are plant fertilisers made of",
+   "answer": "No Answer Present.",
+   "gold": [
+    "9d2e307d91c9479d"
+   ],
+   "paraphrases": [
+    "What do plant fertilizers typically consist of?",
+    "Fertilizers used for plants are composed of what substances?",
+    "The components found in plant fertilizers are what?"
+   ]
+  },
+  {
+   "query": "what do green chilies taste like",
+   "answer": "No Answer Present.",
+   "gold": [
+    "36b132f1aad000e0"
+   ],
+   "paraphrases": [
+    "What is the flavor profile of green chilies?",
+    "How would you describe the taste of green chilies?",
+    "Do green chilies have a distinct flavor?"
+   ]
+  },
+  {
+   "query": "what degree did franklin roosevelt receive from harvard",
+   "answer": "No Answer Present.",
+   "gold": [
+    "ca213053d0e95a97"
+   ],
+   "paraphrases": [
+    "What was the academic credential awarded to Franklin Roosevelt by Harvard University?",
+    "Franklin Roosevelt's academic achievement from Harvard is which degree?",
+    "The degree earned by Franklin Roosevelt at Harvard was what?"
+   ]
+  },
+  {
+   "query": "weather in havana cuba in march",
+   "answer": "No Answer Present.",
+   "gold": [
+    "2a2d0ef6f6e14324"
+   ],
+   "paraphrases": [
+    "What is the typical climate like in Havana, Cuba during the month of March?",
+    "March weather conditions in Havana, Cuba - what can we expect?"
+   ]
+  },
+  {
+   "query": "can muscular dystrophy be hereditary",
+   "answer": "Yes, muscular dystrophy can be hereditary.",
+   "gold": [
+    "05230a70902fcfe1"
+   ],
+   "paraphrases": [
+    "What is the likelihood that muscular dystrophy is passed down through family lines?",
+    "Is there a genetic component to the development of muscular dystrophy?"
+   ]
+  },
+  {
+   "query": "why do veins come to the surface",
+   "answer": "No Answer Present.",
+   "gold": [
+    "a6afae4af55612e5"
+   ],
+   "paraphrases": [
+    "What is the purpose of superficial venous structures?",
+    "What motivates veins to rise to the skin's surface?",
+    "In what circumstances do veins become visible externally?"
+   ]
+  },
+  {
+   "query": "calories in cecil whittaker chef salad",
+   "answer": "No Answer Present.",
+   "gold": [
+    "2807f8099d22f46d"
+   ],
+   "paraphrases": [
+    "What is the total calorie count of a Chef Salad at Cecil Whittaker?",
+    "How many calories are contained within a Cecil Whittaker Chef Salad?",
+    "Can you tell me the approximate number of calories found in a Chef Salad prepared by Cecil Whittaker?"
+   ]
+  },
+  {
+   "query": "what causes bruises on legs and are tender",
+   "answer": "No Answer Present.",
+   "gold": [
+    "f103bc8d7f981edf"
+   ],
+   "paraphrases": [
+    "What is the underlying cause of bruising on the legs that can also be accompanied by tenderness?",
+    "Bruise formation on the legs, which often presents with a tender quality, what triggers this phenomenon?"
+   ]
+  },
+  {
+   "query": "was black panther an original marvel character",
+   "answer": "No, the Black Panther is a fictional character appearing in American comic books published by Marvel Comics.",
+   "gold": [
+    "98fa9f32f32d673f"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "edinboro graduate credit cost",
+   "answer": "No Answer Present.",
+   "gold": [
+    "1e20234b2fe94144"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what are the three levels of government and why do we have checks and balances",
+   "answer": "No Answer Present.",
+   "gold": [
+    "c619e9c5487e435c"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what county is woodsville nh",
+   "answer": "Woodsville is in Grafton County, New Hampshire.",
+   "gold": [
+    "98c28034db361e2b"
+   ],
+   "paraphrases": [
+    "What is the county where Woodsville, New Hampshire is located?",
+    "Is Woodsville, New Hampshire situated in a particular county?",
+    "Which county does Woodsville, New Hampshire call home?"
+   ]
+  },
+  {
+   "query": "how to improve breathing for children while sleeping",
+   "answer": "No Answer Present.",
+   "gold": [
+    "07f38f2717c0f75a"
+   ],
+   "paraphrases": [
+    "Can you help me figure out a way to enhance respiratory function in kids during their sleep?",
+    "What are some strategies that can boost breathing quality for young children when they're snoozing?",
+    "How might one optimize respiratory health and air exchange for children during their nighttime slumber?"
+   ]
+  },
+  {
+   "query": "what are unconstrained funds",
+   "answer": "Unconstrained funds have the ability to limit interest rate risk while adding alpha through diversification and access to a broad opportunity set.",
+   "gold": [
+    "b67d0ead89e06d76"
+   ],
+   "paraphrases": [
+    "What do you call funds that don't have any specific restrictions on their use?"
+   ]
+  },
+  {
+   "query": "what county is upper saddle river nj in",
+   "answer": "Upper Saddle River is in Bergen County, New Jersey.",
+   "gold": [
+    "181b0f97196bd0c0"
+   ],
+   "paraphrases": [
+    "What is the name of the county where Upper Saddle River, NJ is located?",
+    "Upper Saddle River, New Jersey - which county does it belong to?",
+    "In which county can you find the municipality of Upper Saddle River, situated in the state of New Jersey?"
+   ]
+  },
+  {
+   "query": "epic games customer service number",
+   "answer": "The Customer Service Number of Epic Games is +19198540070.",
+   "gold": [
+    "68c823cefe49b781"
+   ],
+   "paraphrases": [
+    "What is the contact information for Epic Games' customer support team?",
+    "How do I reach out to Epic Games' customer service department?"
+   ]
+  },
+  {
+   "query": "how much fat is in a bubba burger",
+   "answer": "340 calories in a 1 burger serving out of which 70% fat.",
+   "gold": [
+    "90d076ee5f89308d"
+   ],
+   "paraphrases": [
+    "What is the total amount of fat contained within a Bubba Burger?",
+    "Can you tell me the fat content of a Bubba Burger, and if so, what is that quantity?"
+   ]
+  },
+  {
+   "query": "what county in tn elizabethton",
+   "answer": "Elizabethton is located in Carter County.",
+   "gold": [
+    "21ae7adf86f1aff0"
+   ],
+   "paraphrases": [
+    "What is the name of the county where Elizabethton is located in Tennessee?",
+    "Which county contains the city of Elizabethton in the state of Tennessee?"
+   ]
+  },
+  {
+   "query": "what division section is plumbing",
+   "answer": "22 division section is plumbing.",
+   "gold": [
+    "37fd5f28e1461f5e"
+   ],
+   "paraphrases": [
+    "Which department or section within an organization is responsible for plumbing?"
+   ]
+  },
+  {
+   "query": "what did blackmon mean by slavery by another name mean",
+   "answer": "Slavery by another name is the Re-Enslavement of Black Americans From the Civil War to World War II By Douglas A. Blackmon Illustrated.",
+   "gold": [
+    "e4cbe9a0cf176cf5"
+   ],
+   "paraphrases": [
+    "By which euphemistic term was Blackmon referring to the institution of slavery?",
+    "In what ways, according to Blackmon, does the concept of slavery have alternative names or manifestations?"
+   ]
+  },
+  {
+   "query": "do thermostats contain mercury",
+   "answer": "Yes, thermostats contains mercury.",
+   "gold": [
+    "1a6ed6dabcd04e5c"
+   ],
+   "paraphrases": [
+    "Does the presence of mercury characterize some types of thermostats?",
+    "Is it true that certain thermostats incorporate mercury within their functional components?"
+   ]
+  },
+  {
+   "query": "what did the romans use a hypocaust for",
+   "answer": "The Romans used a hypocaust for the large public bathhouses and it creates heat and distributes it as well in room.",
+   "gold": [
+    "b66449abf7be8e77"
+   ],
+   "paraphrases": [
+    "What was the purpose of the hypocaust system in ancient Roman architecture?",
+    "How were underfloor heating systems used by the Romans to warm their homes?"
+   ]
+  },
+  {
+   "query": "what county is howell, nj in",
+   "answer": "Howell Township is a township in Monmouth County, New Jersey, United States.",
+   "gold": [
+    "46b4211e35b0bebf"
+   ],
+   "paraphrases": [
+    "Howell, NJ is located in which county?",
+    "What county contains the town of Howell, New Jersey?",
+    "In which county does the town of Howell, New Jersey exist?"
+   ]
+  },
+  {
+   "query": "what characteristic does roots, nodules, nitrogen fixing bacteria have that let them convert oxygen",
+   "answer": "No Answer Present.",
+   "gold": [
+    "d4037cd37ba2ad29"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "weather in narok kenya",
+   "answer": "The weather in Narok, Kenya is the maximum temperature will be 24\u2103 or 74\u2109 on Thursday 18 th January at around 3 pm. In the same week the minimum temperature will be 7\u2103 or 44\u2109 on Tuesday 16 th January at around 6 am.",
+   "gold": [
+    "38886928667c2939"
+   ],
+   "paraphrases": [
+    "What is the current weather like in Narok, Kenya?",
+    "Can you tell me about the current weather conditions in Narok, Kenya?"
+   ]
+  },
+  {
+   "query": "texas roadhouse glen mills pa phone number",
+   "answer": "Texas Roadhouse, Glen Mills phone number is +1 610-459-1720.",
+   "gold": [
+    "2dc6105a51534f51"
+   ],
+   "paraphrases": [
+    "What is the phone number for Texas Roadhouse in Glen Mills, PA?",
+    "Can you provide me with the phone number for Texas Roadhouse located in Glen Mills, Pennsylvania?",
+    "How do I get in touch with Texas Roadhouse in Glen Mills, PA by phone?"
+   ]
+  },
+  {
+   "query": "can vertigo happen due to stress",
+   "answer": "No,vertigo does not happen due to stress.",
+   "gold": [
+    "be3327875eb5430a"
+   ],
+   "paraphrases": [
+    "Is it possible for stress to cause vertigo?",
+    "Can stress be a contributing factor in developing vertigo?",
+    "Does stress have the potential to trigger or exacerbate episodes of vertigo?"
+   ]
+  },
+  {
+   "query": "energy transfers definition",
+   "answer": "Energy transfer is when energy passes from one place to another or one object to another.",
+   "gold": [
+    "f04e2eaffd534a3e"
+   ],
+   "paraphrases": [
+    "What is meant by the concept of energy transfer?",
+    "How is energy transferred from one form to another?"
+   ]
+  },
+  {
+   "query": "does chef gets paid by salary",
+   "answer": "No Answer Present.",
+   "gold": [
+    "7341d58e5fc13cbb"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "calories in dried apricot",
+   "answer": "No Answer Present.",
+   "gold": [
+    "5a21f9bbeb7ad534"
+   ],
+   "paraphrases": [
+    "What is the caloric content of dried apricots?",
+    "Can you tell me the nutritional value of dried apricots in terms of calorie count?"
+   ]
+  },
+  {
+   "query": "weather in cambodia in january",
+   "answer": "Cambodia weather in January is pretty hot with temperatures of 22.0\u00b0 and 32.9\u00b0 degrees, might be good for outdoors activity.",
+   "gold": [
+    "fa866374d75ab5b2"
+   ],
+   "paraphrases": [
+    "What kind of climate can I expect to experience in Cambodia in the month of January?",
+    "Can you tell me about the expected weather conditions in Cambodia for January?"
+   ]
+  },
+  {
+   "query": "what county is windkits llc in",
+   "answer": "No Answer Present.",
+   "gold": [
+    "885856d2c5fb153e"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "can laser kill you",
+   "answer": "Yes",
+   "gold": [
+    "4d18c6a6b59d0516"
+   ],
+   "paraphrases": [
+    "Is it possible for a laser to cause fatal harm?",
+    "Can a concentrated beam of light from a laser device be lethal?"
+   ]
+  },
+  {
+   "query": "what are ways that salem capitalizes it's which history",
+   "answer": "No Answer Present.",
+   "gold": [
+    "edd4d5b594106268"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what are newton's three laws of motion",
+   "answer": "Newton's First Law of Motion states that in order for the motion of an object to change, a force must act upon it, a concept generally called inertia, Newton's Second Law of Motion defines the relationship between acceleration, force, and mass. Newton's Third Law of Motion states that any time a force acts from one object to another, there is an equal force acting back on the original object.",
+   "gold": [
+    "c8ff08d420ee83a3"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "how long do customers shop at walmart",
+   "answer": "No Answer Present.",
+   "gold": [
+    "24eecb56df4473ef"
+   ],
+   "paraphrases": [
+    "What is the average duration of a customer's shopping trip at Walmart?"
+   ]
+  },
+  {
+   "query": "what are the weather conditions for a stationary front?",
+   "answer": "The weather associated with a stationary front is similar to that produced by a warm front.",
+   "gold": [
+    "a31e259f7d4d3079"
+   ],
+   "paraphrases": [
+    "What type of weather can you typically expect when a stationary front is present?",
+    "In general, what kind of atmospheric conditions are characteristic of a stationary front?"
+   ]
+  },
+  {
+   "query": "how much is too much bowel movement",
+   "answer": "No Answer Present.",
+   "gold": [
+    "8827939ddc8235df"
+   ],
+   "paraphrases": [
+    "How many bowel movements is considered excessive?"
+   ]
+  },
+  {
+   "query": "what can a juul do to u",
+   "answer": "JUUL started off as a way of providing smokers with an alternative to combustible tobacco products.",
+   "gold": [
+    "dca4b5614c74c7a9"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "weather madrid spain",
+   "answer": "No Answer Present.",
+   "gold": [
+    "56ca2075fdcc1570"
+   ],
+   "paraphrases": [
+    "What's the current climate like in Madrid, Spain?",
+    "Can you tell me about the weather conditions in Madrid, Spain right now?"
+   ]
+  },
+  {
+   "query": "english muffin how many weight watchers points",
+   "answer": "There are one weight watchers points in English Muffins.",
+   "gold": [
+    "077ab198cc724622"
+   ],
+   "paraphrases": [
+    "English muffins how many Weight Watchers points they have?",
+    "What is the point value of an English muffin on Weight Watchers?",
+    "Can you tell me the number of Weight Watchers points that an English muffin has?"
+   ]
+  },
+  {
+   "query": "how many children do actress debbie allen have",
+   "answer": "No Answer Present.",
+   "gold": [
+    "e0ed8bba654182b3"
+   ],
+   "paraphrases": [
+    "What is the total number of offspring that Debbie Allen, a renowned actress, has brought into the world?",
+    "How many kids does Debbie Allen, a talented actress and performer, count as her own?",
+    "Can you tell me the exact quantity of youngsters that Debbie Allen, an accomplished actress, has welcomed into her family?"
+   ]
+  },
+  {
+   "query": "what color is the graduation tassel for nursing",
+   "answer": "No Answer Present.",
+   "gold": [
+    "9de24fddbeb5ba92"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "how long is one acre in meter",
+   "answer": "No Answer Present.",
+   "gold": [
+    "acd079638c25eac2"
+   ],
+   "paraphrases": [
+    "One acre of land is equal to what length in meters?",
+    "What distance does an acre cover in meters?"
+   ]
+  },
+  {
+   "query": "types of power of attorney forms for ca",
+   "answer": "No Answer Present.",
+   "gold": [
+    "a889b31ece509ca9"
+   ],
+   "paraphrases": [
+    "What are the various kinds of power of attorney forms available in California?"
+   ]
+  },
+  {
+   "query": "weather channel beloit",
+   "answer": "No Answer Present.",
+   "gold": [
+    "6fefae5cc4ef4958"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "antiseptic meaning",
+   "answer": "The definition of antiseptic is something that is germ free, something that is very clean or something that eliminates germs.",
+   "gold": [
+    "761472a8efe8adf9"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what animals eat the diamond leaf willow located",
+   "answer": "Musk oxen, deer, desert sake, and dingos eat diamond leaf willow.",
+   "gold": [
+    "1e01710bd5e98ecc"
+   ],
+   "paraphrases": [
+    "What creatures consume the foliage of the diamond leaf willow?",
+    "The animals that feed on the leaves of the diamond leaf willow are which ones?",
+    "Which fauna is known to graze upon the leaves of the diamond leaf willow?"
+   ]
+  },
+  {
+   "query": "the masters badges",
+   "answer": "Masters badges can be picked up from the TicketCity Augusta office as early as 7:30 am. All Masters badges require a security deposit, which is released when the badge is returned.",
+   "gold": [
+    "54898eeb6f632160"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "breakthrough treatments for cartilage loss",
+   "answer": "No Answer Present.",
+   "gold": [
+    "7cc48d4ba70e9a59"
+   ],
+   "paraphrases": [
+    "What are some innovative therapies for reversing cartilage degeneration?",
+    "Are there any cutting-edge interventions capable of regenerating or repairing damaged cartilage?"
+   ]
+  },
+  {
+   "query": "what county is hazlet nj",
+   "answer": "Hazlet is a township in Monmouth County, New Jersey, United States.",
+   "gold": [
+    "c2166d7a5332d0c5"
+   ],
+   "paraphrases": [
+    "What is the name of the county where Hazlet, New Jersey is located?",
+    "In which county can you find Hazlet, a town in New Jersey?"
+   ]
+  },
+  {
+   "query": "temperature lithopolis ohio",
+   "answer": "The average temperature of Lithopolis, Ohio is 52.04\u00b0 F.",
+   "gold": [
+    "5391f7e36dc4e3b7"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "define competencies",
+   "answer": "The quality of being competent; adequacy; possession of required skill, knowledge, qualification, or capacity: He hired her because of her competence, an income sufficient to furnish the necessities and modest comforts of life.",
+   "gold": [
+    "13beacfa149beebb"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "does flomax cause liver damage",
+   "answer": "Yes, flomax causes liver damage.",
+   "gold": [
+    "32e113bd9142d0d3"
+   ],
+   "paraphrases": [
+    "What is the potential for Flomax to induce liver injury?",
+    "Can Flomax contribute to liver damage?"
+   ]
+  },
+  {
+   "query": "what are dielectric fittings",
+   "answer": "The fitting design is unique in that it separates the two primary functions of electrical insulation and fluid containment.",
+   "gold": [
+    "b8f6e9842d0be81d"
+   ],
+   "paraphrases": [
+    "What type of hardware connects wires together, insulating them from each other while permitting minimal electrical conductivity?"
+   ]
+  },
+  {
+   "query": "what ages are primary/early education in spain",
+   "answer": "The primary education is given between the ages of 6 and 12 in Spain.",
+   "gold": [
+    "d7cac9387d0c66d0"
+   ],
+   "paraphrases": [
+    "What are the typical age ranges for primary education in Spain?"
+   ]
+  },
+  {
+   "query": "what causes the li",
+   "answer": "Li-Fraumeni syndrome is caused by mutations in the TP53 or CHEK2 genes, both of which produce tumor suppressor genes.",
+   "gold": [
+    "266fdbc1036dc9d6"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what angles do you use to make a triangle",
+   "answer": "One side of your equilateral triangle, which means that you will need to draw two more lines of exactly the same length, each reaching toward a point at a 60\u00b0 angle from the first line.",
+   "gold": [
+    "7989b2df77d1aa92"
+   ],
+   "paraphrases": [
+    "What combinations of angle measures can be used to form a triangle?",
+    "How are triangles constructed using specific angle values?",
+    "Can you specify the angle types that collectively create a triangular shape?"
+   ]
+  },
+  {
+   "query": "time difference between sydney and atlanta",
+   "answer": "Time difference between Atlanta and Sydney is 14 Hours.",
+   "gold": [
+    "6b2042b597dfa57b"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "calcium is known as",
+   "answer": "Calcium is known as osteoblasts.",
+   "gold": [
+    "efb0de6db8e63fa8"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what channel is black history month on frontier",
+   "answer": "The Weather Channel's Vivian Brown channel is black history month on frontier.",
+   "gold": [
+    "93d3603209baa5a2"
+   ],
+   "paraphrases": [
+    "What cable network airs Black History Month programming on the TV show Frontier?",
+    "On which television station can viewers watch special Black History Month content featured in the series Frontier?"
+   ]
+  },
+  {
+   "query": "what are roles of a non-clinical master's prepared nurse",
+   "answer": "No Answer Present.",
+   "gold": [
+    "951290ea715b8017"
+   ],
+   "paraphrases": [
+    "What positions can a Master's-prepared non-clinical nurse assume?",
+    "Positions that a non-clinical nurse with a Master's degree might fill are which?"
+   ]
+  },
+  {
+   "query": "what did darwin conclude about the finches",
+   "answer": "No Answer Present.",
+   "gold": [
+    "7e8e97aff3c9a90c"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "us bank statewide routing numbers",
+   "answer": "No Answer Present.",
+   "gold": [
+    "87a5d4491b52ab4a"
+   ],
+   "paraphrases": [
+    "What are the US Bank routing numbers for each state?"
+   ]
+  },
+  {
+   "query": "what agency in pa helps with hearing aids",
+   "answer": "No Answer Present.",
+   "gold": [
+    "1ac0c952ad208f55"
+   ],
+   "paraphrases": [
+    "What organization in Pennsylvania provides assistance with hearing aid devices?",
+    "The Pennsylvania agency that offers support for hearing aids is which one?",
+    "Which Pennsylvania-based entity helps individuals acquire and maintain the use of hearing aids?"
+   ]
+  },
+  {
+   "query": "dry mouth can mean what",
+   "answer": "A dry mouth can sometimes be the first sign of dehydration and it is a common symptom in both type 1 and type 2 diabetes.",
+   "gold": [
+    "53b4b0fc54c5dc3e",
+    "87457d6a00af5a4c"
+   ],
+   "paraphrases": [
+    "Can a dry mouth be indicative of something else?",
+    "What might a dry mouth suggest is happening?"
+   ]
+  },
+  {
+   "query": "what company os lockton",
+   "answer": "Lockton is the world\u2019s largest privately owned, independent insurance brokerage firm.",
+   "gold": [
+    "264b7bea8ca7ca27"
+   ],
+   "paraphrases": [
+    "What corporation is Lockton?",
+    "Lockton belongs to which organization?",
+    "Which business entity does Lockton represent?"
+   ]
+  },
+  {
+   "query": "can tylenol pm cause dehydration?",
+   "answer": "No Answer Present.",
+   "gold": [
+    "18dc8d97869ce2ac"
+   ],
+   "paraphrases": [
+    "Can taking Tylenol PM lead to dehydration?",
+    "Does dehydration occur as a result of using Tylenol PM?",
+    "Is it possible for Tylenol PM usage to cause dehydration?"
+   ]
+  },
+  {
+   "query": "wahid meaning",
+   "answer": "Wahid is an Arabic masculine given name, meaning peerless, unique.",
+   "gold": [
+    "d25c893ec7104bdc"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what county is pittsford",
+   "answer": "Pittsford is in Monroe County.",
+   "gold": [
+    "127ef321077712d2"
+   ],
+   "paraphrases": [
+    "What is the name of the county where Pittsford is located?",
+    "Pittsford is situated in which county?"
+   ]
+  },
+  {
+   "query": "can a corporation be a beneficiary",
+   "answer": "No Answer Present.",
+   "gold": [
+    "bf2ba3c55882c11b"
+   ],
+   "paraphrases": [
+    "Can a corporate entity serve as a beneficiary?",
+    "Is it possible for a company to receive a benefit?"
+   ]
+  },
+  {
+   "query": "what characteristics are associated with conscientious?",
+   "answer": "The Conscientious person is dedicated to work, works very hard, and is capable of intense, single-minded effort.",
+   "gold": [
+    "c6cc432abf6ed098"
+   ],
+   "paraphrases": [
+    "Can you identify the traits that are commonly linked to individuals who are considered conscientious?",
+    "What factors contribute to someone being seen as a model of diligence and responsibility?"
+   ]
+  },
+  {
+   "query": "was hera syndulla in clone wars?",
+   "answer": "No.",
+   "gold": [
+    "5300ddad552da155"
+   ],
+   "paraphrases": [
+    "Was Hera Syndulla a part of the Clone Wars?",
+    "Did Hera Syndulla participate in the events of the Clone Wars?"
+   ]
+  },
+  {
+   "query": "_____ are products or services that add additional value to the primary product or service that makes up a network.",
+   "answer": "Complementary benefits are products or services that add additional value to the network.",
+   "gold": [
+    "327a801f837acd6d"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "dynamics crm outlook synchronization process",
+   "answer": "The CRM/Outlook synchronization process can occur in one of two ways: 1) manually clicking the \u201cSynchronize with CRM\u201d option, or 2) scheduled background synchronization. The actual CRM/Outlook sync process looks like this when kicked off: 1 Prepare sync is called to query the server to prepare all the entities which should be synchronized down from the CRM server. 2 Subscription table = Specifies the SyncEntryTable name for each user that has been created.",
+   "gold": [
+    "a37413ebb3edde80"
+   ],
+   "paraphrases": [
+    "What is the procedure for synchronizing Dynamics CRM with Outlook?",
+    "How does Dynamics CRM synchronize data with Outlook?",
+    "Can you describe the process of synchronizing Dynamics CRM and Microsoft Outlook?"
+   ]
+  },
+  {
+   "query": "symptoms of the common flu",
+   "answer": "Common symptoms of the flu include a cough, sore throat, fever of 100 degrees or higher, chills, fatigue and headache, according to FLU.gov.",
+   "gold": [
+    "90791d423cd8fba6"
+   ],
+   "paraphrases": [
+    "What are the typical characteristics of influenza illness?"
+   ]
+  },
+  {
+   "query": "what are the benefits of ginger root in honey",
+   "answer": "Benefits of ginger root in honey is prevent blood clotting and reduce cholesterol.",
+   "gold": [
+    "d4c9c27243f1f1a5"
+   ],
+   "paraphrases": [
+    "What advantages can be gained from combining ginger root with honey?",
+    "What are the positive effects that result when using ginger root in conjunction with honey?"
+   ]
+  },
+  {
+   "query": "the tendency to perceive objects, or figures, on a background is known as ________.",
+   "answer": "No Answer Present.",
+   "gold": [
+    "7e599e78ba4f57b0"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what are the size of sediments",
+   "answer": "The size of sediments are diameters less than 62 microns down to 4 microns.",
+   "gold": [
+    "d8a1c1b90853a4ac"
+   ],
+   "paraphrases": [
+    "What is the measurement of sediment particles?",
+    "What sizes do sediments come in?"
+   ]
+  },
+  {
+   "query": "what day does scandal come on",
+   "answer": "Scandal comes on Thursdays.",
+   "gold": [
+    "71a3e05123182444"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "how long does it take disability alj to review a case and assign a hearing date",
+   "answer": "No Answer Present.",
+   "gold": [
+    "8063c662ed13d625"
+   ],
+   "paraphrases": [
+    "What is the typical timeframe for the Disability ALJ to process and schedule a hearing?"
+   ]
+  },
+  {
+   "query": "what county is ada mi. in",
+   "answer": "Ada is in Kent County, Michigan.",
+   "gold": [
+    "0fdac016dc731b98"
+   ],
+   "paraphrases": [
+    "What is the county that Ada, MI is located within?"
+   ]
+  },
+  {
+   "query": "best record season record in baseball history",
+   "answer": "No Answer Present.",
+   "gold": [
+    "125a0a9e1b1dfa9c"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "valsartan-hydrochlorothiazide used to",
+   "answer": "Valsartan - hydrochlorothiazide is used to treat high blood pressure or hypertension.",
+   "gold": [
+    "87eb57a53b19e0b8"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "weaning food dish",
+   "answer": "Wean food dish is a sweet and creamy pur\u00e9e, simply made with ripe, nutrient-rich avocado and banana.",
+   "gold": [
+    "400514772a20e034"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "weather in port blair in degree",
+   "answer": "The weather in Port Blair is 26.2 degrees Celsius or 79.2 degrees Fahrenheit.",
+   "gold": [
+    "23facc97837299fa"
+   ],
+   "paraphrases": [
+    "Can you provide information on the temperature range in Port Blair, measured in degrees?"
+   ]
+  },
+  {
+   "query": "what direction did the great wall protect",
+   "answer": "The great wall protected Silk Road trade.",
+   "gold": [
+    "f3c3de691e0ed47d"
+   ],
+   "paraphrases": [
+    "What was the geographical orientation of the Great Wall's defensive purpose?"
+   ]
+  },
+  {
+   "query": "what cause inner knee pain and swelling",
+   "answer": "No Answer Present.",
+   "gold": [
+    "4472ac295608a516"
+   ],
+   "paraphrases": [
+    "What are the underlying factors that contribute to knee pain and swelling occurring internally?",
+    "What triggers the onset of inner knee discomfort accompanied by swelling?",
+    "What is the primary culprit behind the development of internal knee pain and edema?"
+   ]
+  },
+  {
+   "query": "budget meaning",
+   "answer": "A budget is an estimation of revenue and expenses over a specified future period of time.",
+   "gold": [
+    "cec04440dc25e0d3"
+   ],
+   "paraphrases": [
+    "What does \"budget\" mean in simple terms?"
+   ]
+  },
+  {
+   "query": "the result of general edward braddock's effort to capture fort duquesne was",
+   "answer": "No Answer Present.",
+   "gold": [
+    "628e8975eec4148a"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what county in ohio has the lowest property tax",
+   "answer": "No Answer Present.",
+   "gold": [
+    "286eb084ae08a956"
+   ],
+   "paraphrases": [
+    "Which Ohio county boasts the lowest property tax rates overall?"
+   ]
+  },
+  {
+   "query": "what county is earlham, ia in",
+   "answer": "Earlham is a city in Madison County, Iowa, United States.",
+   "gold": [
+    "f7812cff92531df9"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "weather in wisconsin dells in november",
+   "answer": "No Answer Present.",
+   "gold": [
+    "3298f6f2247f5d04"
+   ],
+   "paraphrases": [
+    "In terms of climate and precipitation, how does November shape up for Wisconsin Dells?"
+   ]
+  },
+  {
+   "query": "what do greek merchants sell",
+   "answer": "No Answer Present.",
+   "gold": [
+    "1ce28be0a0709da3"
+   ],
+   "paraphrases": [
+    "What kind of merchandise can you find at a Greek merchant's stall?"
+   ]
+  },
+  {
+   "query": "treatment of adrenal carcinoma",
+   "answer": "Radiation therapy is used to treat adrenal carcinoma.",
+   "gold": [
+    "e1de320bf5a9f3eb"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "average pay for nuclear medicine technologist",
+   "answer": "$48,699 to $83,024",
+   "gold": [
+    "245ade8da7f01dfe"
+   ],
+   "paraphrases": [
+    "What is the median salary range for a nuclear medicine technologist?",
+    "Average compensation packages for nuclear medicine technologists in the industry typically fall within which range?"
+   ]
+  },
+  {
+   "query": "what county is delray beach n",
+   "answer": "Delray Beach is in Palm Beach County.",
+   "gold": [
+    "71193be3a71c6950"
+   ],
+   "paraphrases": [
+    "What is the name of the county where Delray Beach is located?",
+    "Delray Beach is situated in which county?"
+   ]
+  },
+  {
+   "query": "effects of nicotine and caffeine",
+   "answer": "Caffeine, in any form, raises your heart rate, and nicotine also raises your heart rate. \u201cCombine the two, and your heart is going into overtime.\u201d",
+   "gold": [
+    "19ea72bbbab0eb2c"
+   ],
+   "paraphrases": [
+    "What are the consequences of consuming nicotine and caffeine?",
+    "The outcomes of ingesting nicotine and caffeine are what?",
+    "What effects can be expected from using nicotine and caffeine?"
+   ]
+  },
+  {
+   "query": "dxc meaning",
+   "answer": "DXC is a clique made up of cool kids that like good music, but are a bit ditzy at times.",
+   "gold": [
+    "998f363543d82714"
+   ],
+   "paraphrases": [
+    "What does dxc mean?",
+    "What is the significance of the notation dxc?",
+    "The notation dxc signifies what?"
+   ]
+  },
+  {
+   "query": "what did confucius do as a politician",
+   "answer": "No Answer Present.",
+   "gold": [
+    "5b8d4af73a917f6e"
+   ],
+   "paraphrases": [
+    "What were Confucius' political pursuits?",
+    "Confucius' role in government was characterized by what activities?",
+    "In his political career, which specific actions did Confucius undertake?"
+   ]
+  },
+  {
+   "query": "what county is tioga texas in",
+   "answer": "Tioga, Texas is in Grayson County.",
+   "gold": [
+    "28930c55ed51c6f6"
+   ],
+   "paraphrases": [
+    "What region does Tioga, Texas belong to?"
+   ]
+  },
+  {
+   "query": "what bird is on the bolivian flag",
+   "answer": "No Answer Present.",
+   "gold": [
+    "85bda16d35d3a3dd"
+   ],
+   "paraphrases": [
+    "The Andean nation's state emblem features which avian species?",
+    "Which bird is depicted on the Bolivian coat of arms?"
+   ]
+  },
+  {
+   "query": "what counts as liquids for tsa",
+   "answer": "The TSA says all liquids/gels/aerosols have to be in a 3.4 oz container.",
+   "gold": [
+    "3cd87358c975510b"
+   ],
+   "paraphrases": [
+    "What constitutes a liquid for TSA purposes?",
+    "In the eyes of TSA, what types of substances qualify as liquids?"
+   ]
+  },
+  {
+   "query": "the definition of hobby",
+   "answer": "Hobby is in activity that one enjoys doing in one's spare time.",
+   "gold": [
+    "0a9e97a775a5913f"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "amlodipine besylate is used for what",
+   "answer": "To treat high blood pressure and coronary artery disease.",
+   "gold": [
+    "1385476771730e5b"
+   ],
+   "paraphrases": [
+    "Amlodipine besylate is primarily utilized to treat which medical condition?",
+    "For what specific therapeutic purpose is amlodipine besylate typically employed?"
+   ]
+  },
+  {
+   "query": "what are the five stages mitosis",
+   "answer": "Stages of mitosis: prophase, metaphase, anaphase, telophase, interphase.",
+   "gold": [
+    "40b8574d8062ace5",
+    "b6ab8b11aa3d1acd"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what are the three variables max weber identified as defining social class",
+   "answer": "The three variables identified by Max Weber as defining social class are life circumstances and opportunities; ownership of property and wealth; and working conditions and markets.",
+   "gold": [
+    "3b444b2cb953038b"
+   ],
+   "paraphrases": [
+    "What were the three key factors that Max Weber posited determine an individual's social class?",
+    "Max Weber's work distinguished between which three characteristics that define a person's social standing?",
+    "Weber's sociological theory emphasized the importance of what three attributes in determining one's social class?"
+   ]
+  },
+  {
+   "query": "How do I find out where a package is through the post office",
+   "answer": "No Answer Present.",
+   "gold": [
+    "bd7a574a285d2493"
+   ],
+   "paraphrases": [
+    "What steps can I take to track down the location of my package using the services provided by the postal service?",
+    "How would I go about locating the current status and whereabouts of a parcel that I've sent through the post office?"
+   ]
+  },
+  {
+   "query": "virginia basis for granting conditional use permit",
+   "answer": "No Answer Present.",
+   "gold": [
+    "e235a6e3dd0d6da5"
+   ],
+   "paraphrases": [
+    "What are the criteria Virginia uses to grant a conditional use permit?",
+    "Virginia's basis for issuing a conditional use permit is what?",
+    "What factors guide Virginia's decision-making process when it comes to awarding a conditional use permit?"
+   ]
+  },
+  {
+   "query": "what county is plains montana in",
+   "answer": "Plains is in Sanders County, Montana.",
+   "gold": [
+    "59e5eeec06b9122b"
+   ],
+   "paraphrases": [
+    "Plains, Montana: which county does it occupy?",
+    "In what jurisdiction is Plains, Montana situated?"
+   ]
+  },
+  {
+   "query": "calories in kroger's creamy chicken",
+   "answer": "There are 70 calories in Kroger Heart Healthy Cream of Chicken Condensed Soup.",
+   "gold": [
+    "28d11447c7750a3f"
+   ],
+   "paraphrases": [
+    "What are the calorie counts for Kroger's creamy chicken product?",
+    "Can you provide details on the caloric content of Kroger's creamy chicken?"
+   ]
+  },
+  {
+   "query": "what are chemical properties of sand and gravel",
+   "answer": "No Answer Present.",
+   "gold": [
+    "6a36ddd752fbe9b3"
+   ],
+   "paraphrases": [
+    "What characteristics define the chemical nature of sand and gravel?",
+    "What kinds of chemical behaviors can we expect from sand and gravel?",
+    "In terms of their chemical makeup, what properties do sand and gravel exhibit?"
+   ]
+  },
+  {
+   "query": "how long to wait until pot plants ready to smoke",
+   "answer": "No Answer Present.",
+   "gold": [
+    "07f4553579704c22"
+   ],
+   "paraphrases": [
+    "What is the typical duration before pot plants are ripe for smoking?"
+   ]
+  },
+  {
+   "query": "weight watchers avocado",
+   "answer": "No Answer Present.",
+   "gold": [
+    "6f86cee951a0283b"
+   ],
+   "paraphrases": [
+    "What is the nutritional value of avocados within the framework of a Weight Watchers program?"
+   ]
+  },
+  {
+   "query": "dr. jacquelyn c. schnidman npi number",
+   "answer": "The npi number of dr. jacquelyn c. schnidman is 1023278843.",
+   "gold": [
+    "e0820338444f8362"
+   ],
+   "paraphrases": [
+    "What is Dr. Jacquelyn C. Schnidman's NPI number?",
+    "Can you provide me with Dr. Jacquelyn C. Schnidman's National Provider Identifier (NPI) number?",
+    "What is the NPI number for Dr. Jacquelyn C. Schnidman?"
+   ]
+  },
+  {
+   "query": "how much does a rancho bernardo inn membership cost?",
+   "answer": "No Answer Present.",
+   "gold": [
+    "01a8db4e2faf95f2"
+   ],
+   "paraphrases": [
+    "What is the typical price tag for a Rancho Bernardo Inn membership?",
+    "How much might I expect to pay for a membership at the Rancho Bernardo Inn?",
+    "Would you happen to know the annual fee associated with becoming a member of the Rancho Bernardo Inn?"
+   ]
+  },
+  {
+   "query": "what do adhd mean",
+   "answer": "Attention Deficit Hyperactivity Disorder is a disorder characterized by a persistent pattern of inattention and/or hyperactivity/impulsivity that occurs in academic, occupational, or social settings.",
+   "gold": [
+    "9c3881965bbb6ea6"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what are ba degrees",
+   "answer": "BA is a Bachelor of Arts degree.",
+   "gold": [
+    "0408f17f6bcfa4b5"
+   ],
+   "paraphrases": [
+    "What do BA degrees entail?"
+   ]
+  },
+  {
+   "query": "symptoms of air pollution exposure",
+   "answer": "High air pollution levels can cause immediate health problems including: 1 Aggravated cardiovascular and respiratory illness. 2 Added stress to heart and lungs, which must work harder to supply the body with oxygen. 3 Damaged cells in the respiratory system.",
+   "gold": [
+    "4bbbf627cc6f75f9"
+   ],
+   "paraphrases": [
+    "What are the physical manifestations that occur when a person is exposed to polluted air?",
+    "Exposure to polluted air can lead to what health effects or discomforts?",
+    "When individuals inhale contaminated air, what signs and symptoms typically arise?"
+   ]
+  },
+  {
+   "query": "what car did the pope ride in",
+   "answer": "Pope rode Popemobile car.",
+   "gold": [
+    "5a01d4480ebb6b0e"
+   ],
+   "paraphrases": [
+    "What vehicle was the Pope known to travel in?"
+   ]
+  },
+  {
+   "query": "cast of honeysuckle rose",
+   "answer": "Cast and crews for Honeysuckle Rose with Willie Nelson, Dyan Cannon, Amy Irving.",
+   "gold": [
+    "87d409c94eed17bb"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what are examples of becoming eco friendly",
+   "answer": "Beyond Meat is a great example of an eco-friendly product.",
+   "gold": [
+    "732e1c06bd9a4ef0"
+   ],
+   "paraphrases": [
+    "What are some concrete actions people can take to lead a more environmentally conscious lifestyle?",
+    "Can you provide some specific instances or ways that individuals can adopt eco-friendly habits and behaviors?",
+    "Are there any particular practices, routines, or choices that someone could make to reduce their ecological footprint?"
+   ]
+  },
+  {
+   "query": "does mexico have speed limits",
+   "answer": "No Mexican highway allows going beyond 110 km/h, but the speed limit is enforced generally above 130 km/h only.",
+   "gold": [
+    "18cf762135373366"
+   ],
+   "paraphrases": [
+    "Are there established speed limits in place to regulate the velocity of vehicles traveling within Mexico's borders?"
+   ]
+  },
+  {
+   "query": "how many pages braille volume",
+   "answer": "No Answer Present.",
+   "gold": [
+    "0fcecb8cdc2a65f9"
+   ],
+   "paraphrases": [
+    "How many pages are there in a Braille volume?",
+    "What is the page count of a Braille volume?",
+    "Can you tell me the number of pages found within a typical Braille volume?"
+   ]
+  },
+  {
+   "query": "what are the four us representatives",
+   "answer": "No Answer Present.",
+   "gold": [
+    "7b2fd743f4fc901d"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "can chief justice overrule the president on law",
+   "answer": "No Answer Present.",
+   "gold": [
+    "f8d7abc9fd99645f"
+   ],
+   "paraphrases": [
+    "Can the Chief Justice of the United States prevail against a presidential decree on matters of legislation?",
+    "Does the Chief Justice have the authority to countermand a presidential decision on issues related to statutory interpretation?"
+   ]
+  },
+  {
+   "query": "what are cbd's in marijuana",
+   "answer": "CBD is found throughout the seeds, stalk, and flowers of cannabis plants including hemp and marijuana.",
+   "gold": [
+    "d9420c2394c4328f"
+   ],
+   "paraphrases": [
+    "What do CBDs stand for in the cannabis plant?"
+   ]
+  },
+  {
+   "query": "what are important in personal hygiene",
+   "answer": "No Answer Present.",
+   "gold": [
+    "6f6265ecae878e64"
+   ],
+   "paraphrases": [
+    "What aspects of daily routine contribute to maintaining good personal health?"
+   ]
+  },
+  {
+   "query": "epacube address",
+   "answer": "The address of Epacube is 201 Main Street, Suite 600, Fort Worth, Texas 76102-3110.",
+   "gold": [
+    "02a837c8b4581fe7"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "cause of gum recession",
+   "answer": "Gum disease,  use of tobacco, abrasive toothbrushing techniques, tooth misalignment and grinding, irregular or abnormal tooth position",
+   "gold": [
+    "2fa3c3973dcf831a",
+    "fb2ef75a507303d1"
+   ],
+   "paraphrases": [
+    "What triggers gum recession?",
+    "Gum recession's underlying causes?",
+    "Reasons behind receding gums?"
+   ]
+  },
+  {
+   "query": "what bands did david kinder drum with",
+   "answer": "No Answer Present.",
+   "gold": [
+    "9ef3fe1dfc3ac8df"
+   ],
+   "paraphrases": [
+    "Which musical acts has David Kinder been a drummer for?",
+    "In which bands did David Kinder serve as a drummer?"
+   ]
+  },
+  {
+   "query": "how far is eureka ca to klamath falls",
+   "answer": "157 miles or 252.61 Kilometers",
+   "gold": [
+    "627c8fc4daf019c7"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "versum materials us",
+   "answer": "Versum Materials Us, Llc is a mature organization in the polishes and sanitation goods companies industry located in Carlsbad, California.",
+   "gold": [
+    "27d8159b5659862a"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "how many inches do you need to cut off the bottom of a christmas tree so it will drink water",
+   "answer": "No Answer Present.",
+   "gold": [
+    "bd427acbd15889c7"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what are trace elements typically needed for?",
+   "answer": "No Answer Present.",
+   "gold": [
+    "5eb5eb526d87fcff"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "symptoms of trichomonas",
+   "answer": "No Answer Present.",
+   "gold": [
+    "606719984716a8e3"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "virgil williams television producer",
+   "answer": "Virgil Williams is an American television producer and writer.",
+   "gold": [
+    "e7daae118c36deea"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what county is center cross va located in",
+   "answer": "Center Cross is located in Essex County, Virginia.",
+   "gold": [
+    "914a8533d435bd16"
+   ],
+   "paraphrases": [
+    "What is the county that Center Cross VA calls home?",
+    "In which county is the town of Center Cross situated in Virginia?",
+    "Located in what county can you find Center Cross, Virginia?"
+   ]
+  },
+  {
+   "query": "weather in london april-june",
+   "answer": "No Answer Present.",
+   "gold": [
+    "8126aec264065669"
+   ],
+   "paraphrases": [
+    "Can you describe the prevailing weather conditions in London from April to June?",
+    "How would you characterize the climate in London during the period of spring, specifically from April to June?"
+   ]
+  },
+  {
+   "query": "what county is purdon tx in]",
+   "answer": "Purdon is located in Navarro County, Texas.",
+   "gold": [
+    "6505f114d5309bda"
+   ],
+   "paraphrases": [
+    "What jurisdiction does Purdon, TX belong to?",
+    "Purdon, Texas - which county does it call home?"
+   ]
+  },
+  {
+   "query": "what can i do to improve my kidneys",
+   "answer": "Keep blood glucose numbers close to your goal, reduce your overall protein intake from meats and other animal foods, monitor your sodium intake.",
+   "gold": [
+    "2d15c5d35849146e",
+    "e1d0e141ad7ec941"
+   ],
+   "paraphrases": [
+    "What steps can I take to enhance kidney function?"
+   ]
+  },
+  {
+   "query": "what county is rome city indiana in",
+   "answer": "Rome City is in Rome City, Indiana.",
+   "gold": [
+    "6e32e0f432e03586"
+   ],
+   "paraphrases": [
+    "What is the name of the county where Rome City, Indiana is located?",
+    "Is Rome City, Indiana situated within a particular county boundary?",
+    "Which county does Rome City, Indiana fall under?"
+   ]
+  },
+  {
+   "query": "average pay for painters in florida",
+   "answer": "No Answer Present.",
+   "gold": [
+    "90539b0dae44a642"
+   ],
+   "paraphrases": [
+    "What is the typical compensation package for painters working in Florida?",
+    "In Florida, what is the standard wage range for professional painters?"
+   ]
+  },
+  {
+   "query": "how many oz can a letter be for a first class stamp",
+   "answer": "No Answer Present.",
+   "gold": [
+    "24aa4f4816f56230"
+   ],
+   "paraphrases": [
+    "At what weight, measured in ounces, will a letter still be accepted as a first-class stamp?"
+   ]
+  },
+  {
+   "query": "dmitri noonan",
+   "answer": "No Answer Present.",
+   "gold": [
+    "8bcacada8070eb54"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what county is bismarck il",
+   "answer": "Bismarck is in Vermilion County, Illinois.",
+   "gold": [
+    "3b9162e914f8cd2c"
+   ],
+   "paraphrases": [
+    "What is the name of the county where Bismarck, Illinois is located?",
+    "The county in which Bismarck, Illinois can be found is what?",
+    "In which county does the city of Bismarck, Illinois reside?"
+   ]
+  },
+  {
+   "query": "what are some causes of child obesity quizlet growth and development",
+   "answer": "Children become overweight and obese for a variety of reasons. The most common causes are genetic factors, lack of physical activity, unhealthy eating patterns, or a combination of these factors. Only in rare cases is being overweight caused by a medical condition such as a hormonal problem.",
+   "gold": [
+    "457104d24756c147"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "weather in santo domingo in feb",
+   "answer": "The mean temperature average in February in Santo Domingo is 26\u00b0C.",
+   "gold": [
+    "80ab91880e510316"
+   ],
+   "paraphrases": [
+    "Weather conditions in Santo Domingo for the month of February - can you tell me more about that?"
+   ]
+  },
+  {
+   "query": "synonyms of ignorant",
+   "answer": "The synonyms of ignorant are benighted, blind to, inexperienced, innocent, in the dark about, oblivious, unaware, unconscious, unenlightened, uninformed, uninitiated, unknowing, unschooled, unwitting, as green as grass, green, illiterate, naive, unaware, uncultivated, uneducated, unknowledgeable, unlearned, unlettered, unread, untaught, untrained, untutored, wet behind the ears.",
+   "gold": [
+    "03dd11418a65872c"
+   ],
+   "paraphrases": [
+    "What are some words that mean the same as \"ignorant\"?",
+    "Words equivalent to \"ignorant\" include which ones?"
+   ]
+  },
+  {
+   "query": "what are the functions of secondary memory",
+   "answer": "The function of secondary storage is the long-term retention of data in a computer system.",
+   "gold": [
+    "1c9168de1227408f"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "trey anastasio net worth",
+   "answer": "Trey Anastasio Net Worth is $75 Million.",
+   "gold": [
+    "94163ffea6d9638c"
+   ],
+   "paraphrases": [
+    "What is Trey Anastasio's approximate financial value?"
+   ]
+  },
+  {
+   "query": "what are the three layers of hierarchical network design?",
+   "answer": "Access, distribution, and core are the three layers of hierarchical network design.",
+   "gold": [
+    "ab30d708e379e9f6"
+   ],
+   "paraphrases": [
+    "The three fundamental tiers that make up a hierarchical network framework are what?"
+   ]
+  },
+  {
+   "query": "why do u joints go bad",
+   "answer": "No Answer Present.",
+   "gold": [
+    "80119d22384bb24d"
+   ],
+   "paraphrases": [
+    "What causes u-joints to deteriorate?",
+    "How do u-joints typically fail or degrade over time?",
+    "What are the reasons behind the common occurrence of u-joint failure?"
+   ]
+  },
+  {
+   "query": "weather in vacaville, california fahrenheit",
+   "answer": "The weather in Vacaville, California the warmest month of the year is July with an average maximum temperature of 95.80 degrees Fahrenheit.",
+   "gold": [
+    "1c4584090494e690"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "adverse effects of albuterol quizlet",
+   "answer": "The side effects of albuterol includes back pain, body aches, headache, dizziness, feeling nervous, nausea, diarrhea, upset stomach, sore throat, sinus pain, and stuffy runny nose.",
+   "gold": [
+    "13b25deb39275317"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "hoda kotb instagram",
+   "answer": "No Answer Present.",
+   "gold": [
+    "78a0e52b611e0cd7"
+   ],
+   "paraphrases": [
+    "Can you find Hoda Kotb on Instagram?"
+   ]
+  },
+  {
+   "query": "calories in outback fried shrimp",
+   "answer": "No Answer Present.",
+   "gold": [
+    "f4f2d5d8542ccb0c"
+   ],
+   "paraphrases": [
+    "Caloric count of Outback's fried shrimp available?",
+    "What is the calorie content of Outback's fried shrimp dish?"
+   ]
+  },
+  {
+   "query": "does silvadene contain silver",
+   "answer": "No Answer Present.",
+   "gold": [
+    "85ee608895419bab"
+   ],
+   "paraphrases": [
+    "Is silver a component of the medication known as Silvadene?"
+   ]
+  },
+  {
+   "query": "what causes tendinopathy",
+   "answer": "No Answer Present.",
+   "gold": [
+    "27c969c8c5e9ce21"
+   ],
+   "paraphrases": [
+    "What triggers the development of tendinopathy?",
+    "What are the underlying factors that lead to the onset of tendinopathy?"
+   ]
+  },
+  {
+   "query": "what do colors mean in gatsby",
+   "answer": "No Answer Present.",
+   "gold": [
+    "dad0ebb3fc87ef0e"
+   ],
+   "paraphrases": [
+    "What significance do colors hold within the context of F. Scott Fitzgerald's novel Gatsby?",
+    "Colors in Gatsby possess what symbolism or implications for the narrative and characters?",
+    "In the novel Gatsby, what connotations or allusions are associated with various colors?"
+   ]
+  },
+  {
+   "query": "2015 federal tax refund schedule",
+   "answer": "No Answer Present.",
+   "gold": [
+    "0636d4f8350b499a"
+   ],
+   "paraphrases": [
+    "What are the payment dates for the 2015 federal tax refunds?",
+    "Can you provide a list of the scheduled payment dates for federal tax refunds issued in 2015?"
+   ]
+  },
+  {
+   "query": "what did lord dunmore offer",
+   "answer": "Lord Dunmore offered freedom to slaves who abandoned their Patriot masters to join the British.",
+   "gold": [
+    "cd844af17a1c426d"
+   ],
+   "paraphrases": [
+    "What was the proposal that Lord Dunmore made?",
+    "Lord Dunmore's offer pertained to which issue?"
+   ]
+  },
+  {
+   "query": "what causes oil leakage in a car",
+   "answer": "No Answer Present.",
+   "gold": [
+    "704301ed2deaf123"
+   ],
+   "paraphrases": [
+    "What is the primary reason for an oil leak to occur in a vehicle?",
+    "What tends to cause oil seepage from a motor vehicle?"
+   ]
+  },
+  {
+   "query": "weather in new london nh",
+   "answer": "The highest monthly average temperature in New London for July is 69 degrees. The lowest monthly average temperature in New London for January is 21 degrees.",
+   "gold": [
+    "c39fee0026714712"
+   ],
+   "paraphrases": [
+    "Can you provide me with an update on the weather conditions in New London, NH today?"
+   ]
+  },
+  {
+   "query": "what causes women to be hot",
+   "answer": "Carcinoid and pheochromocytoma can all cause hot flashes.",
+   "gold": [
+    "7bb12fabb5f8e3dd"
+   ],
+   "paraphrases": [
+    "What triggers sweating in females?",
+    "What physiological mechanism leads women to feel overheated?"
+   ]
+  },
+  {
+   "query": "what are insurance requirements for florida drivers",
+   "answer": "In the state of Florida, drivers are required to carry a minimum amount of car insurance in order to drive legally. The minimum coverage in the state is: $10,000 Personal Injury Protection (PIP) $10,000 Property Damage Liability (PDL) It\u2019s important to note that these are the mandatory minimums, but it\u2019s usually smart to opt for more insurance than this.",
+   "gold": [
+    "d9d78e17172a821c"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what are the best steaks from a deer",
+   "answer": "The best deer steaks are the backstrap and tenderloin.",
+   "gold": [
+    "4d15df70e4f89a99"
+   ],
+   "paraphrases": [
+    "What types of steak can be obtained from a deer that are considered to be of high quality?",
+    "What are the top-rated cuts of steak that come from a deer's meat?"
+   ]
+  },
+  {
+   "query": "what county is ridgway pa in",
+   "answer": "Ridgway is in Elk County, Pennsylvania, United States.",
+   "gold": [
+    "bec5e0f8923e2a46"
+   ],
+   "paraphrases": [
+    "What is the name of the county where Ridgway, PA is located?",
+    "Is Ridgway, PA situated within a specific county?",
+    "In which county can you find Ridgway, Pennsylvania?"
+   ]
+  },
+  {
+   "query": "has jeopardy been cancelled",
+   "answer": "Yes, jeopardy of has been cancelled.",
+   "gold": [
+    "bdd262136533d67f",
+    "1203bc452ccd1c74"
+   ],
+   "paraphrases": [
+    "Is it true that Jeopardy has been discontinued?",
+    "Has there been an announcement about the end of Jeopardy?"
+   ]
+  },
+  {
+   "query": "what college did marcus allen attend?",
+   "answer": "No Answer Present.",
+   "gold": [
+    "0ac5d463cd8de7ca"
+   ],
+   "paraphrases": [
+    "What university did Marcus Allen enroll at?",
+    "Marcus Allen's alma mater was which institution of higher learning?",
+    "At what educational institution did Marcus Allen pursue his post-secondary education?"
+   ]
+  },
+  {
+   "query": "vascular dementia symptoms associated with agent orange",
+   "answer": "Confusion is a symptom associated with agent orange.",
+   "gold": [
+    "80293d409e8cb915"
+   ],
+   "paraphrases": [
+    "What are some potential signs of vascular dementia that may be linked to exposure to Agent Orange?",
+    "Can a person experiencing symptoms such as [insert symptoms] potentially attribute them to long-term effects from exposure to the chemical compound known as Agent Orange, which is often associated with vascular dementia?"
+   ]
+  },
+  {
+   "query": "tuition for university of kentucky",
+   "answer": "University of Kentucky tuition is $10,173 per year for in-state residents.",
+   "gold": [
+    "1588e117c8c58ebf"
+   ],
+   "paraphrases": [
+    "What are the costs for attending the University of Kentucky in terms of tuition?",
+    "How much does it cost to study at the University of Kentucky in terms of tuition fees?",
+    "Can you tell me what the tuition rate is for the University of Kentucky?"
+   ]
+  },
+  {
+   "query": "what do fraccionamiento means",
+   "answer": "Fraccionamiento is a kind of neighbourhood; Usage notes.",
+   "gold": [
+    "8137d27ebbbe9ae7"
+   ],
+   "paraphrases": [
+    "In what sense is \"fraccionamiento\" defined, and what does it convey?"
+   ]
+  },
+  {
+   "query": "what causes a person to bleed easily",
+   "answer": "Causes of easy bleeding are when small blood vessels or capillaries under the skin break,tative platelet disorders.",
+   "gold": [
+    "e87a3a5745fa24ed",
+    "3c705d4c9d3c319a"
+   ],
+   "paraphrases": [
+    "What factors contribute to a person's propensity to experience excessive bleeding?",
+    "A person's tendency to bleed excessively is caused by which circumstances?",
+    "What underlying conditions lead to easy bleeding in an individual?"
+   ]
+  },
+  {
+   "query": "weather in panama city florida in april",
+   "answer": "The average maximum daytime temperature in Panama City, Florida in April is a warm 25 degrees Celsius or 77 degrees Fahrenheit with low heat & humidity. The average night-time temperature is usually a comfortable 14 degrees Celsius or degrees Fahrenheit.",
+   "gold": [
+    "51bddb06ffa1a5cd",
+    "a02aade4cf5c2617"
+   ],
+   "paraphrases": [
+    "Can you tell me what the climate is like in Panama City, Florida for the month of April?",
+    "How would you describe the weather conditions in Panama City, Florida in late spring (April)?"
+   ]
+  },
+  {
+   "query": "water melts at what temperature in kelvin",
+   "answer": "The melting point of water is 273.15 degrees Kelvin.",
+   "gold": [
+    "511288fc907b2d9f"
+   ],
+   "paraphrases": [
+    "The melting point of water is what value in Kelvin?",
+    "What is the temperature in Kelvin that water undergoes a phase change from solid to liquid?"
+   ]
+  },
+  {
+   "query": "what county is collierville tennessee in?",
+   "answer": "Collierville is in Shelby County, Tennessee.",
+   "gold": [
+    "c4b738e1ad274c00"
+   ],
+   "paraphrases": [
+    "What is the name of the county where Collierville, Tennessee is located?",
+    "In which county can you find Collierville, Tennessee?",
+    "Collierville, Tennessee is situated in which county?"
+   ]
+  },
+  {
+   "query": "causes of kidney and liver failure",
+   "answer": "No Answer Present.",
+   "gold": [
+    "35c2e1e7683a34a8"
+   ],
+   "paraphrases": [
+    "Which conditions are known to cause a dual decline in renal and hepatic function?"
+   ]
+  },
+  {
+   "query": "what are the tax benefits of a heloc",
+   "answer": "Tax benefits with a HELOC can help homeowners who plan properly. A home equity line-of-credit can be a wonderful, low-cost option to generate cash for home improvements or other necessities.",
+   "gold": [
+    "dabeb15a3f18f92d"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what causes decreasing angular velocity",
+   "answer": "The mass causes the pulley's angular velocity to decrease.",
+   "gold": [
+    "20c8d1d3aaf3b0a6"
+   ],
+   "paraphrases": [
+    "What leads to a reduction in an object's rotational speed?",
+    "The factor that results in a decline of an object's angular velocity is what?",
+    "What contributes to a decrease in the rate at which an object rotates?"
+   ]
+  },
+  {
+   "query": "what causes miscarriage iui",
+   "answer": "No Answer Present.",
+   "gold": [
+    "022f6919570d3ea3"
+   ],
+   "paraphrases": [
+    "What triggers miscarriage in patients who undergo IUI, a type of assisted reproductive technology (ART)?"
+   ]
+  },
+  {
+   "query": "tropical rainforests can be found in where",
+   "answer": "Smaller tropical rain forests are located in Madagascar, Central America, Australia and the Pacific islands.",
+   "gold": [
+    "0250496f23ea8903"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "what causes incontinence after knee replacement surgery",
+   "answer": "No Answer Present.",
+   "gold": [
+    "df1126a8deee5d10"
+   ],
+   "paraphrases": [
+    "What are the underlying factors that lead to urinary incontinence following knee replacement surgery?",
+    "Incontinence after knee replacement surgery can be attributed to which specific factors?",
+    "What are some of the primary reasons why patients experience incontinence after undergoing knee replacement surgery?"
+   ]
+  },
+  {
+   "query": "temperature in thousand oaks ca",
+   "answer": "The average temperature of Thousand Oaks is 61.92\u00b0F.",
+   "gold": [
+    "b35dc385c31b54fe"
+   ],
+   "paraphrases": [
+    "Current weather conditions in Thousand Oaks, California?",
+    "Can you tell me what the temperature is in Thousand Oaks, California right now?"
+   ]
+  },
+  {
+   "query": "does the cdc recommend celsius reading or fahrenheit",
+   "answer": "The cdc recommend Fahrenheit reading.",
+   "gold": [
+    "c6a10f14b4daa94e"
+   ],
+   "paraphrases": [
+    "The CDC recommends which temperature unit - Celsius or Fahrenheit?",
+    "Is Celsius or Fahrenheit the preferred temperature measurement advised by the Centers for Disease Control and Prevention?"
+   ]
+  },
+  {
+   "query": "was the first african american to be appointed to the u.s. supreme court.",
+   "answer": "President Lydon B. Johnson appoint Thurgood Marshall to be the first African-American US Supreme Court justice in 1967.",
+   "gold": [
+    "f9100be2152887dc"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "different types of roofing for campers & tiny houses",
+   "answer": "No Answer Present.",
+   "gold": [
+    "d3f28bdf3944ce12"
+   ],
+   "paraphrases": [
+    "What are the various kinds of roofing systems suitable for mobile homes and tiny residences?",
+    "What types of roofing materials are commonly used in camper van conversions and miniature housing projects?"
+   ]
+  },
+  {
+   "query": "dollar tree net worth",
+   "answer": "No Answer Present.",
+   "gold": [
+    "e93905dbd429c2b2"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "why did rachel carson write an obligation to endure",
+   "answer": "Rachel Carson writes The Obligation to Endure because believes that as man tries to eliminate unwanted insects and weeds, however he is actually causing more problems by polluting the environment.",
+   "gold": [
+    "56772552fa24fcda",
+    "33e15ad7598c4a07"
+   ],
+   "paraphrases": [
+    "What inspired Rachel Carson to pen \"An Obligation to Endure\"?",
+    "Rachel Carson's motivation for writing \"An Obligation to Endure\" was what?",
+    "The impetus behind Rachel Carson's book \"An Obligation to Endure\" was what?"
+   ]
+  },
+  {
+   "query": "what bank is starbucks reward visa?",
+   "answer": "Starbucks is partnering with Chase bank for reward Visa.",
+   "gold": [
+    "702688001acdcb38"
+   ],
+   "paraphrases": [
+    "What financial institution issues the Starbucks Rewards Visa card?",
+    "Starbucks Reward Visa - which bank does it come from?"
+   ]
+  },
+  {
+   "query": "what conflict broke out after independence in nigeria",
+   "answer": "No Answer Present.",
+   "gold": [
+    "510bedd4d7bf55ca"
+   ],
+   "paraphrases": [
+    "What major dispute emerged in Nigeria following its attainment of self-government?",
+    "Which significant confrontation arose in Nigeria subsequent to the country's declaration of independence?"
+   ]
+  },
+  {
+   "query": "asp net how to include empty folder in publish",
+   "answer": "No Answer Present.",
+   "gold": [
+    "17686cbd6234685a"
+   ],
+   "paraphrases": [
+    "How can I ensure that an empty folder is included in my ASP.NET project's published files?",
+    "Is there a way to include an empty folder in the publication process for an ASP.NET project?",
+    "In what ways can I configure my ASP.NET project to include an empty folder when publishing?"
+   ]
+  },
+  {
+   "query": "what are the special senses of the sensory system",
+   "answer": "No Answer Present.",
+   "gold": [
+    "a70f05e064226d76"
+   ],
+   "paraphrases": [
+    "What are the specific types of sensations that the sensory system is responsible for processing?",
+    "The sensory system's primary functions include which types of sensing?"
+   ]
+  },
+  {
+   "query": "what channels carry atlanta braves baseball games",
+   "answer": "No Answer Present.",
+   "gold": [
+    "f66d7fce8c6bd537"
+   ],
+   "paraphrases": [
+    "What television networks broadcast Atlanta Braves baseball games?",
+    "Which stations transmit Atlanta Braves baseball game broadcasts?",
+    "Can I watch Atlanta Braves baseball games on specific TV channels?"
+   ]
+  },
+  {
+   "query": "what do a fish do if its to warm",
+   "answer": "No Answer Present.",
+   "gold": [
+    "89d30983221a9617"
+   ],
+   "paraphrases": [
+    "What happens when the water temperature gets too high for a fish?",
+    "How does a fish respond to excessive heat in its aquatic environment?",
+    "If the water becomes uncomfortably warm for a fish, what action does it take?"
+   ]
+  },
+  {
+   "query": "egg price in india",
+   "answer": "The price of eggs in India is Rs 7 to 7.50.",
+   "gold": [
+    "c8bd92dbbed90d28"
+   ],
+   "paraphrases": [
+    "What is the cost of eggs in India?"
+   ]
+  },
+  {
+   "query": "waterman means",
+   "answer": "Waterman is a kind of worker a person who works at a specific occupation.",
+   "gold": [
+    "ddad40a71ae7e764"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "cast of interrupted melody",
+   "answer": "The casts of Interrupted Melody are Glenn Ford, Eleanor Parker, Roger Moore and Cecil Kellaway.",
+   "gold": [
+    "d17563e1205f35e8"
+   ],
+   "paraphrases": [
+    "What is the pattern of melodic notes that are not continuous?",
+    "The sequence of musical notes that do not form a smooth flow?",
+    "The type of melodic pattern where there are gaps between the pitches?"
+   ]
+  },
+  {
+   "query": "what did the treaty of versailles lead to",
+   "answer": "The Treaty of Versailles led to the start of World War II.",
+   "gold": [
+    "55d30defae25cc29"
+   ],
+   "paraphrases": [
+    "What were the consequences of the Treaty of Versailles?"
+   ]
+  },
+  {
+   "query": "weather in sweden for may",
+   "answer": "The temperature in Sweden in May is 15\u00b0C max day.",
+   "gold": [
+    "1b1b88b8e9dd340a"
+   ],
+   "paraphrases": [
+    "What is the typical climate like in Sweden during the month of May?"
+   ]
+  },
+  {
+   "query": "what branch of government the office of the prosecutor is in",
+   "answer": "A prosecutor is a member of the executive branch of the governmennt.",
+   "gold": [
+    "9e9e8993b0424f2e"
+   ],
+   "paraphrases": [
+    "What part of the government does the Office of the Prosecutor fall under?",
+    "Which branch of the government is responsible for the Office of the Prosecutor?",
+    "In which branch of government can the Office of the Prosecutor be found?"
+   ]
+  },
+  {
+   "query": "what county is ridgway, pa",
+   "answer": "Ridgway is in Elk County, Pennsylvania.",
+   "gold": [
+    "200444f4a18d4893"
+   ],
+   "paraphrases": [
+    "What is the name of the county where Ridgway, PA is located?",
+    "What county does Ridgway, Pennsylvania call home?"
+   ]
+  },
+  {
+   "query": "weather in miamisburg ohio",
+   "answer": "A fast moving storm will tap into fresh cold air and put down accumulating snow from parts of Ohio and northern West Virginia to Massachusetts during the middle of the weekend.",
+   "gold": [
+    "d213e7b04ff06ba0"
+   ],
+   "paraphrases": [
+    "What's the weather like right now in Miamisburg, OH?",
+    "Can you tell me what the weather conditions are in Miami Twp., Ohio?"
+   ]
+  },
+  {
+   "query": "what county in tn manchester",
+   "answer": "Manchester is located in Coffee County, TN.",
+   "gold": [
+    "73a7303f2a0628cc"
+   ],
+   "paraphrases": [
+    "What is the name of the county in Tennessee where Manchester is located?"
+   ]
+  },
+  {
+   "query": "what are the signs of kidney failure in dogs with dm?",
+   "answer": "The signs of kidney failure in dogs with dm are depression, lethargy, lack of appetite, vomiting, diarrhea, constipation and weight loss.",
+   "gold": [
+    "71f7cb093801580c"
+   ],
+   "paraphrases": [
+    "In dogs suffering from DM, what clinical manifestations signal the onset of kidney failure?"
+   ]
+  },
+  {
+   "query": "does geothermal heating exist?",
+   "answer": "Yes, geothermal heating exists.",
+   "gold": [
+    "b262b2fe1fb6b75c"
+   ],
+   "paraphrases": [
+    "Can you confirm the existence of geothermal-based heating systems?"
+   ]
+  },
+  {
+   "query": "what can make me tired and exhausted all the time and dizzy headaches",
+   "answer": "No Answer Present.",
+   "gold": [
+    "8dd9b6bb30abf226"
+   ],
+   "paraphrases": [
+    "What causes chronic fatigue and exhaustion, accompanied by frequent dizziness and headache episodes?",
+    "Which underlying conditions are known to induce perpetual lethargy, recurrent dizziness, and throbbing headaches?"
+   ]
+  },
+  {
+   "query": "what are asterisms",
+   "answer": "The Summer Triangle and Winter Hexagon are asterisms.",
+   "gold": [
+    "5503d226ec3272da"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "how to pay a minor working for parent's business",
+   "answer": "No Answer Present.",
+   "gold": [
+    "751ffd3247aaaf91"
+   ],
+   "paraphrases": [
+    "What are the payment options for a minor who is employed by their parents' business?",
+    "Can you advise on the best way to compensate a minor who is contributing to their parents' company?"
+   ]
+  },
+  {
+   "query": "victoria secret credit card phone number",
+   "answer": "The customer support phone number of Victorias Secret Credit Card is 1-800-411-5116.",
+   "gold": [
+    "db09cbb996ab40a9"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "car battery what happens at charging and discharging",
+   "answer": "No Answer Present.",
+   "gold": [
+    "a0deb20c4eb2c8c9"
+   ],
+   "paraphrases": [
+    "What occurs when a car battery is charged versus discharged?"
+   ]
+  },
+  {
+   "query": "weather in milan mid may",
+   "answer": "No Answer Present.",
+   "gold": [
+    "020f063490afc105"
+   ],
+   "paraphrases": [
+    "Weather conditions in Milan around mid-May - what can we expect?"
+   ]
+  },
+  {
+   "query": "wbtv location",
+   "answer": "WBTV is a Raycom CBS in Charlotte, North Carolina.",
+   "gold": [
+    "e29fd7105b561d7f"
+   ],
+   "paraphrases": [
+    "What is the physical address of WBTV?"
+   ]
+  },
+  {
+   "query": "waterford ct deans auto phone number",
+   "answer": "Waterford deans auto phone number is (860) 443-4219.",
+   "gold": [
+    "5bd9bf3d5b187dd9"
+   ],
+   "paraphrases": [
+    "What is the phone number of Waterford CT's Dean Auto?",
+    "Can you provide me with the phone number of Dean Auto in Waterford, Connecticut?",
+    "Is there a way to get the phone number for Dean Auto in Waterford, CT?"
+   ]
+  },
+  {
+   "query": "what are different uses for crispr?",
+   "answer": "The simplicity of the type II CRISPR nuclease, with only three required components makes this system amenable to adaptation for genome editing. This potential was realized in 2012 by the Doudna and Charpentier labs.",
+   "gold": [
+    "f6c2c5bd8b153171"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "how old do you have to be to work for the federal government",
+   "answer": "No Answer Present.",
+   "gold": [
+    "2d6118363f906368"
+   ],
+   "paraphrases": [
+    "What is the minimum age requirement for employment in the federal government?",
+    "To what age group are individuals eligible to apply for jobs with the federal government?",
+    "At what age can someone start working for the federal government?"
+   ]
+  },
+  {
+   "query": "what course do you have to take to become a vet assistant",
+   "answer": "No Answer Present.",
+   "gold": [
+    "97d99e5f1cea218c"
+   ],
+   "paraphrases": [
+    "What is the educational requirement for becoming a veterinary assistant?",
+    "How can I gain the necessary training to work as a veterinary assistant?",
+    "To pursue a career as a vet assistant, which educational path should I follow?"
+   ]
+  },
+  {
+   "query": "what are the meaning of the numbers when you take your blood pressure",
+   "answer": "Every blood pressure reading consists of two numbers or levels. They are shown as one number on top of the other. The first number is your systolic blood pressure. It is the highest level your blood pressure reaches when your heart beats. The second number is your diastolic blood pressure.",
+   "gold": [
+    "468a6750f837b05a"
+   ],
+   "paraphrases": [
+    "What do the readings on a blood pressure monitor actually signify?",
+    "Can you explain what the numerical values represent when measuring blood pressure?",
+    "In what way do the numbers that result from taking blood pressure readings provide insight?"
+   ]
+  },
+  {
+   "query": "what checks on judicial power does congress have?, quizlet",
+   "answer": "No Answer Present.",
+   "gold": [
+    "47f75352947a961d"
+   ],
+   "paraphrases": [
+    "In what ways can Congress impose limits on the Supreme Court's authority?"
+   ]
+  },
+  {
+   "query": "carmike popcorn bucket price",
+   "answer": "The Carmike popcorn bucket prices start out at $6.25.",
+   "gold": [
+    "3aba11f8126be291"
+   ],
+   "paraphrases": [
+    "What is the cost of a popcorn bucket at Carmike?",
+    "How much does it cost to buy a popcorn bucket from Carmike?",
+    "Can you tell me the price of a popcorn bucket at the Carmike cinema?"
+   ]
+  },
+  {
+   "query": "what are cuban links",
+   "answer": "The Cuban link, also called a concave curb link, is a variation of the traditional cable chain, which is the most common type of jewelry chain.",
+   "gold": [
+    "5b4392f4a7585bdd"
+   ],
+   "paraphrases": [
+    "What do people mean when they refer to \"Cuban links\"?"
+   ]
+  },
+  {
+   "query": "causes of cancer in the throat spread to lung",
+   "answer": "No Answer Present.",
+   "gold": [
+    "3e031eb215ed10d2"
+   ],
+   "paraphrases": [
+    "What are the underlying factors that contribute to the development of lung cancer after an initial diagnosis of throat cancer?"
+   ]
+  },
+  {
+   "query": "what are the three main sections of narrative writing",
+   "answer": "The three main ections of narrative writing are Setup, the Confrontation and the Resolution.",
+   "gold": [
+    "aaa4878f458264c3",
+    "6ea262396f363526"
+   ],
+   "paraphrases": []
+  },
+  {
+   "query": "calories in medium roll",
+   "answer": "There are 123 calories in 1 medium Sour Dough Roll.",
+   "gold": [
+    "bc30b9cba62bab71"
+   ],
+   "paraphrases": []
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+# Versions used for the reported experiments (Python 3.12.3, CUDA 12.8)
+numpy==2.4.1
+torch==2.9.1
+faiss-cpu==1.13.2
+sentence-transformers==5.2.0
+spacy==3.8.14
+networkx==3.6.1
+ollama==0.6.2
+requests==2.32.5
+pandas==2.3.3
+scipy==1.17.0
+scikit-learn==1.8.0
+datasets==5.0.1
+rouge-score==0.1.2
+psutil==7.2.1
+pynvml==13.0.1

@@ -1,0 +1,16 @@
+seed,dataset,policy,hit_rate,only_this,only_hmag
+1,squad_v2,HMAG,0.23055555555555557,0,0
+1,squad_v2,HMAG + admission,0.25,92,57
+1,squad_v2,Hierarchical-LFU,0.2361111111111111,66,56
+1,squad_v2,Hierarchical-LRU,0.175,45,145
+1,squad_v2,Adaptive-Flat,0.22944444444444445,16,18
+1,natural_questions,HMAG,0.285,0,0
+1,natural_questions,HMAG + admission,0.3188888888888889,110,49
+1,natural_questions,Hierarchical-LFU,0.2761111111111111,29,45
+1,natural_questions,Hierarchical-LRU,0.20666666666666667,38,179
+1,natural_questions,Adaptive-Flat,0.28055555555555556,13,21
+1,ms_marco,HMAG,0.19833333333333333,0,0
+1,ms_marco,HMAG + admission,0.2361111111111111,99,31
+1,ms_marco,Hierarchical-LFU,0.20055555555555554,17,13
+1,ms_marco,Hierarchical-LRU,0.1461111111111111,33,127
+1,ms_marco,Adaptive-Flat,0.20222222222222222,18,11
